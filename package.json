@@ -1,16 +1,14 @@
 {
   "devDependencies": {
+    "@11ty/eleventy": "^2.0.1",
     "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.0",
     "@tailwindcss/typography": "^0.5.10",
-    "eleventy": "^1.0.6",
     "npm-run-all": "^4.1.5"
   },
   "scripts": {
     "start": "npm-run-all -p dev:*",
     "build": "run-s build:*",
     "dev:11ty": "eleventy --serve",
-    "dev:css": "tailwindcss -i src/assets/css/tailwind.css -o _site/assets/css/tailwind.css --watch --postcss",
-    "build:11ty": "eleventy",
-    "build:css": "tailwindcss -i src/assets/css/tailwind.css -o _site/assets/css/tailwind.css --postcss"
+    "build:11ty": "eleventy"
   }
 }
