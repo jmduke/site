@@ -1,0 +1,43 @@
+{
+  "currentWork": [
+    {
+      "role": "Buttondown",
+      "timing": "2017 —",
+      "url": "https://buttondown.email"
+    },
+    {
+      "role": "Third South Capital",
+      "timing": "2023 —",
+      "url": "https://thirdsouth.capital"
+    }
+  ],
+  "socialMedia": [
+    {
+      "platform": "Twitter",
+      "handle": "@jmduke",
+      "url": "https://twitter.com/jmduke"
+    },
+    {
+      "platform": "GitHub",
+      "handle": "jmduke",
+      "url": "https://github.com/jmduke"
+    },
+    {
+      "platform": "Bluesky",
+      "handle": "@arcana.computer",
+      "url": "https://bsky.app/profile/arcana.computer"
+    },
+    {
+      "platform": "Mastodon",
+      "handle": "@jmduke@hachyderm.io",
+      "url": "https://hachyderm.io/@jmduke"
+    }
+  ],
+  "press": [
+    {
+      "title": "Scale",
+      "url": "https://t.co/B6yHjOzah7",
+      "date": "2023-07-05"
+    }
+  ]
+}

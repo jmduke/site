@@ -1,0 +1,16 @@
+<ul class="list-none px-0 mt-0 flex flex-col-reverse">
+  {%- for post in postList -%}
+    <li class="pl-0 flex">
+      <div class="flex-1 truncate"
+      ><a
+        href="{{ post.url }}"
+        class="font-normal text-md hover:bg-gray-200 border-b"
+      >{{ post.data.title }}</a
+        ></div
+        >
+        <div class="tabular-nums text-gray-500 whitespace-nowrap"
+        >{{ post.data.date }}</div
+          >
+        </li>
+  {%- endfor -%}
+</ul>
