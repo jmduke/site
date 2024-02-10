@@ -10,5 +10,8 @@
     "build": "run-s build:*",
     "dev:11ty": "eleventy --serve",
     "build:11ty": "eleventy"
+  },
+  "dependencies": {
+    "markdown-it-footnote": "^4.0.0"
   }
 }
