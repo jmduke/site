@@ -1,8 +1,6 @@
 ---
-layout: media.njk
 title: Bajillion Dollar Properties
 date: 2024-02-12
-tags: media
 author: Kulap Vilaysack
 image: bajillion.jpeg
 year: 2013

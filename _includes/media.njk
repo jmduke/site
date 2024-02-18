@@ -7,39 +7,46 @@
     <body class="flex flex-col min-h-screen font-['Hex_Franklin']">
         {% include 'nav.html' %}
         {% include 'subnav.html' %}
-        <div class="bg-gray-200 px-4">
+        <div class="bg-orange-600 px-4">
             <nav
-    class="max-w-prose mx-auto prose font-['Hex_Franklin'] prose-neutral py-4 flex items-center space-x-2"
+    class="max-w-prose mx-auto prose font-['Hex_Franklin'] prose-neutral pb-4 -mt-2 flex items-center space-x-4"
   >
+                <div class="text-xs text-white/80">Reviewed
+                    <div class="text-sm text-white font-semibold">{{ date | readablePostDate }}</div>
+                </div>
+
                 {% if author %}
-                    <div class="text-sm text-gray-500">Written by
-                    <div class="text-sm text-gray-500 font-semibold">{{ author }}</div>
+                    <div class="text-xs text-white/80">Written by
+                    <div class="text-sm text-white font-semibold">{{ author }}</div>
                     </div>
                 {% endif %}
                 {% if year %}
-                    <div class="text-sm text-gray-500">Published in
-                    <div class="text-sm text-gray-500 font-semibold">{{ year }}</div>
+                    <div class="text-xs text-white/80">Published in
+                    <div class="text-sm text-white font-semibold">{{ year }}</div>
+                    </div>
+                {% endif %}
+                {% if via %}
+                    <div class="text-xs text-white/80">Via
+                    <div class="text-sm text-white font-semibold">{{ via }}</div>
                     </div>
                 {% endif %}
                 <div class="flex-1"></div>
-                {%- if backlinks.length > 0 %}
-                    <div class="text-sm text-gray-500 text-right">Linked in
-                    <div>
-                            {%- for mention in backlinks %}
-                                <a href="{{ mention.url }}" class="text-sm text-gray-500 font-semibold">{{ mention.title }}</a>
-                            {%- endfor %}
-                        </div>
-                    </div>
-                {%- endif %}
             </nav>
         </div>
 
         <div class="flex-1 flex lg:px-0 flex-col-reverse lg:flex-row lg:space-x-4 lg:max-w-prose items-start mx-auto my-4">
-            <main class="px-4 md:px-0 flex-1 prose prose-neutral prose-blockquote:not-italic prose-p:text-black prose-blockquote:relative prose-blockquote:border-l-8 prose-blockquote:pb-4 prose-blockquote:pt-[1px] prose-blockquote:px-6 prose-p:text-[18px] prose-p:leading-[28px] prose-li:text-[18px] prose-blockquote:bg-gray-50 prose-li:leading-[28px] prose-h1:font-black prose-h1:text-xl prose-h1:font-['Hex_Franklin'] prose-h2:text-lg prose-img:border prose-img:border-blue-200 prose-img:mx-auto flex flex-col prose-p:my-2 prose-hr:w-[300px] prose-hr:mx-auto prose-pre:!w-fit items-center [&>*]:w-full prose-p:mt-0">
-                <div>
-                    {% if image %}<img src="/img/{{ image }}" class="w-1/3 float-right !mt-0 !ml-4 !mb-4"/>{% endif %}
+            <main class="block px-4 md:px-0 lg:w-[900px] flex-1 prose prose-neutral prose-blockquote:not-italic prose-p:text-black prose-blockquote:relative prose-blockquote:border-l-8 prose-blockquote:pb-4 prose-blockquote:pt-[1px] prose-blockquote:px-6 prose-p:text-[18px] prose-p:leading-[28px] prose-li:text-[18px] prose-blockquote:bg-gray-50 prose-li:leading-[28px] prose-h1:font-black prose-h1:text-xl prose-h1:font-['Hex_Franklin'] prose-h2:text-lg prose-img:border prose-img:border-blue-200 prose-img:mx-auto flex-col prose-p:my-2 prose-hr:w-[300px] prose-hr:mx-auto prose-pre:!w-fit items-center [&>*]:w-full prose-p:mt-0">
+                {% if image %}<img src="/img/{{ image }}" class="!w-1/3 hidden md:inline-block float-right !mt-0 md:!mt-[-178px] !ml-4 !mb-0 !border-[0.5rem] !border-solid !border-white"/>{% endif %}
+                {% if content %}
                     {{ content | safe }}
-                </div>
+                {% else %}
+                    <p>
+                    (I didn't write any notes for this piece of media. Foolish me!)
+                    </p>
+                {% endif %}
+                <p class="!text-orange-600">
+                    {{ rating | toStars }}
+                </p>
             </main>
         </div>
 
@@ -52,9 +59,20 @@
                         <blockquote class="!pt-4">{{ quote.content | safe }}</blockquote>
                     {% endfor %}
                 {% endif %}
-            </main>
-        </div>
-    </main>
+                {%- if backlinks.length > 0 %}
+                    <h2>Mentioned in</h2>
+                    <ul>
+                        {%- for mention in backlinks %}
+                            <li>
+                                <a href="{{ mention.url }}">{{ mention.title }}</a>
+                            </li>
+                        {%- endfor %}
+                    </ul>
+                </div>
+            {%- endif %}
+        </main>
+    </div>
+</main>
 </div>
 {% include 'footer.html' %}
 </div>

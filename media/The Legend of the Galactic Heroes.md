@@ -1,0 +1,9 @@
+---
+status: In progress
+type: Television
+title: "The Legend of the Galactic Heroes"
+---
+
+**Highlights**
+
+- "Julian Mintz was a performer, not a composer; he was a translator, not a writer. He himself wanted to be that way and indeed became the most proficient performer and translator. He never once hid his model; there's no reason he should be called a plagiariser. There is no great music that could impress the audience without ever being performed."

@@ -1,12 +1,9 @@
 ---
-layout: media.njk
-tags: media
 title: "Postwar"
 type: Book
-date: "2020-09-06"
+date: 2020-09-06
 rating: 7
 author: Tony Judt
-genre: ["Non-fiction"]
 year: 2006
 status: Finished
 ---
@@ -14,9 +11,9 @@ status: Finished
 Postwar is not a book so much as it is a college course on 20th century Europe. Judt makes it clear in his introduction that rather than try and propose a grand theory or specific thesis with which to plumb the six decades following World War II, he wrote the book in an exercise of gestalt:
 
 > I have no big theory of contemporary European history to propose in these pages; no one overarching theme to expound; no single, all-embracing story to tell. It does not follow from this, however, that I think the post-World War Two history of Europe has
-> no thematic shape. On the contrary: it has more than one. Fox-like, Europe knows many things.
+no thematic shape. On the contrary: it has more than one. Fox-like, Europe knows many things.
 
-As such, this book is a _tome_. You will — I did — learn a lot about the world, especially coming from a meager historical background. There were lots of revealing areas, and I am forgetting most of them:
+As such, this book is a _tome_. You will — I did — learn a lot about the world, especially coming from a meager historical background.  There were lots of revealing areas, and I am forgetting most of them:
 
 - The general richness and inner life of Eastern Europe, which I had largely marginalized and treated as same-y in the Postwar scene
 - The continued vilification of Jews and minorities in the immediate Postwar scene, with the plight of the Holocaust not being magically ended with the conquering of Berlin

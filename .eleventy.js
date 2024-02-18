@@ -17,6 +17,9 @@ module.exports = function (eleventyConfig) {
       return dateObj;
     }
   });
+  eleventyConfig.addFilter("toStars", (rating) => {
+    return "★".repeat((rating + 1) / 2);
+  });
   // END: First-party filters.
 
   eleventyConfig.addPlugin(iterlinker, {});

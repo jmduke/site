@@ -1,10 +1,9 @@
 ---
-layout: media.njk
 title: Killers of the Flower Moon
 date: "2024-02-18"
-tags: media
 author: Martin Scorsese
 image: killers.webp
+status: Finished
 year: 2023
 ---
 
