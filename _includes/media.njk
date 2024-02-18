@@ -1,76 +1,63 @@
 <!doctype html>
 <html lang="en">
     <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>{{ title }}</title>
-        {% include '_styles.html' %}
-        {% include '_analytics.html' %}
+        {% include 'head.html' %}
+        <title>{{ title }} · Applied Cartography</title>
     </head>
-    <body class="flex flex-col min-h-screen font-['Hex_Franklin']">{% include '_nav.html' %}
-
+    <body class="flex flex-col min-h-screen font-['Hex_Franklin']">
+        {% include 'nav.html' %}
+        {% include 'subnav.html' %}
         <div class="bg-gray-200 px-4">
-            <nav class="max-w-prose mx-auto prose font-['Hex_Franklin'] prose-neutral py-4">
-                <li class="pl-0 flex">
-                    <div class="flex-1">
-                        <a href="{{ url }}" class="font-bold no-underline text-lg">{{ title }}</a>
+            <nav
+    class="max-w-prose mx-auto prose font-['Hex_Franklin'] prose-neutral py-4 flex items-center space-x-2"
+  >
+                {% if author %}
+                    <div class="text-sm text-gray-500">Written by
+                    <div class="text-sm text-gray-500 font-semibold">{{ author }}</div>
                     </div>
-                    <div class="tabular-nums text-gray-500">{{ date }}</div>
-                </li>
+                {% endif %}
+                {% if year %}
+                    <div class="text-sm text-gray-500">Published in
+                    <div class="text-sm text-gray-500 font-semibold">{{ year }}</div>
+                    </div>
+                {% endif %}
+                <div class="flex-1"></div>
+                {%- if backlinks.length > 0 %}
+                    <div class="text-sm text-gray-500 text-right">Linked in
+                    <div>
+                            {%- for mention in backlinks %}
+                                <a href="{{ mention.url }}" class="text-sm text-gray-500 font-semibold">{{ mention.title }}</a>
+                            {%- endfor %}
+                        </div>
+                    </div>
+                {%- endif %}
             </nav>
         </div>
+
         <div class="flex-1 flex lg:px-0 flex-col-reverse lg:flex-row lg:space-x-4 lg:max-w-prose items-start mx-auto my-4">
-            <main class="px-4 md:px-0 flex-1 prose prose-neutral prose-p:text-black prose-blockquote:relative prose-blockquote:border-l-8 prose-blockquote:pb-4 prose-blockquote:pt-[1px] prose-blockquote:px-6 prose-p:text-[18px] prose-p:leading-[28px] prose-li:text-[18px] prose-blockquote:bg-gray-50 prose-li:leading-[28px] prose-h1:font-black prose-h1:text-xl prose-h1:font-['Hex_Franklin'] prose-h2:text-lg prose-img:border prose-img:border-blue-200 prose-img:mx-auto flex flex-col prose-p:my-2 prose-hr:w-[300px] prose-hr:mx-auto prose-pre:!w-fit items-center [&>*]:w-full prose-p:mt-0">
+            <main class="px-4 md:px-0 flex-1 prose prose-neutral prose-blockquote:not-italic prose-p:text-black prose-blockquote:relative prose-blockquote:border-l-8 prose-blockquote:pb-4 prose-blockquote:pt-[1px] prose-blockquote:px-6 prose-p:text-[18px] prose-p:leading-[28px] prose-li:text-[18px] prose-blockquote:bg-gray-50 prose-li:leading-[28px] prose-h1:font-black prose-h1:text-xl prose-h1:font-['Hex_Franklin'] prose-h2:text-lg prose-img:border prose-img:border-blue-200 prose-img:mx-auto flex flex-col prose-p:my-2 prose-hr:w-[300px] prose-hr:mx-auto prose-pre:!w-fit items-center [&>*]:w-full prose-p:mt-0">
                 <div>
+                    {% if image %}<img src="/img/{{ image }}" class="w-1/3 float-right !mt-0 !ml-4 !mb-4"/>{% endif %}
                     {{ content | safe }}
-                </main>
-                <div class="flex lg:flex-col lg:sticky top-4 lg:w-1/3 space-x-4 lg:space-x-0 mb-4 lg:mb-0 px-4 md:px-0">
-                    <img src="/img/{{ image }}" class=""/>
-                    <div class="flex-1">
-                        <p class="text-sm text-gray-500 lg:mt-4">Written by</p>
-                        <span class="text-sm text-gray-500 font-semibold">{{ author }}</span>
-                        <p class="text-sm text-gray-500 mt-2">Published in</p>
-                        <span class="text-sm text-gray-500 font-semibold">{{ year }}</span>
-                        {%- if mentions %}
-                            <p class="text-sm text-gray-500 mt-2">Linked in</p>
-                            {%- for mention in mentions %}
-                                <a href="{{ mention.url }}" class="text-sm text-gray-500 font-semibold">{{ mention.name }}</a>
-                            {%- endfor %}
-                        {%- endif %}
-                    </div>
                 </div>
-            </div>
-        </main>
-    </div>
-
-    <div class="max-w-prose mx-auto">
-        <div class="p-4 bg-gray-100 border-gray-200 border mt-12">
-            <h2 class="font-bold mb-1 flex items-center space-x-1 mt-0">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor" class="w-4 h-4">
-                    <path fill-rule="evenodd" d="M9.58 1.077a.75.75 0 0 1 .405.82L9.165 6h4.085a.75.75 0 0 1 .567 1.241l-6.5 7.5a.75.75 0 0 1-1.302-.638L6.835 10H2.75a.75.75 0 0 1-.567-1.241l6.5-7.5a.75.75 0 0 1 .897-.182Z" clip-rule="evenodd"/>
-                </svg>
-
-                <div>Subscribe to my newsletter</div>
-            </h2>
-    I publish monthly roundups of everything I've written, plus pictures of my corgi.
-    <form action="https://buttondown.email/api/emails/embed-subscribe/arcana.computer" method="post" target="popupwindow" class="flex space-x-2 mt-2 text-sm"><input type="email" name="email" placeholder="your@lovely.email" class="px-4 rounded-lg border border-solid border-gray-300 flex-1"><input class="bg-orange-600 rounded-lg text-white font-bold px-4 py-2 uppercase" type="submit" value="Subscribe!"></form>
+            </main>
         </div>
-    </div>
-    <div class="text-sm p-4 mt-8 font-['Hex_Franklin']"></div>
+
+        <div class="flex-1 flex lg:px-0 flex-col-reverse lg:flex-row lg:space-x-4 lg:max-w-prose items-start mx-auto my-4">
+            <main class="px-4 md:px-0 flex-1 prose prose-neutral prose-blockquote:not-italic prose-p:text-black prose-blockquote:relative prose-blockquote:border-l-8 prose-blockquote:pb-4 prose-blockquote:pt-[1px] prose-blockquote:px-6 prose-p:text-[18px] prose-p:leading-[28px] prose-li:text-[18px] prose-blockquote:bg-gray-50 prose-li:leading-[28px] prose-h1:font-black prose-h1:text-xl prose-h1:font-['Hex_Franklin'] prose-h2:text-lg prose-img:border prose-img:border-blue-200 prose-img:mx-auto flex flex-col prose-p:my-2 prose-hr:w-[300px] prose-hr:mx-auto prose-pre:!w-fit items-center [&>*]:w-full prose-p:mt-0 prose-blockquote:bg-yellow-50 prose-blockquote:border-l-yellow-200 prose-blockquote:pt-4">
+                {% set quotes = collections.quotes | filter("source", title) %}
+                {% if quotes.length > 0 %}
+                    <h2>Highlights</h2>
+                    {% for quote in quotes %}
+                        <blockquote class="!pt-4">{{ quote.content | safe }}</blockquote>
+                    {% endfor %}
+                {% endif %}
+            </main>
+        </div>
+    </main>
+</div>
+{% include 'footer.html' %}
 </div>
 </main>
-
-<script>
-// Footnotes: Littlefoot 'em, THEN hide with Nutshell
-littlefoot.littlefoot({activateOnHover: true, hoverDelay: 0, dismissOnUnhover: true, buttonTemplate: `
-        <button
-            aria-label="Footnote <% number %>"
-            class="littlefoot__button"
-            id="<% reference %>"
-            title="See Footnote <% number %>"
-        />
-            <% number %>
-        </button>`});
-</script>
 </body>
 </html>

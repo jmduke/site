@@ -1,0 +1,9 @@
+---
+title: "Hard Skills"
+external_url: https://anthonyhobday.com/sideprojects/hardskills/justin-duke.html
+date: "2022-12-22"
+layout: press.njk
+tags: press
+---
+
+I had a great time chatting with Anthony Hobday about Buttondown and my, ah, toxic relationship with visual design.

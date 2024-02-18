@@ -1,4 +1,4 @@
-tailwindcss:
+tailwind:
 	npx tailwindcss -i style.css -o style.out.css --watch
 
 eleventy:

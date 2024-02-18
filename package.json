@@ -12,6 +12,7 @@
     "build:11ty": "eleventy"
   },
   "dependencies": {
+    "@photogabble/eleventy-plugin-interlinker": "^1.0.5",
     "markdown-it-footnote": "^4.0.0"
   }
 }

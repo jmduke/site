@@ -7,9 +7,6 @@ rating: 9
 author: David Foster Wallace
 year: 1996
 image: infinite-jest.jpeg
-mentions:
-  - name: The New York Trilogy
-    url: /media/the-new-york-trilogy
 ---
 
 I chose this book because I simply had heard so much of it — both good and bad, mostly bad — that I had to devote some time to it. I knew it was about tennis, and I knew it had a bunch of footnotes, and I knew people were dicks about it. That's kind of it.
