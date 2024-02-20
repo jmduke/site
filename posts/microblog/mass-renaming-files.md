@@ -1,5 +1,4 @@
 ---
-layout: post.njk
 title: Mass renaming files in fish on macOS
 date: "2023-12-17"
 tags: microblog

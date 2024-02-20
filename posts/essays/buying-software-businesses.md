@@ -1,9 +1,7 @@
 ---
-layout: post.njk
 title: Scattered thoughts on buying software businesses
 date: "2024-01-17"
 description: "What we've learned, in no particular order, about buying five SaaS businesses."
-tags: post
 ---
 
 [My friends and I](https://thirdsouth.capital) bought five software businesses last year, on the thesis that:

@@ -1,5 +1,4 @@
 ---
-layout: post.njk
 title: Quotes
 tags: catalog
 date: "2023-01-19"

@@ -1,8 +1,6 @@
 ---
-layout: post.njk
 title: Spoonbill (2016—2023)
 date: "2023-06-11"
-tags: post
 ---
 
 ## The start

@@ -1,5 +1,4 @@
 ---
-layout: post.njk
 title: Project ideas
 tags: catalog
 date: "2024-02-12"

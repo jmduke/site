@@ -1,5 +1,4 @@
 ---
-layout: post.njk
 title: Postgres batch enqueuing in ten lines of Django
 date: "2023-12-15"
 tags: microblog

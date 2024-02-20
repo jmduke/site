@@ -1,5 +1,4 @@
 ---
-layout: post.njk
 title: You should use Helpscout
 date: "2024-02-18"
 tags: microblog

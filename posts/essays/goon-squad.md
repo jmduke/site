@@ -1,8 +1,6 @@
 ---
-layout: post.njk
 title: Befriending the Goon Squad
 date: "2023-07-12"
-tags: post
 ---
 
 ## TL;DR

@@ -1,8 +1,6 @@
 ---
-layout: post.njk
 title: What Elephants Taste Like
 date: "2023-10-31"
-tags: post
 ---
 
 When I wrote [Befriending the Goon Squad](https://www.applied-cartography.com/goon-squad) — an essay on the importance of patience and discipline when building a product — I received dozens of variations of the following question:

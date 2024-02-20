@@ -1,5 +1,4 @@
 ---
-layout: post.njk
 title: Great essays
 tags: catalog
 date: "2024-02-10"
@@ -26,6 +25,7 @@ date: "2024-02-10"
 - [The long, slow, SaaS ramp of death (2012)](https://businessofsoftware.org/talk/how-to-negotiate-the-long-slow-saas-ramp-of-death/)
 - [Becoming Data Driven, From First Principles (2024)](https://commoncog.com/becoming-data-driven-first-principles/)
 - [Sales Advice for Founders (2023)](https://tracy.posthaven.com/sales-advice-for-founders)
+- [Muse retrospective (2024)](https://adamwiggins.com/muse-retrospective/)
 
 ## Miscellany
 

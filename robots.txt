@@ -1,0 +1,4 @@
+Sitemap: https://www.jmduke.com/sitemap.xml
+
+User-agent: *
+Disallow:

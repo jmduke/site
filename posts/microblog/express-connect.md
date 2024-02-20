@@ -1,5 +1,4 @@
 ---
-layout: post.njk
 title: Migrating someone who's on Stripe Connect Express
 date: "2024-01-13"
 tags: microblog

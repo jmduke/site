@@ -1,5 +1,4 @@
 ---
-layout: post.njk
 title: Gosling’s Old Rum
 date: "2024-02-07"
 tags: microblog

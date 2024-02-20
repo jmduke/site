@@ -1,5 +1,4 @@
 ---
-layout: post.njk
 title: Buttondown Analytics 3.0
 date: "2024-02-11"
 tags: microblog
