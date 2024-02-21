@@ -8,9 +8,8 @@
         {% include 'nav.html' %}
         {% include 'subnav.html' %}
 
-        <div class="px-4 flex-1">
-            <main class="max-w-prose prose font-['Hex_Franklin'] prose-neutral prose-p:text-black prose-blockquote:relative prose-blockquote:border-l-8 prose-blockquote:pb-4 prose-blockquote:pt-[1px] prose-blockquote:px-6 prose-blockquote:not-italic prose-p:text-[18px] prose-p:leading-[28px] prose-li:text-[18px] prose-blockquote:bg-gray-50 prose-li:leading-[28px] mx-auto my-4 prose-h1:font-black prose-h1:text-xl prose-h1:font-['Hex_Franklin'] prose-h2:text-lg prose-img:border prose-img:border-blue-200 prose-img:mx-auto flex flex-col prose-p:my-2 prose-hr:w-[300px] prose-hr:mx-auto prose-pre:!w-fit items-center [&>*]:w-full">
-
+        <div class="px-4 py-8 flex-1">
+            <main class="max-w-prose prose prose-neutral mx-auto flex flex-col items-center [&>*]:w-full">
                 {{ content | safe }}
             </main>
         </div>
