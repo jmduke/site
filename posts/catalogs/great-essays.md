@@ -10,6 +10,7 @@ date: "2024-02-10"
 - [Pipeline-oriented programming (2019)](https://fsharpforfunandprofit.com/pipeline/)
 - [APIs as ladders (2022)](https://blog.sbensu.com/posts/apis-as-ladders/)
 - [Scaling Sidekiq at Gusto (2022)](https://engineering.gusto.com/scaling-sidekiq-at-gusto/)
+- [Heroku HTTP API Design (2015)](https://github.com/brandur/heroku-http-api-design)
 
 ## Productivity
 
