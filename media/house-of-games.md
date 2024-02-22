@@ -8,7 +8,7 @@ status: Finished
 image: house.jpg
 ---
 
-In retrospect, I shouldn't have watched this so quickly after [[The Spanish Conversation]] and
+In retrospect, I shouldn't have watched this so quickly after [[The Spanish Prisoner]] and
 [[No Sudden Move]]; I think this kind of heist/neo-noir is, as much as I love it, subject to a
 bit of diminishing returns. To that end, I found myself disappointed with this to the extent that
 the "ploy" quickly became obvious, and once you know to watch for the trick you get more interested

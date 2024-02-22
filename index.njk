@@ -136,7 +136,55 @@ I publish monthly roundups of everything I've written, plus pictures of my corgi
                                                 {% set postList = collections.press %}
                                                 {% include '_post-list.html' %}
 
-                                            </main>
-                                        </div>
-                                    </body>
-                                </html>
+                                                <h2 class="font-bold mb-1 mt-8 inline-flex items-center space-x-1">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor" class="w-4 h-4">
+                                                        <path d="M13.975 6.5c.028.276-.199.5-.475.5h-4a.5.5 0 0 1-.5-.5v-4c0-.276.225-.503.5-.475A5.002 5.002 0 0 1 13.974 6.5Z"/>
+                                                        <path d="M6.5 4.025c.276-.028.5.199.5.475v4a.5.5 0 0 0 .5.5h4c.276 0 .503.225.475.5a5 5 0 1 1-5.474-5.475Z"/>
+                                                    </svg>
+                                                    <div>Stats<div></h2>
+
+                                                        <li class="pl-0 flex">
+                                                            <div class="flex-1">
+                                                                Words written
+                                                            </div>
+                                                            <div class="tabular-nums text-gray-500">{{ collections.statistics.totalWords }}</div>
+                                                        </li>
+
+                                                        <li class="pl-0 flex">
+                                                            <div class="flex-1">
+                                                                Essays published
+                                                            </div>
+                                                            <div class="tabular-nums text-gray-500">{{ collections.statistics.totalPosts }}</div>
+                                                        </li>
+
+                                                        <li class="pl-0 flex">
+                                                            <div class="flex-1">
+                                                                Books reviewed
+                                                            </div>
+                                                            <div class="tabular-nums text-gray-500">{{ collections.statistics.mediaTypeToCount.Book }}</div>
+                                                        </li>
+
+                                                        <li class="pl-0 flex">
+                                                            <div class="flex-1">
+                                                                Games reviewed
+                                                            </div>
+                                                            <div class="tabular-nums text-gray-500">{{ collections.statistics.mediaTypeToCount.Game }}</div>
+                                                        </li>
+
+                                                        <li class="pl-0 flex">
+                                                            <div class="flex-1">
+                                                                Movies reviewed
+                                                            </div>
+                                                            <div class="tabular-nums text-gray-500">{{ collections.statistics.mediaTypeToCount.Movie }}</div>
+                                                        </li>
+
+                                                        <li class="pl-0 flex">
+                                                            <div class="flex-1">
+                                                                Television shows reviewed
+                                                            </div>
+                                                            <div class="tabular-nums text-gray-500">{{ collections.statistics.mediaTypeToCount.Television }}</div>
+                                                        </li>
+                                                    </main>
+                                                </div>
+                                            </body>
+                                        </html>

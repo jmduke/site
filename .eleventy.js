@@ -5,6 +5,12 @@ const iterlinker = require("@photogabble/eleventy-plugin-interlinker");
 
 const STATIC_FILES = ["img", "scripts", "favicon.ico", "styles"];
 
+function getWordCount(inputPath) {
+  const content = require("fs").readFileSync(inputPath, "utf8");
+  const words = content.split(/\s+/).length;
+  return words;
+}
+
 module.exports = function (eleventyConfig) {
   // BEGIN: First-party filters.
   eleventyConfig.addFilter("filter", (arr, key, value) => {
@@ -19,6 +25,37 @@ module.exports = function (eleventyConfig) {
   });
   eleventyConfig.addFilter("toStars", (rating) => {
     return "★".repeat((rating + 1) / 2);
+  });
+  eleventyConfig.addCollection("statistics", (collectionAPI) => {
+    const relevantTags = ["post", "microblog"];
+    const posts = relevantTags.flatMap((tag) =>
+      collectionAPI.getFilteredByTag(tag)
+    );
+    const totalPosts = posts.length;
+
+    const media = collectionAPI.getFilteredByTag("media").filter((item) => {
+      return item.data.status === "Finished";
+    });
+    const mediaTypeToCount = media.reduce((acc, item) => {
+      const type = item.data.type;
+      if (acc[type]) {
+        acc[type]++;
+      } else {
+        acc[type] = 1;
+      }
+      return acc;
+    }, {});
+
+    const totalWords = [...posts, ...media].reduce(
+      (acc, post) => acc + getWordCount(post.page.inputPath),
+      0
+    );
+
+    return {
+      totalPosts,
+      totalWords,
+      mediaTypeToCount,
+    };
   });
   // END: First-party filters.
 
