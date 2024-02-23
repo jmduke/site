@@ -16,6 +16,9 @@ devDependencies:
   '@11ty/eleventy':
     specifier: ^2.0.1
     version: 2.0.1
+  '@11ty/eleventy-plugin-rss':
+    specifier: ^1.2.0
+    version: 1.2.0
   '@11ty/eleventy-plugin-syntaxhighlight':
     specifier: ^5.0.0
     version: 5.0.0
@@ -51,6 +54,16 @@ packages:
       - bufferutil
       - supports-color
       - utf-8-validate
+
+  /@11ty/eleventy-plugin-rss@1.2.0:
+    resolution: {integrity: sha512-YzFnSH/5pObcFnqZ2sAQ782WmpOZHj1+xB9ydY/0j7BZ2jUNahn53VmwCB/sBRwXA/Fbwwj90q1MLo01Ru0UaQ==}
+    dependencies:
+      debug: 4.3.4
+      posthtml: 0.16.6
+      posthtml-urls: 1.0.0
+    transitivePeerDependencies:
+      - supports-color
+    dev: true
 
   /@11ty/eleventy-plugin-syntaxhighlight@5.0.0:
     resolution: {integrity: sha512-y9BUmP1GofmbJgxM1+ky/UpFCpD8JSOeLeKItUs0WApgnrHk9haHziW7lS86lbArX5SiCVo4zTTw9x53gvRCaA==}

@@ -2,6 +2,7 @@ const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const markdownIt = require("markdown-it");
 const markdownItFootnote = require("markdown-it-footnote");
 const iterlinker = require("@photogabble/eleventy-plugin-interlinker");
+const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 const STATIC_FILES = ["img", "scripts", "favicon.ico", "styles"];
 
@@ -68,6 +69,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy(file);
   });
   eleventyConfig.addPlugin(syntaxHighlight);
+  eleventyConfig.addPlugin(pluginRss);
 
   let options = {
     html: true, // Enable HTML tags in source
