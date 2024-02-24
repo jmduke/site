@@ -3,6 +3,7 @@ title: "The Other Guys"
 type: Movie
 rating: 7
 year: 2010
+date: 2023-10-01
 status: Finished
 ---
 

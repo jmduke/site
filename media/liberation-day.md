@@ -7,6 +7,7 @@ status: Finished
 author: George Saunders
 image: liberation-day.jpeg
 rating: 7
+date: 2023-03-16
 ---
 
 I think he is correctly diagnosed as schmaltzy and precious but at his best, there is nobody who writes towards my philosophy of love and purpose quite like George Saunders.

@@ -22,3 +22,18 @@ img + em {
 svg {
   color: rgb(234 88 12);
 }
+
+details > summary {
+  list-style: none;
+}
+summary::-webkit-details-marker {
+  display: none;
+}
+
+summary::after {
+  content: "  ►";
+  font-size: 12px;
+}
+details[open] summary:after {
+  content: " ▼";
+}

@@ -1262,6 +1262,10 @@ video {
   margin-bottom: auto;
 }
 
+.mr-2 {
+  margin-right: 0.5rem;
+}
+
 .mt-0 {
   margin-top: 0px;
 }
@@ -2109,6 +2113,28 @@ img + em {
 
 svg {
   color: rgb(234 88 12);
+}
+
+details > summary {
+  list-style: none;
+}
+
+summary::-webkit-details-marker {
+  display: none;
+}
+
+summary::after {
+  content: "  ►";
+  font-size: 12px;
+}
+
+details[open] summary:after {
+  content: " ▼";
+}
+
+.hover\:bg-gray-100:hover {
+  --tw-bg-opacity: 1;
+  background-color: rgb(243 244 246 / var(--tw-bg-opacity));
 }
 
 .hover\:bg-gray-200:hover {

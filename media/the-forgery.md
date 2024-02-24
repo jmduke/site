@@ -7,6 +7,7 @@ status: Finished
 author: Ave Berrara
 image: the-forgery.jpeg
 rating: 8
+date: 2023-03-15
 ---
 
 I picked this up on a lark at Eliot Bay visiting in early 2023; I am a sucker for short-run translations

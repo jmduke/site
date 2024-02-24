@@ -6,7 +6,7 @@ author: Eliot Brown, Maureen Farrell
 genre: ["Business"]
 year: 2021
 status: Finished
-daate: 2022-09-03
+date: 2022-09-03
 ---
 
 I think there are two genres of this kind of retrospective expose on a company’s rise and downfall.
