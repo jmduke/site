@@ -3,7 +3,8 @@ title: "Time Skiffs"
 type: Album
 rating: 6
 author: Animal Collective
-genre: ['Experimental']
+genre: ["Experimental"]
+date: 2023-01-01
 year: 2022
 status: Finished
 ---

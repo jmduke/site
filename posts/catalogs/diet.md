@@ -17,6 +17,20 @@ data:
       - Mr. and Mrs. Smith
       - Berlin Game
       - Frieren
+  - date: 2024-02-24
+    content:
+      - Berlin Game
+      - Taskmaster
+      - Balatro
+      - The E-Myth Revisited
+      - The Club Dumas
+      - Crystal Project
+      - Delicious in Dungeon
+  - date: 2024-02-25
+      - The E-Myth Revisited
+      - Crystal Project
+      - Taskmaster
+      - Attack on Titan (Season 4)
 ---
 
 <style>

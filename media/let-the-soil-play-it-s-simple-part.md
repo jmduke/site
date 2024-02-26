@@ -4,6 +4,5 @@ type: Album
 author: Caroline Shaw
 year: 2021
 status: Finished
+date: 2022-01-01
 ---
-
-

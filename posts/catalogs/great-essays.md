@@ -11,11 +11,18 @@ date: "2024-02-10"
 - [APIs as ladders (2022)](https://blog.sbensu.com/posts/apis-as-ladders/)
 - [Scaling Sidekiq at Gusto (2022)](https://engineering.gusto.com/scaling-sidekiq-at-gusto/)
 - [Heroku HTTP API Design (2015)](https://github.com/brandur/heroku-http-api-design)
+- [How Complex Systems Fail (1998)](https://how.complexsystems.fail/)
 
 ## Productivity
 
 - [Work on what matters (2020)](https://lethain.com/work-on-what-matters/)
 - [When everything is important but nothing is getting done (2020)](https://sharedphysics.com/everything-is-important/)
+- [Agile as trauma (2018)](https://doriantaylor.com/agile-as-trauma)
+- [Coordination Headwind (2020)](https://komoroske.com/slime-mold/)
+
+## Design
+
+- [The Princess Rescuing Application (2008)](https://lostgarden.home.blog/2008/10/27/the-princess-rescuing-application-slides/)
 
 ## The Internet
 

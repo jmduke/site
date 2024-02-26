@@ -5,6 +5,5 @@ rating: 10
 author: John Steinbeck
 year: 1952
 status: Finished
+date: 2012-09-01
 ---
-
-

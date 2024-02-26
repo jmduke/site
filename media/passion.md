@@ -3,9 +3,8 @@ title: "Passion"
 type: Album
 rating: 4
 author: Peter Gabriel
-genre: ['World']
+genre: ["World"]
 year: 1989
 status: Finished
+date: 2022-01-01
 ---
-
-

@@ -5,6 +5,7 @@ rating: 8
 author: Lin Manuel Miranda
 year: 2019
 status: Finished
+date: 2019-11-01
 ---
 
 I was not a Hamilton _hater_ exactly (I, like many other snoots, didn’t hate Hamilton so much as I hated the people who, for a brief but painful time, were really, _really_ into Hamilton) but I certainly was not a huge fan until Haley roped me into listening to the soundtrack. I liked the soundtrack; I thought it was clever and fun (until the second act, where things get a little cloying and fall off — but that’s probably true of most musicals, right?)

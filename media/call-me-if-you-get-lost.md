@@ -3,9 +3,8 @@ title: "Call Me If You Get Lost"
 type: Album
 rating: 7
 author: Tyler the Creator
-genre: ['Hip-Hop']
+genre: ["Hip-Hop"]
 year: 2021
 status: Finished
+date: 2021-09-01
 ---
-
-
