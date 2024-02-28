@@ -1,0 +1,3 @@
+---
+title: Blue Eye Samurai
+---

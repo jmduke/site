@@ -1,0 +1,2 @@
+- [Jim Neilsen](https://blog.jim-nielsen.com/about/)
+- [Stefan Judis](https://www.stefanjudis.com/stats/)
