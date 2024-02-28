@@ -31,7 +31,11 @@ data:
       - Crystal Project
       - Taskmaster
       - Attack on Titan (Season 4)
-  - date: 2024-02-25
+  - date: 2024-02-26
+      - The E-Myth Revisited
+      - Blue Eye Samurai
+      - Crystal Project
+  - date: 2024-02-27
       - The E-Myth Revisited
       - Blue Eye Samurai
       - Crystal Project

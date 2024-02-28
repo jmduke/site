@@ -23,9 +23,7 @@ meant equal parts playground, pulpit, and commonplace book; I hope you have some
 
                 <div class="-m-4 p-4 bg-yellow-100 border-yellow-300 border mt-4">
                     <h2 class="font-bold mb-1 flex items-center space-x-1">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor" class="w-4 h-4 !text-yellow-500">
-                            <path fill-rule="evenodd" d="M9.58 1.077a.75.75 0 0 1 .405.82L9.165 6h4.085a.75.75 0 0 1 .567 1.241l-6.5 7.5a.75.75 0 0 1-1.302-.638L6.835 10H2.75a.75.75 0 0 1-.567-1.241l6.5-7.5a.75.75 0 0 1 .897-.182Z" clip-rule="evenodd"/>
-                        </svg>
+                        <img src="/icons/bolt.svg" alt="Lightning bolt" class="w-4 h-4"/>
 
                         <div>Subscribe to my newsletter</div>
                     </h2>
@@ -34,9 +32,7 @@ I publish monthly roundups of everything I've written, plus pictures of my corgi
                 </div>
 
                 <h2 class="font-bold mb-1 mt-8 inline-flex items-center space-x-1">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor" class="w-4 h-4">
-                        <path d="M3.75 2a.75.75 0 0 0-.75.75v10.5a.75.75 0 0 0 1.28.53L8 10.06l3.72 3.72a.75.75 0 0 0 1.28-.53V2.75a.75.75 0 0 0-.75-.75h-8.5Z"/>
-                    </svg>
+                    <img src="/icons/bookmark.svg" class="w-4 h-4"/>
                     <div>Current work</div>
                 </h2>
                 <ul class="list-none px-0 mt-0">
@@ -52,11 +48,7 @@ I publish monthly roundups of everything I've written, plus pictures of my corgi
 
                 <div class="-m-4 p-4 bg-green-100 border-green-300 border mt-4">
                     <h2 class="font-bold mb-1 flex items-center space-x-1">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor" class="w-4 h-4 !text-green-600">
-                            <path d="M5.75 7.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5ZM5 10.25a.75.75 0 1 1 1.5 0 .75.75 0 0 1-1.5 0ZM10.25 7.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5ZM7.25 8.25a.75.75 0 1 1 1.5 0 .75.75 0 0 1-1.5 0ZM8 9.5A.75.75 0 1 0 8 11a.75.75 0 0 0 0-1.5Z"/>
-                            <path fill-rule="evenodd" d="M4.75 1a.75.75 0 0 0-.75.75V3a2 2 0 0 0-2 2v7a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2V1.75a.75.75 0 0 0-1.5 0V3h-5V1.75A.75.75 0 0 0 4.75 1ZM3.5 7a1 1 0 0 1 1-1h7a1 1 0 0 1 1 1v4.5a1 1 0 0 1-1 1h-7a1 1 0 0 1-1-1V7Z" clip-rule="evenodd"/>
-                        </svg>
-
+                        <img src="/icons/calendar.svg" class="w-4 h-4"/>
                         <div class="flex-1">Current media</div>
                     </h2>
                     {% set currentMedia = collections.media | filter("status", "In progress") %}
@@ -69,9 +61,7 @@ I publish monthly roundups of everything I've written, plus pictures of my corgi
                 </div>
 
                 <h2 class="font-bold mb-1 mt-8 inline-flex items-center space-x-1">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor" class="w-4 h-4 inline-block">
-                        <path fill-rule="evenodd" d="M4 2a1.5 1.5 0 0 0-1.5 1.5v9A1.5 1.5 0 0 0 4 14h8a1.5 1.5 0 0 0 1.5-1.5V6.621a1.5 1.5 0 0 0-.44-1.06L9.94 2.439A1.5 1.5 0 0 0 8.878 2H4Zm1 5.75A.75.75 0 0 1 5.75 7h4.5a.75.75 0 0 1 0 1.5h-4.5A.75.75 0 0 1 5 7.75Zm0 3a.75.75 0 0 1 .75-.75h4.5a.75.75 0 0 1 0 1.5h-4.5a.75.75 0 0 1-.75-.75Z" clip-rule="evenodd"/>
-                    </svg>
+                    <img src="/icons/document.svg" class="w-4 h-4"/>
                     <div>Essays</div>
                 </h2>
                 {% set postList = collections.post %}
@@ -80,9 +70,7 @@ I publish monthly roundups of everything I've written, plus pictures of my corgi
                 <details>
                     <summary class="mt-8 inline-flex mb-1 items-center hover:bg-gray-100">
                         <h2 class="font-bold mr-2 inline-flex items-center space-x-1">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor" class="w-4 h-4">
-                                <path d="M7.25 3.688a8.035 8.035 0 0 0-4.872-.523A.48.48 0 0 0 2 3.64v7.994c0 .345.342.588.679.512a6.02 6.02 0 0 1 4.571.81V3.688ZM8.75 12.956a6.02 6.02 0 0 1 4.571-.81c.337.075.679-.167.679-.512V3.64a.48.48 0 0 0-.378-.475 8.034 8.034 0 0 0-4.872.523v9.268Z"/>
-                            </svg>
+                            <img src="/icons/book.svg" class="w-4 h-4"/>
                             <div>Media<div></h2>
                             </summary>
                             {% set postList = collections.media | filter("status", "Finished") %}
@@ -90,19 +78,16 @@ I publish monthly roundups of everything I've written, plus pictures of my corgi
                         </details>
 
                         <h2 class="font-bold mb-1 mt-8 inline-flex items-center space-x-1">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor" class="w-4 h-4">
-                                <path d="M3 2a1 1 0 0 0-1 1v1a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V3a1 1 0 0 0-1-1H3Z"/>
-                                <path fill-rule="evenodd" d="M3 6h10v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V6Zm3 2.75A.75.75 0 0 1 6.75 8h2.5a.75.75 0 0 1 0 1.5h-2.5A.75.75 0 0 1 6 8.75Z" clip-rule="evenodd"/>
-                            </svg>
+                            <img src="/icons/archive.svg" class="w-4 h-4"/>
+
                             <div>Notes</div>
                         </h2>
                         {% set postList = collections.microblog %}
                         {% include '_post-list.html' %}
 
                         <h2 class="font-bold mb-1 mt-8 inline-flex items-center space-x-1">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor" class="w-4 h-4">
-                                <path fill-rule="evenodd" d="M3.757 4.5c.18.217.376.42.586.608.153-.61.354-1.175.596-1.678A5.53 5.53 0 0 0 3.757 4.5ZM8 1a6.994 6.994 0 0 0-7 7 7 7 0 1 0 7-7Zm0 1.5c-.476 0-1.091.386-1.633 1.427-.293.564-.531 1.267-.683 2.063A5.48 5.48 0 0 0 8 6.5a5.48 5.48 0 0 0 2.316-.51c-.152-.796-.39-1.499-.683-2.063C9.09 2.886 8.476 2.5 8 2.5Zm3.657 2.608a8.823 8.823 0 0 0-.596-1.678c.444.298.842.659 1.182 1.07-.18.217-.376.42-.586.608Zm-1.166 2.436A6.983 6.983 0 0 1 8 8a6.983 6.983 0 0 1-2.49-.456 10.703 10.703 0 0 0 .202 2.6c.72.231 1.49.356 2.288.356.798 0 1.568-.125 2.29-.356a10.705 10.705 0 0 0 .2-2.6Zm1.433 1.85a12.652 12.652 0 0 0 .018-2.609c.405-.276.78-.594 1.117-.947a5.48 5.48 0 0 1 .44 2.262 7.536 7.536 0 0 1-1.575 1.293Zm-2.172 2.435a9.046 9.046 0 0 1-3.504 0c.039.084.078.166.12.244C6.907 13.114 7.523 13.5 8 13.5s1.091-.386 1.633-1.427c.04-.078.08-.16.12-.244Zm1.31.74a8.5 8.5 0 0 0 .492-1.298c.457-.197.893-.43 1.307-.696a5.526 5.526 0 0 1-1.8 1.995Zm-6.123 0a8.507 8.507 0 0 1-.493-1.298 8.985 8.985 0 0 1-1.307-.696 5.526 5.526 0 0 0 1.8 1.995ZM2.5 8.1c.463.5.993.935 1.575 1.293a12.652 12.652 0 0 1-.018-2.608 7.037 7.037 0 0 1-1.117-.947 5.48 5.48 0 0 0-.44 2.262Z" clip-rule="evenodd"/>
-                            </svg>
+                            <img src="/icons/globe.svg" class="w-4 h-4"/>
+
                             <div>Elsewhere<div></h2>
                                 <ul class="list-none px-0 mt-0">
                                     {%- for post in metadata.socialMedia -%}
@@ -116,9 +101,8 @@ I publish monthly roundups of everything I've written, plus pictures of my corgi
                                 </ul>
 
                                 <h2 class="font-bold mb-1 mt-8 inline-flex items-center space-x-1">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor" class="w-4 h-4">
-                                        <path d="M2 4a2 2 0 0 1 2-2h8a2 2 0 1 1 0 4H4a2 2 0 0 1-2-2ZM2 9.25a.75.75 0 0 1 .75-.75h10.5a.75.75 0 0 1 0 1.5H2.75A.75.75 0 0 1 2 9.25ZM2.75 12.5a.75.75 0 0 0 0 1.5h10.5a.75.75 0 0 0 0-1.5H2.75Z"/>
-                                    </svg>
+                                    <img src="/icons/list.svg" class="w-4 h-4"/>
+
                                     <div>Catalogs<div></h2>
                                         <ul class="list-none px-0 mt-0">
                                             {%- for post in collections.catalog -%}
@@ -132,19 +116,14 @@ I publish monthly roundups of everything I've written, plus pictures of my corgi
                                         </ul>
 
                                         <h2 class="font-bold mb-1 mt-8 inline-flex items-center space-x-1">
-                                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor" class="w-4 h-4">
-                                                <path fill-rule="evenodd" d="M10 3a1 1 0 0 0-1-1H3a1 1 0 0 0-1 1v9a2 2 0 0 0 2 2h8a2 2 0 0 1-2-2V3ZM4 4h4v2H4V4Zm4 3.5H4V9h4V7.5Zm-4 3h4V12H4v-1.5Z" clip-rule="evenodd"/>
-                                                <path d="M13 5h-1.5v6.25a1.25 1.25 0 1 0 2.5 0V6a1 1 0 0 0-1-1Z"/>
-                                            </svg>
+                                            <img src="/icons/newspaper.svg" class="w-4 h-4"/>
+
                                             <div>Press<div></h2>
                                                 {% set postList = collections.press %}
                                                 {% include '_post-list.html' %}
 
                                                 <h2 class="font-bold mb-1 mt-8 inline-flex items-center space-x-1">
-                                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor" class="w-4 h-4">
-                                                        <path d="M13.975 6.5c.028.276-.199.5-.475.5h-4a.5.5 0 0 1-.5-.5v-4c0-.276.225-.503.5-.475A5.002 5.002 0 0 1 13.974 6.5Z"/>
-                                                        <path d="M6.5 4.025c.276-.028.5.199.5.475v4a.5.5 0 0 0 .5.5h4c.276 0 .503.225.475.5a5 5 0 1 1-5.474-5.475Z"/>
-                                                    </svg>
+                                                    <img src="/icons/pie.svg" class="w-4 h-4"/>
                                                     <div>Stats<div></h2>
 
                                                         <li class="pl-0 flex">

@@ -4,7 +4,7 @@ const markdownItFootnote = require("markdown-it-footnote");
 const iterlinker = require("@photogabble/eleventy-plugin-interlinker");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 
-const STATIC_FILES = ["img", "scripts", "favicon.ico", "styles"];
+const STATIC_FILES = ["img", "icons", "scripts", "favicon.ico", "styles"];
 
 function getWordCount(inputPath) {
   const content = require("fs").readFileSync(inputPath, "utf8");
