@@ -39,6 +39,16 @@ data:
       - The E-Myth Revisited
       - Blue Eye Samurai
       - Crystal Project
+      - Monster
+  - date: 2024-02-28
+      - The E-Myth Revisited
+      - Mexico Set
+      - Legend of the Galactic Heroes
+      - Crystal Project
+      - Taskmaster
+  - date: 2024-02-29
+      - Crystal Project
+      - Mexico Set
 ---
 
 <style>

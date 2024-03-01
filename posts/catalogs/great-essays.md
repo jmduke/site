@@ -12,6 +12,7 @@ date: "2024-02-10"
 - [Scaling Sidekiq at Gusto (2022)](https://engineering.gusto.com/scaling-sidekiq-at-gusto/)
 - [Heroku HTTP API Design (2015)](https://github.com/brandur/heroku-http-api-design)
 - [How Complex Systems Fail (1998)](https://how.complexsystems.fail/)
+- [Choose Boring Technology (2015)](https://mcfunley.com/choose-boring-technology)
 
 ## Productivity
 
@@ -23,6 +24,7 @@ date: "2024-02-10"
 ## Design
 
 - [The Princess Rescuing Application (2008)](https://lostgarden.home.blog/2008/10/27/the-princess-rescuing-application-slides/)
+- [Safe rules (2023)](https://anthonyhobday.com/sideprojects/saferules/)
 
 ## The Internet
 
