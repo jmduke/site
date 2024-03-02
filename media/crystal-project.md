@@ -1,5 +1,5 @@
 ---
 title: "Crystal Project"
 type: Game
-status: Shelved
+status: In progress
 ---
