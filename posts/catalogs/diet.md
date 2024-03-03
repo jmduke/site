@@ -49,6 +49,15 @@ data:
   - date: 2024-02-29
       - Crystal Project
       - Mexico Set
+      - Frieren
+  - date: 2024-03-01
+      - Blue Eye Samurai
+      - Mexico Set
+      - The Club Dumas
+  - date: 2024-03-02
+      - Mexico Set
+      - Taskmaster
+      - Crystal Project
 ---
 
 <style>

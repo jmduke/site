@@ -1366,6 +1366,14 @@ video {
   width: 1.25rem;
 }
 
+.w-screen {
+  width: 100vw;
+}
+
+.w-\[calc\(100vw-2rem\)\] {
+  width: calc(100vw - 2rem);
+}
+
 .max-w-none {
   max-width: none;
 }

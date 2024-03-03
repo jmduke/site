@@ -24,13 +24,18 @@
     },
     {
       "platform": "Bluesky",
-      "handle": "@arcana.computer",
-      "url": "https://bsky.app/profile/arcana.computer"
+      "handle": "@jmduke.com",
+      "url": "https://bsky.app/profile/jmduke.com"
     },
     {
       "platform": "Mastodon",
       "handle": "@jmduke@hachyderm.io",
       "url": "https://hachyderm.io/@jmduke"
+    },
+    {
+      "platform": "LinkedIn",
+      "handle": "Justin Duke",
+      "url": "https://www.linkedin.com/in/justin-duke-4438a171/"
     }
   ],
   "url": "https://jmduke.com",
