@@ -10,4 +10,5 @@ date: "2024-02-07"
 
 ## Books
 
-- The E-Myth Revisited
+- Kim
+- Riddle of the Sands
