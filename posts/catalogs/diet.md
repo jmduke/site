@@ -62,6 +62,21 @@ data:
   - date: 2024-03-03
       - Mexico Set
       - London Match
+      - Attack on Titan (Season 4)
+  - date: 2024-03-04
+      - Taskmaster
+      - Monster
+      - Crystal Project
+      - Blue Eye Samurai
+      - London Match
+  - date: 2024-03-05
+      - London Match
+      - Crystal Project
+      - Legend of the Galactic Heroes
+  - date: 2024-03-06
+      - London Match
+      - Blue Eye Samurai
+      - Taskmaster
 ---
 
 <style>

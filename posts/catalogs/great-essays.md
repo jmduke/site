@@ -13,6 +13,7 @@ date: "2024-02-10"
 - [Heroku HTTP API Design (2015)](https://github.com/brandur/heroku-http-api-design)
 - [How Complex Systems Fail (1998)](https://how.complexsystems.fail/)
 - [Choose Boring Technology (2015)](https://mcfunley.com/choose-boring-technology)
+- [Do-Nothing Scripts (2019)](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/)
 
 ## Productivity
 
@@ -20,6 +21,7 @@ date: "2024-02-10"
 - [When everything is important but nothing is getting done (2020)](https://sharedphysics.com/everything-is-important/)
 - [Agile as trauma (2018)](https://doriantaylor.com/agile-as-trauma)
 - [Coordination Headwind (2020)](https://komoroske.com/slime-mold/)
+- [Fire and Motion (2002)](https://www.joelonsoftware.com/2002/01/06/fire-and-motion/)
 
 ## Design
 
