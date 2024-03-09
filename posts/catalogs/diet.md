@@ -77,6 +77,11 @@ data:
       - London Match
       - Blue Eye Samurai
       - Taskmaster
+      - Freiren
+  - date: 2024-03-07
+      - London Match
+  - date: 2024-03-08
+      - London Match
 ---
 
 <style>
