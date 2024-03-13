@@ -87,11 +87,20 @@ data:
       - Taskmaster
       - London Match
       - Secrets of Grindea
+      - The Club Dumas
   - date: 2024-03-10
       - London Match
       - Austerlitz
       - Secrets of Grindea
+      - Crystal Project
       - Taskmaster
+      - Attack on Titan (Season 4)
+  - date: 2024-03-11
+      - Austerlitz
+      - Taskmaster
+      - Monster
+  - date: 2024-03-12
+      - Austerlitz
 ---
 
 <style>

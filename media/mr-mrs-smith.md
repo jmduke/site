@@ -1,6 +1,6 @@
 ---
 title: "Mr. and Mrs. Smith"
-rating: 8
+rating: 9
 type: Television
 status: Finished
 date: 2024-02-23

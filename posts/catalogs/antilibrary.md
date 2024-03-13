@@ -13,6 +13,8 @@ date: "2024-02-07"
 - Kim
 - Riddle of the Sands
 - The Satanic Verses
+- The Visible Hand
+- Superforecasters
 
 ## Games
 
