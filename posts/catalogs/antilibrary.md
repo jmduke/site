@@ -15,7 +15,13 @@ date: "2024-02-07"
 - The Satanic Verses
 - The Visible Hand
 - Superforecasters
+- The Good Soldier Svejk
+- The MANIAC
 
 ## Games
 
 - Unicorn Overlord
+
+## Television
+
+- Devs

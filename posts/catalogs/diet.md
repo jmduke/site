@@ -101,6 +101,15 @@ data:
       - Monster
   - date: 2024-03-12
       - Austerlitz
+  - date: 2024-03-13
+      - Austerlitz
+      - Scott Pilgrim Takes Off
+      - Legend of the Galactic Heroes
+  - date: 2024-03-14
+      - Crystal Project
+      - Scott Pilgrim Takes Off
+      - Frieren
+      - Taskmaster
 ---
 
 <style>

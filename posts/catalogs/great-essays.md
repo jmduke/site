@@ -23,6 +23,7 @@ date: "2024-02-10"
 - [Coordination Headwind (2020)](https://komoroske.com/slime-mold/)
 - [Fire and Motion (2002)](https://www.joelonsoftware.com/2002/01/06/fire-and-motion/)
 - [Mandate Levels (2021)](https://cutlefish.substack.com/p/tbm-2752-mandate-levels)
+- [So You Messed Up! Now What? (2021)](https://jacobian.org/2021/jun/8/incorrect-estimates/)
 
 ## Design
 
