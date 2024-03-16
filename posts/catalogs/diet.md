@@ -110,6 +110,11 @@ data:
       - Scott Pilgrim Takes Off
       - Frieren
       - Taskmaster
+  - date: 2024-03-15
+      - Crystal Project
+      - Unicorn Overlord
+      - Austerlitz
+      - Delicious in Dungeon
 ---
 
 <style>
