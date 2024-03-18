@@ -115,6 +115,15 @@ data:
       - Unicorn Overlord
       - Austerlitz
       - Delicious in Dungeon
+  - date: 2024-03-16
+      - Austerlitz
+      - Unicorn Overlord
+      - Dune
+      - Frieren
+  - date: 2024-03-17
+      - Austerlitz
+      - Unicorn Overlord
+      - Monster
 ---
 
 <style>

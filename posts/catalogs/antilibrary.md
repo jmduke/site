@@ -17,6 +17,7 @@ date: "2024-02-07"
 - Superforecasters
 - The Good Soldier Svejk
 - The MANIAC
+- The Trust
 
 ## Games
 

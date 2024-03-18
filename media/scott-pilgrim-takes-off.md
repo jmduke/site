@@ -17,3 +17,7 @@ Re-reading it over some random late-2010's weekend felt like a combination of no
 I bring this up not just because **Scott Pilgrim Takes Off** is so literally similar to Questionable Content — a focus on indie music, relationship melodrama sharpened into relief through genre homage, and webcomic roots — but because it felt so aggressively and explicitly like it was negotiating with its former self, both delighted and a little dismayed by its past.
 
 A lot of this show was not "great" in the traditional sense: the plot was, uh, _quibbly_, and while it was a literal miracle that they got the original actors all in a recording booth, the voice acting was wooden in a way that belies poor direction. But who cares? This show made me reconcile my self of fifteen years ago and my self of today in a way few other pieces of media do, and I had a great time doing so to boot.
+
+Frequent readers of my writing will note that I approach projects like this with a high level of skepticism and, at times, outright derision — it's easy to feel like a bit of a mindless consumer being fed "hey! remember this thing from twenty years ago?"-inflected IP slop by an increasingly lazy coterie of producers, directors, and capitol allocators.
+
+_Scott Pilgrim Takes Off_ does not — I cannot emphasize enough — fall under that categorization. It is the rare piece of work — like the HBO miniseries [[Watchmen]] — that not only subverts the original product but elevates it. _SPTO_ could not exist without its original, and both works are enhanced by the shared lineage.
