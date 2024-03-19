@@ -124,6 +124,11 @@ data:
       - Austerlitz
       - Unicorn Overlord
       - Monster
+  - date: 2024-03-18
+      - Attack on Titan (Season 4)
+      - Unicorn Overlord
+      - Taskmaster
+      - Devs
 ---
 
 <style>
