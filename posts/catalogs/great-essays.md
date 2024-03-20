@@ -14,6 +14,7 @@ date: "2024-02-10"
 - [How Complex Systems Fail (1998)](https://how.complexsystems.fail/)
 - [Choose Boring Technology (2015)](https://mcfunley.com/choose-boring-technology)
 - [Do-Nothing Scripts (2019)](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/)
+- [Practical Railway-Oriented Programming in Ruby (2023)](https://ismaelcelis.com/posts/practical-railway-oriented-pipelines-in-ruby/)
 
 ## Productivity
 

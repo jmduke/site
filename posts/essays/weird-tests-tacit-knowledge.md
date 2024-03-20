@@ -4,7 +4,7 @@ date: "2024-03-04"
 tags: essay
 ---
 
-Working on Buttondown — or any mature, complex codebase — effectively and quickly requires a lot of tacit knowledge
+Working on [Buttondown](https://buttondown.email) — or any mature, complex codebase — effectively and quickly requires a lot of tacit knowledge
 that I've done a hitherto-poor job of documenting, a fact I am learning more and more quickly as I start to scale up
 the number of folks working on the codebase.
 
