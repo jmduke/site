@@ -41,6 +41,7 @@ date: "2024-02-10"
 - [Becoming Data Driven, From First Principles (2024)](https://commoncog.com/becoming-data-driven-first-principles/)
 - [Sales Advice for Founders (2023)](https://tracy.posthaven.com/sales-advice-for-founders)
 - [Muse retrospective (2024)](https://adamwiggins.com/muse-retrospective/)
+- [The STARS Framework (2023)](https://www.starsframework.org/)
 
 ## Miscellany
 

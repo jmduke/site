@@ -8,7 +8,7 @@ We've been using [Keystatic](https://keystatic.com/) in Buttondown for around si
 
 It's hard to accurately describe _why Keystatic_, because the market for "semi-static content, but also there are some types, but also there's a CMS, but also there's an API" feels so saturated: Gatsby, Sanity, Storyblok, Butter, Strapi, Contentful, the list grows and becomes more confusing over time. Really, the reason why it felt — feels! – so good to use was because everything felt like roughly the right set of tradeoffs:
 
-- It is very fast. (Even at Buttondown's fairly meagre content size, MDX was _incredibly slow_ to compile);
+- It is very fast. (Even at Buttondown's fairly meager content size, MDX was _incredibly slow_ to compile);
 - Getting a typesafe API right out of the box makes it much easier to do content buildout;
 - There's a CMS that is good enough that I can feel comfortable pointing a technical writer at it, even if it's not good enough that I feel comfortable pointing _anybody_ at it;
 - The process of registering and rendering custom components is easy and ergonomic.
