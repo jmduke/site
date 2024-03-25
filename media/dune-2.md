@@ -1,7 +1,7 @@
 ---
 title: "Dune: Part 2"
 type: Film
-date: 2024-04-22
+date: 2024-03-22
 rating: 8
 author: Denis Villeneuve
 year: 2024
