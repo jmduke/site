@@ -1,7 +1,7 @@
 ---
 title: "Zero to One"
 type: Book
-status: finished
+status: Finished
 year: 2014
 author: Peter Thiel
 genre: Business

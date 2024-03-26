@@ -143,7 +143,9 @@ data:
   - date: 2024-03-23
   - date: 2024-03-24
       - Austerlitz
+      - Frieren
   - date: 2024-03-25
+      - Monster
 ---
 
 <style>
