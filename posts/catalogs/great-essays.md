@@ -31,6 +31,10 @@ date: "2024-02-10"
 - [The Princess Rescuing Application (2008)](https://lostgarden.home.blog/2008/10/27/the-princess-rescuing-application-slides/)
 - [Safe rules (2023)](https://anthonyhobday.com/sideprojects/saferules/)
 
+## Marketing
+
+- [Double Shipping (2018)](https://zachholman.com/posts/double-shipping)
+
 ## The Internet
 
 - [Deep-Fried Data (2016)](https://idlewords.com/talks/deep_fried_data.htm)
@@ -42,6 +46,7 @@ date: "2024-02-10"
 - [Sales Advice for Founders (2023)](https://tracy.posthaven.com/sales-advice-for-founders)
 - [Muse retrospective (2024)](https://adamwiggins.com/muse-retrospective/)
 - [The STARS Framework (2023)](https://www.starsframework.org/)
+- [Statistical Process Control: A Practitioner's Guide (2022)](https://two-wrongs.com/statistical-process-control-a-practitioners-guide.html#org89cb18d)
 
 ## Miscellany
 

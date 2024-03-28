@@ -145,7 +145,12 @@ data:
       - Austerlitz
       - Frieren
   - date: 2024-03-25
+      - Unicorn Overlord
+  - date: 2024-03-26
+      - Delicious in Dungeon
+  - date: 2024-03-27
       - Monster
+      - Taskmaster
 ---
 
 <style>
