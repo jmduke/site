@@ -2333,3 +2333,13 @@ details[open] summary:after {
 .\[\&\>\*\]\:w-full>* {
   width: 100%;
 }
+
+.\[\&_td\>p\]\:\!my-0 td>p {
+  margin-top: 0px !important;
+  margin-bottom: 0px !important;
+}
+
+.\[\&_th\>p\]\:\!my-0 th>p {
+  margin-top: 0px !important;
+  margin-bottom: 0px !important;
+}
