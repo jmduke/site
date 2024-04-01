@@ -5,7 +5,7 @@ rating: 6
 genre: ["Roguelike"]
 year: 2024
 date: 2024-02-25
-status: Finsihed
+status: Finished
 ---
 
 A really fun game and truly impressive indie effort that suffers from many of the same flaws (albeit less so) as
