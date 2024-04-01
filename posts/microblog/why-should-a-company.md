@@ -12,4 +12,13 @@ And yet I _do_ want Buttondown to grow larger than it currently is: not by leaps
 
 Right now, I think the answer for all of this is something like the following: **I want Buttondown to grow and fluorish specifically to validate and proselytize a slightly different model of software company: one that uses all the amazing things about software (negligible marginal costs! the infinite breadth of the internet!) to build high-value, sustainable tools for customers and doing so in a way that is fair and rewarding to employees.** It seems almost trivializing to write that, but it's legitimately true. I think the world would be a better place if there were more smaller, older software companies focused on craftsmanship, and I think the best way to help catalyze that world is by building such a company.
 
+---
+
+My friend [Nick](https://twitter.com/nickbaum/status/1774218520693530965?t=M_YJHCkPF0gWKK16v7jjYg) pithily summed up his approach:
+
+> Our philosophy:
+> 1. Sustainable business
+> 2. Sustainable team (high quality of life)
+> 3. Without compromising those two, grow our positive impact on people
+
 [^1]: In the figurative sense, not the literal one — I promise this is not a backdoor announcement of a Series A.
