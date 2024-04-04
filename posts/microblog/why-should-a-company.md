@@ -10,13 +10,14 @@ As such, I've become more attuned to what my goal really _should be_ with Button
 
 And yet I _do_ want Buttondown to grow larger than it currently is: not by leaps and bounds, of course, but there are things that I think _make it a better product_ that require further investment [^1] and I genuinely think there are a lot of people out there who would be happier using Buttondown than using their current tool. Both of those things imply a size of company that is _larger_ than Buttondown's current size. (I'm also having a lot of conversations with folks considering striking out on their own who are doing this brand of soul-searching, and realizing that their goals — "leave my nine-to-five and do whatever I want" are no longer my own.)
 
-Right now, I think the answer for all of this is something like the following: **I want Buttondown to grow and fluorish specifically to validate and proselytize a slightly different model of software company: one that uses all the amazing things about software (negligible marginal costs! the infinite breadth of the internet!) to build high-value, sustainable tools for customers and doing so in a way that is fair and rewarding to employees.** It seems almost trivializing to write that, but it's legitimately true. I think the world would be a better place if there were more smaller, older software companies focused on craftsmanship, and I think the best way to help catalyze that world is by building such a company.
+Right now, I think the answer for all of this is something like the following: **I want Buttondown to grow and flourish specifically to validate and proselytize a slightly different model of software company: one that uses all the amazing things about software (negligible marginal costs! the infinite breadth of the internet!) to build high-value, sustainable tools for customers and doing so in a way that is fair and rewarding to employees.** It seems almost trivializing to write that, but it's legitimately true. I think the world would be a better place if there were more smaller, older software companies focused on craftsmanship, and I think the best way to help catalyze that world is by building such a company.
 
 ---
 
 My friend [Nick](https://twitter.com/nickbaum/status/1774218520693530965?t=M_YJHCkPF0gWKK16v7jjYg) pithily summed up his approach:
 
 > Our philosophy:
+>
 > 1. Sustainable business
 > 2. Sustainable team (high quality of life)
 > 3. Without compromising those two, grow our positive impact on people

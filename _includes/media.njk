@@ -43,7 +43,7 @@
 
         <div class="flex-1 flex px-4 lg:px-0 flex-col-reverse lg:flex-row lg:space-x-4 lg:max-w-prose items-start mx-auto my-4">
             <main class="max-w-prose prose prose-neutral mx-auto [&>*]:w-full w-[calc(100vw-2rem)] max-w-screen">
-                {% if image %}<img src="/img/{{ image }}" class="!w-1/2 hidden md:inline-block float-right !mt-0 md:!mt-[-190px] !ml-4 !mb-0 !border-[0.5rem] !border-solid !border-white"/>{% endif %}
+                {% if image %}<img src="/img/{{ image }}" class="!w-1/2 hidden md:inline-block relative float-right !mt-0 md:!mt-[-190px] !ml-4 !mb-0 !border-[0.5rem] !border-solid !border-white" style="z-index: 100;" />{% endif %}
                 {% if content %}
                     {{ content | safe }}
                 {% else %}

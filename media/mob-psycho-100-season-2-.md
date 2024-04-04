@@ -18,5 +18,4 @@ visually arresting but, like, not why I am particularly invested in the show.
 Thankfully, that was only the final arc — I really enjoyed the first arc's slice of life emphasis, and the second arc's diving into
 Reigen (who grew, in my estimation, from an S-tier character to an S+-tier one over the course of the season.)
 
-This show is still not in my top tier of anime — I think it's going to be hard for a seinen to ever really hit that — but it's
-still a very fun time, and offers a good blend of pathos and entertainment.
+This show is still not in my top tier of anime — I think it's going to be hard for a seinen to ever really hit that — but it's still a very fun time, and offers a good blend of pathos and entertainment.

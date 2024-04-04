@@ -25,6 +25,7 @@ date: "2024-02-10"
 - [Fire and Motion (2002)](https://www.joelonsoftware.com/2002/01/06/fire-and-motion/)
 - [Mandate Levels (2021)](https://cutlefish.substack.com/p/tbm-2752-mandate-levels)
 - [So You Messed Up! Now What? (2021)](https://jacobian.org/2021/jun/8/incorrect-estimates/)
+- [Two Big Things (2014)](https://longform.asmartbear.com/two-big-things/)
 
 ## Design
 
@@ -47,6 +48,7 @@ date: "2024-02-10"
 - [Muse retrospective (2024)](https://adamwiggins.com/muse-retrospective/)
 - [The STARS Framework (2023)](https://www.starsframework.org/)
 - [Statistical Process Control: A Practitioner's Guide (2022)](https://two-wrongs.com/statistical-process-control-a-practitioners-guide.html#org89cb18d)
+- [Avoid Blundering (2024)](https://longform.asmartbear.com/avoid-blundering/)
 
 ## Miscellany
 
@@ -56,3 +58,4 @@ date: "2024-02-10"
 - [Pleasure needs no politics (2021)](https://web.archive.org/web/20211111141117/https://gawker.com/culture/pleasure-needs-no-politics)
 - [How to Develop Good Taste (2022)](https://dieworkwear.com/2022/08/26/how-to-develop-good-taste-pt-1/)
 - [How is Felix today? (2020)](https://howisfelix.today/?)
+- [An App Can Be A Home-Cooked Meal (2020)](https://www.robinsloan.com/notes/home-cooked-app/)
