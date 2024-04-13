@@ -59,3 +59,4 @@ date: "2024-02-10"
 - [How to Develop Good Taste (2022)](https://dieworkwear.com/2022/08/26/how-to-develop-good-taste-pt-1/)
 - [How is Felix today? (2020)](https://howisfelix.today/?)
 - [An App Can Be A Home-Cooked Meal (2020)](https://www.robinsloan.com/notes/home-cooked-app/)
+- [In Praise of Passivity (2012)](https://studiahumana.com/pliki/wydania/In%20Praise%20of%20Passivity.pdf)

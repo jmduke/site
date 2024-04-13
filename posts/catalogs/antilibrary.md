@@ -13,6 +13,12 @@ date: "2024-02-07"
 - Between the Lines (1977)
 - Saturday Night Fever (1977)
 - The Kentucky Fried Movie (1977)
+- Snack Shack (2024)
+- Dinner in America (2020)
+- A Mighty Wind (2003)
+- Dirty Rotten Scoundrels
+- In America (2003)
+- City of God (2003)
 
 ## Books
 
@@ -30,8 +36,6 @@ date: "2024-02-07"
 
 ## Games
 
-- Unicorn Overlord
-
 ## Television
 
-- Devs
+- Ripley

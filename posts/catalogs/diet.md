@@ -177,6 +177,26 @@ data:
       - Cribsheet
   - date: 2024-04-04
       - Cribsheet
+  - date: 2024-04-05
+      - Unicorn Overlord
+  - date: 2024-04-06
+      - This is Personal
+      - The Club Dumas
+  - date: 2024-04-07
+      - Unicorn Overlord
+      - Only God Was Above Us
+      - The Club Dumas
+  - date: 2024-04-08
+  - date: 2024-04-09
+  - date: 2024-04-10
+      - Unicorn Overlord
+      - Cribsheet
+  - date: 2024-04-11
+      - Sugar
+      - Cribsheet
+  - date: 2024-04-11
+      - Sugar
+      - Taskmaster
 ---
 
 <style>
