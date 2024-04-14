@@ -194,9 +194,14 @@ data:
   - date: 2024-04-11
       - Sugar
       - Cribsheet
-  - date: 2024-04-11
+      - Dungeon in Dishi
+  - date: 2024-04-12
       - Sugar
       - Taskmaster
+      - Monster
+  - date: 2024-04-12
+      - Taskmaster
+      - Frieren
 ---
 
 <style>
