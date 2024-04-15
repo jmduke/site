@@ -199,9 +199,13 @@ data:
       - Sugar
       - Taskmaster
       - Monster
-  - date: 2024-04-12
+  - date: 2024-04-13
       - Taskmaster
-      - Frieren
+      - Legends of the Galactic Heroes
+      - Cribsheet
+  - date: 2024-04-14
+      - Cribsheet
+      - Unicorn Overlord
 ---
 
 <style>
