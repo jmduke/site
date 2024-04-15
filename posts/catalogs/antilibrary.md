@@ -18,7 +18,9 @@ date: "2024-02-07"
 - A Mighty Wind (2003)
 - Dirty Rotten Scoundrels
 - In America (2003)
+- Reds (1981)
 - City of God (2003)
+- Being There (1979) (via Daniel Zarick)
 
 ## Books
 
