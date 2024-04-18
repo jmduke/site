@@ -206,6 +206,16 @@ data:
   - date: 2024-04-14
       - Cribsheet
       - Unicorn Overlord
+      - Frieren
+  - date: 2024-04-15
+      - Cribsheet
+      - Trust
+      - Cromartie High School
+  - date: 2024-04-16
+      - Trust
+  - date: 2024-04-17
+      - Trust
+      - Murderville
 ---
 
 <style>
