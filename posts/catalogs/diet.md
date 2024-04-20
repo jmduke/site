@@ -216,6 +216,14 @@ data:
   - date: 2024-04-17
       - Trust
       - Murderville
+  - date: 2024-04-18
+      - Trust
+      - Ripley
+      - Taskmaster
+      - Delicious in Dungeon
+  - date: 2024-04-19
+      - Trust
+      - Ripley
 ---
 
 <style>

@@ -61,3 +61,4 @@ date: "2024-02-10"
 - [An App Can Be A Home-Cooked Meal (2020)](https://www.robinsloan.com/notes/home-cooked-app/)
 - [In Praise of Passivity (2012)](https://studiahumana.com/pliki/wydania/In%20Praise%20of%20Passivity.pdf)
 - [Obituary for a Quiet Life (2023)](https://bittersoutherner.com/feature/2023/obituary-for-a-quiet-life)
+- [The animal is tired (2021)](https://www.robinhobb.com/blog/archives/2021-05)
