@@ -224,6 +224,9 @@ data:
   - date: 2024-04-19
       - Trust
       - Ripley
+  - date: 2024-04-20
+      - Work Clean
+      - Taskmaster
 ---
 
 <style>
