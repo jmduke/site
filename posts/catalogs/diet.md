@@ -227,6 +227,10 @@ data:
   - date: 2024-04-20
       - Work Clean
       - Taskmaster
+  - date: 2024-04-21
+      - Work Clean
+      - Unicorn Overlord
+      - Monster
 ---
 
 <style>
