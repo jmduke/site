@@ -1262,10 +1262,6 @@ video {
   margin-bottom: auto;
 }
 
-.ml-8 {
-  margin-left: 2rem;
-}
-
 .mr-2 {
   margin-right: 0.5rem;
 }
@@ -1374,14 +1370,6 @@ video {
   width: calc(100vw - 2rem);
 }
 
-.max-w-\[360px\] {
-  max-width: 360px;
-}
-
-.max-w-\[960px\] {
-  max-width: 960px;
-}
-
 .max-w-none {
   max-width: none;
 }
@@ -1458,10 +1446,6 @@ video {
 
 .grid-flow-dense {
   grid-auto-flow: dense;
-}
-
-.flex-row-reverse {
-  flex-direction: row-reverse;
 }
 
 .flex-col {

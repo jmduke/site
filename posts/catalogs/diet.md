@@ -231,6 +231,10 @@ data:
       - Work Clean
       - Unicorn Overlord
       - Monster
+  - date: 2024-04-22
+      - Work Clean
+      - Taskmaster
+      - Legend of the Galactic Heroes
 ---
 
 <style>
