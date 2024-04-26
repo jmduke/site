@@ -232,9 +232,14 @@ data:
       - Unicorn Overlord
       - Monster
   - date: 2024-04-22
+  - date: 2024-04-23
+  - date: 2024-04-24
       - Work Clean
       - Taskmaster
       - Legend of the Galactic Heroes
+  - date: 2024-04-25
+      - Work Clean
+      - Sugar
 ---
 
 <style>
