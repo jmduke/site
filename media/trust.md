@@ -1,6 +1,6 @@
 ---
 title: "Trust"
 type: Book
-status: In progress
+status: Shelved
 year: 2022
 ---
