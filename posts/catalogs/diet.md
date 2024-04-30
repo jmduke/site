@@ -241,6 +241,10 @@ data:
       - Work Clean
       - Sugar
   - date: 2024-04-26
+  - date: 2024-04-27
+  - date: 2024-04-28
+  - date: 2024-04-29
+      - Work Clean
 ---
 
 <style>
