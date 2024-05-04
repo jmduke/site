@@ -245,6 +245,17 @@ data:
   - date: 2024-04-28
   - date: 2024-04-29
       - Work Clean
+      - Frieren
+  - date: 2024-04-30
+      - Work Clean
+      - Cromartie High School
+  - date: 2024-05-01
+      - Work Clean
+      - Taskmaster
+      - Dungeon Dishi
+  - date: 2024-05-02
+      - Work Clean
+      - Taskmaster
 ---
 
 <style>
