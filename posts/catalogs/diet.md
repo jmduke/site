@@ -256,6 +256,11 @@ data:
   - date: 2024-05-02
       - Work Clean
       - Taskmaster
+  - date: 2024-05-03
+      - Work Clean
+      - Unreasonable Hospitality
+  - date: 2024-05-04
+      - Unreasonable Hospitality
 ---
 
 <style>
