@@ -38,6 +38,7 @@ date: "2024-02-07"
 - The Power Law
 - The Lever of Riches
 - Extrastatecraft
+- Iron & Silk
 
 ## Games
 
