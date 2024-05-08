@@ -268,6 +268,7 @@ data:
       - Monster
   - date: 2024-05-06
       - Taskmaster
+  - date: 2024-05-07
 ---
 
 <style>
