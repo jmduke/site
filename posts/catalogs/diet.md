@@ -269,6 +269,11 @@ data:
   - date: 2024-05-06
       - Taskmaster
   - date: 2024-05-07
+  - date: 2024-05-08
+      - Taskmaster
+      - Frieren
+      - Unreasonable Hospitality
+  - date: 2024-05-09
 ---
 
 <style>
