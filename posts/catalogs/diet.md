@@ -274,6 +274,17 @@ data:
       - Frieren
       - Unreasonable Hospitality
   - date: 2024-05-09
+  - date: 2024-05-10
+      - Unreasonable Hospitality
+      - Cromartie High School
+  - date: 2024-05-11
+      - Unreasonable Hospitality
+      - Taskmaster
+  - date: 2024-05-12
+      - Unreasonable Hospitality
+      - Super Turtle Idle
+      - Animal Well
+  - date: 2024-05-13
 ---
 
 <style>

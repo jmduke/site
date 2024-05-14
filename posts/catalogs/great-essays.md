@@ -16,6 +16,7 @@ date: "2024-02-10"
 - [Do-Nothing Scripts (2019)](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/)
 - [Practical Railway-Oriented Programming in Ruby (2023)](https://ismaelcelis.com/posts/practical-railway-oriented-pipelines-in-ruby/)
 - [Cruddy by Design (2017)](https://www.youtube.com/watch?v=MF0jFKvS4SI)
+- [Hypermodern Python (2020)](https://medium.com/@cjolowicz/hypermodern-python-d44485d9d769)
 
 ## Productivity
 
