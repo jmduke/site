@@ -284,11 +284,17 @@ data:
       - Unreasonable Hospitality
       - Super Turtle Idle
       - Animal Well
-  - date: 2024-05-14
-      - Monster
   - date: 2024-05-13
+      - Monster
+  - date: 2024-05-14
       - Animal Well
       - Everybody's in LA
+      - Unreasonable Hospitality
+      - Legend of the Galactic Heroes
+      - Taskmaster
+  - date: 2024-05-14
+      - Animal Well
+      - Unreasonable Hospitality
 ---
 
 <style>
