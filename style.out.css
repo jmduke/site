@@ -1779,6 +1779,11 @@ video {
   padding-right: 1rem;
 }
 
+.px-\[0\.3rem\] {
+  padding-left: 0.3rem;
+  padding-right: 0.3rem;
+}
+
 .py-2 {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
@@ -1792,11 +1797,6 @@ video {
 .py-8 {
   padding-top: 2rem;
   padding-bottom: 2rem;
-}
-
-.px-\[0\.3rem\] {
-  padding-left: 0.3rem;
-  padding-right: 0.3rem;
 }
 
 .py-\[0\.2rem\] {
