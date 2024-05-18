@@ -292,9 +292,16 @@ data:
       - Unreasonable Hospitality
       - Legend of the Galactic Heroes
       - Taskmaster
-  - date: 2024-05-14
+  - date: 2024-05-15
       - Animal Well
       - Unreasonable Hospitality
+  - date: 2024-05-16
+      - The Diamond Age
+      - Taskmaster
+      - Everybody's in LA
+  - date: 2024-05-17
+      - The Diamond Age
+      - Everybody's in LA
 ---
 
 <style>
