@@ -43,5 +43,3 @@ date: "2024-02-07"
 ## Games
 
 ## Television
-
-- Ripley

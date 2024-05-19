@@ -302,6 +302,10 @@ data:
   - date: 2024-05-17
       - The Diamond Age
       - Everybody's in LA
+      - Cromartie High School
+  - date: 2024-05-18
+      - The Diamond Age
+      - Taskmaster
 ---
 
 <style>
