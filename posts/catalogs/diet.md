@@ -306,6 +306,10 @@ data:
   - date: 2024-05-18
       - The Diamond Age
       - Taskmaster
+      - Dungeon Dishi
+  - date: 2024-05-19
+      - The Diamond Age
+      - Pokerogue
 ---
 
 <style>
