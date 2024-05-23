@@ -310,6 +310,20 @@ data:
   - date: 2024-05-19
       - The Diamond Age
       - Pokerogue
+  - date: 2024-05-20
+      - The Diamond Age
+      - Pokerogue
+      - Taskmaster
+      - Monster
+  - date: 2024-05-21
+      - The Diamond Age
+      - Pokerogue
+      - Legend of the Galactic Heroes
+      - HIT ME HARD AND SOFT
+  - date: 2024-05-22
+      - The Diamond Age
+      - Pokerogue
+      - Sugar
 ---
 
 <style>

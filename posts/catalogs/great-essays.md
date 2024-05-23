@@ -17,6 +17,8 @@ date: "2024-02-10"
 - [Practical Railway-Oriented Programming in Ruby (2023)](https://ismaelcelis.com/posts/practical-railway-oriented-pipelines-in-ruby/)
 - [Cruddy by Design (2017)](https://www.youtube.com/watch?v=MF0jFKvS4SI)
 - [Hypermodern Python (2020)](https://medium.com/@cjolowicz/hypermodern-python-d44485d9d769)
+- [Pure UI (2015)](https://rauchg.com/2015/pure-ui)
+- [Things You Should Never Do (2000)](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
 
 ## Productivity
 

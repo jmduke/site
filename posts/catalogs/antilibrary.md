@@ -29,7 +29,6 @@ date: "2024-02-07"
 - Riddle of the Sands
 - The Satanic Verses
 - The Visible Hand
-- Superforecasters
 - The Good Soldier Svejk
 - The MANIAC
 - Monetizing Innovation
