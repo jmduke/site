@@ -324,6 +324,8 @@ data:
       - The Diamond Age
       - Pokerogue
       - Sugar
+  - date: 2024-05-23
+      - The Diamond Age
 ---
 
 <style>
