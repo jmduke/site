@@ -1,6 +1,6 @@
 ---
 title: "Sugar"
 type: Television
-status: In progress
+status: Finished
 year: 2024
 ---
