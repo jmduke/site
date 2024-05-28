@@ -326,6 +326,20 @@ data:
       - Sugar
   - date: 2024-05-23
       - The Diamond Age
+  - date: 2024-05-24
+      - The Diamond Age
+      - The Club Dumas
+      - Pokerogue
+  - date: 2024-05-25
+      - Pokerogue
+      - Taskmaster
+  - date: 2024-05-26
+      - Pokerogue
+      - Vampire Survivors
+      - The Club Dumas
+  - date: 2024-05-27
+      - Pokerogue
+      - Vampire Survivors
 ---
 
 <style>
