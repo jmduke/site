@@ -340,6 +340,10 @@ data:
   - date: 2024-05-27
       - Pokerogue
       - Vampire Survivors
+      - Profiles of the Future
+  - date: 2024-05-28
+      - The Diamond Age
+      - Oh Wonder
 ---
 
 <style>
