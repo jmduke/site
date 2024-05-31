@@ -19,6 +19,7 @@ date: "2024-02-10"
 - [Hypermodern Python (2020)](https://medium.com/@cjolowicz/hypermodern-python-d44485d9d769)
 - [Pure UI (2015)](https://rauchg.com/2015/pure-ui)
 - [Things You Should Never Do (2000)](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
+- [Load Balancing (2023)](https://samwho.dev/load-balancing/)
 
 ## Productivity
 
@@ -31,6 +32,7 @@ date: "2024-02-10"
 - [So You Messed Up! Now What? (2021)](https://jacobian.org/2021/jun/8/incorrect-estimates/)
 - [Two Big Things (2014)](https://longform.asmartbear.com/two-big-things/)
 - [The Basics (2024)](https://registerspill.thorstenball.com/p/the-basics)
+- [Work is Work (2020)](https://codahale.com//work-is-work/)
 
 ## Design
 

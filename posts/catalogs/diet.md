@@ -344,6 +344,13 @@ data:
   - date: 2024-05-28
       - The Diamond Age
       - Oh Wonder
+  - date: 2024-05-29
+    - Pokerogue
+    - The Diamond Age
+    - Everybody's in L.A.
+  - date: 2024-05-30
+      - Pokerogue
+      - Monster
 ---
 
 <style>
