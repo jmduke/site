@@ -345,12 +345,12 @@ data:
       - The Diamond Age
       - Oh Wonder
   - date: 2024-05-29
-    - Pokerogue
-    - The Diamond Age
-    - Everybody's in L.A.
+      - Pokerogue
+      - The Diamond Age
+      - Everybody's in L.A.
   - date: 2024-05-30
-    - Pokerogue
-    - Monster
+      - Pokerogue
+      - Monster
 ---
 
 <style>
