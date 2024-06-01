@@ -351,6 +351,8 @@ data:
   - date: 2024-05-30
       - Pokerogue
       - Monster
+  - date: 2024-05-31
+      - Pokerogue
 ---
 
 <style>
