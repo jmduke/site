@@ -20,6 +20,7 @@ date: "2024-02-10"
 - [Pure UI (2015)](https://rauchg.com/2015/pure-ui)
 - [Things You Should Never Do (2000)](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
 - [Load Balancing (2023)](https://samwho.dev/load-balancing/)
+- [The Twelve-Factor Apps (2012)](https://www.12factor.net/)
 
 ## Productivity
 

@@ -355,6 +355,14 @@ data:
       - Pokerogue
   - date: 2024-06-01
       - Pokerogue
+  - date: 2024-06-02
+      - Team
+      - Taskmaster
+  - date: 2024-06-03
+      - Team
+      - Frieren
+  - date: 2024-06-04
+      - Cromartie High School
 ---
 
 <style>
