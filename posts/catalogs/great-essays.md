@@ -21,6 +21,7 @@ date: "2024-02-10"
 - [Things You Should Never Do (2000)](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
 - [Load Balancing (2023)](https://samwho.dev/load-balancing/)
 - [The Twelve-Factor Apps (2012)](https://www.12factor.net/)
+- [No Haunted Forests (2018)](https://john-millikin.com/sre-school/no-haunted-forests)
 
 ## Productivity
 

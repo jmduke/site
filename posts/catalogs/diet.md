@@ -363,6 +363,12 @@ data:
       - Frieren
   - date: 2024-06-04
       - Cromartie High School
+  - date: 2024-06-05
+      - Dungeon Meshi
+  - date: 2024-06-06
+  - date: 2024-06-07
+      - The Diamond Age
+      - Godzilla Minus One
 ---
 
 <style>
