@@ -22,6 +22,8 @@ date: "2024-02-07"
 - City of God (2003)
 - Being There (1979) (via Daniel Zarick)
 - Dead Reckoning
+- Bound (1996)
+- A Simple Favor (2018)
 
 ## Books
 
@@ -39,6 +41,7 @@ date: "2024-02-07"
 - Extrastatecraft
 - Iron & Silk
 - The Guns of August
+- Forge
 
 ## Games
 

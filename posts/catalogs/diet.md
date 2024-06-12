@@ -369,6 +369,18 @@ data:
   - date: 2024-06-07
       - The Diamond Age
       - Godzilla Minus One
+  - date: 2024-06-08
+  - date: 2024-06-09
+      - The Diamond Age
+      - Monster
+  - date: 2024-06-10
+      - The Diamond Age
+      - Taskmaster
+      - Legend of the Galactic Heroes
+  - date: 2024-06-11
+      - The Diamond Age
+      - Taskmaster
+      - Pokerogue
 ---
 
 <style>
