@@ -381,6 +381,14 @@ data:
       - The Diamond Age
       - Taskmaster
       - Pokerogue
+  - date: 2024-06-12
+      - The Diamond Age
+      - Pokerogue
+      - Mushishi (Season 2)
+  - date: 2024-06-13
+      - Freedom's Forge
+      - Hit Man
+      - Pokerogue
 ---
 
 <style>
