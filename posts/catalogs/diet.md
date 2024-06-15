@@ -389,6 +389,10 @@ data:
       - Freedom's Forge
       - Hit Man
       - Pokerogue
+  - date: 2024-06-14
+      - Freedom's Forge
+      - The Fall Guy
+      - Pokerogue
 ---
 
 <style>
