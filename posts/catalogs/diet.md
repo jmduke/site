@@ -393,6 +393,22 @@ data:
       - Freedom's Forge
       - The Fall Guy
       - Pokerogue
+  - date: 2024-06-15
+      - Freedom's Forge
+      - Pluto
+      - Pokerogue
+  - date: 2024-06-16
+      - Freedom's Forge
+      - Pokerogue
+      - Taskmaster
+      - Cromartie High School
+  - date: 2024-06-17
+      - Freedom's Forge
+      - Pokerogue
+  - date: 2024-06-18
+      - Freedom's Forge
+      - Pokerogue
+      - Dungeon Mishi
 ---
 
 <style>

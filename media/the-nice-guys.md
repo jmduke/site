@@ -14,4 +14,4 @@ towards a more serious plot. This was certainly a better film (which is not to s
 the trappings of noir, an absolutely hilarious performance from Gosling, and a script that felt less all-caps and more
 winking. A tremendously fun time that does not leave much of an impression.
 
-(Also, what's the deal with all seventies-based films involving the catalytic converter conspiracy>)
+(Also, what's the deal with all seventies-based films involving the catalytic converter conspiracy?)
