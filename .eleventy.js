@@ -1,8 +1,10 @@
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
+const fs = require("fs");
 const markdownIt = require("markdown-it");
 const markdownItFootnote = require("markdown-it-footnote");
 const iterlinker = require("@photogabble/eleventy-plugin-interlinker");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
+const EleventyPluginOgImage = require("eleventy-plugin-og-image");
 
 const STATIC_FILES = ["img", "icons", "scripts", "favicon.ico", "styles"];
 
@@ -77,4 +79,16 @@ module.exports = function (eleventyConfig) {
   };
   let markdownLib = markdownIt(options).use(markdownItFootnote);
   eleventyConfig.setLibrary("md", markdownLib);
+  eleventyConfig.addPlugin(EleventyPluginOgImage, {
+    satoriOptions: {
+      fonts: [
+        {
+          name: "Inter",
+          data: fs.readFileSync("./img/hex-franklin-bold.otf"),
+          weight: 700,
+          style: "normal",
+        },
+      ],
+    },
+  });
 };

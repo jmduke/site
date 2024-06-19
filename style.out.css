@@ -1382,6 +1382,10 @@ video {
   flex: 1 1 0%;
 }
 
+.flex-none {
+  flex: none;
+}
+
 .shrink {
   flex-shrink: 1;
 }
@@ -1490,6 +1494,10 @@ video {
 
 .justify-normal {
   justify-content: normal;
+}
+
+.justify-end {
+  justify-content: flex-end;
 }
 
 .justify-evenly {
@@ -1769,6 +1777,10 @@ video {
   padding: 2rem;
 }
 
+.p-\[3rem\] {
+  padding: 3rem;
+}
+
 .px-0 {
   padding-left: 0px;
   padding-right: 0px;
@@ -1818,6 +1830,10 @@ video {
 
 .text-left {
   text-align: left;
+}
+
+.text-center {
+  text-align: center;
 }
 
 .text-right {
@@ -1871,6 +1887,11 @@ video {
 .text-xs {
   font-size: 0.75rem;
   line-height: 1rem;
+}
+
+.text-4xl {
+  font-size: 2.25rem;
+  line-height: 2.5rem;
 }
 
 .font-bold {

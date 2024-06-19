@@ -1,6 +1,7 @@
 <!doctype html>
 <html lang="en">
     <head>
+        {% ogImage "./og-image.og.njk", { title: title, date: date | readablePostDate } %}
         {% include 'head.html' %}
         <title>{{ title }} · Applied Cartography</title>
     </head>
