@@ -409,6 +409,15 @@ data:
       - Freedom's Forge
       - Pokerogue
       - Dungeon Mishi
+  - date: 2024-06-19
+      - Pokerogue
+      - Presumed Innocent
+  - date: 2024-06-20
+      - Pokerogue
+      - Freedom's Forge
+  - date: 2024-06-21
+  - date: 2024-06-22
+      - Pokerogue
 ---
 
 <style>
