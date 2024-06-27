@@ -24,6 +24,8 @@ date: "2024-02-07"
 - Dead Reckoning
 - Bound (1996)
 - A Simple Favor (2018)
+- Q&A (1990)
+- The Leopard With Two Stories And A Memory
 
 ## Books
 

@@ -418,6 +418,22 @@ data:
   - date: 2024-06-21
   - date: 2024-06-22
       - Pokerogue
+      - Taskmaster
+  - date: 2024-06-23
+      - Pokerogue
+      - Mushishi (Season 2)
+  - date: 2024-06-24
+      - Pokerogue
+      - Kaiji
+      - Freedom's Forge
+      - Team
+      - Presumed Innocent
+  - date: 2024-06-25
+      - Pokerogue
+      - Freedom's Forge
+  - date: 2024-06-26
+      - Pokerogue
+      - Freedom's Forge
 ---
 
 <style>
