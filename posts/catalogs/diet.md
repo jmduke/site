@@ -434,6 +434,15 @@ data:
   - date: 2024-06-26
       - Pokerogue
       - Freedom's Forge
+  - date: 2024-06-27
+      - Pokerogue
+      - Freedom's Forge
+      - Profit First
+      - The American Friend
+  - date: 2024-06-28
+      - Delicious in Dungeon
+      - Pokerogue
+      - Profit First
 ---
 
 <style>

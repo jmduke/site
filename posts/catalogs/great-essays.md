@@ -58,6 +58,7 @@ date: "2024-02-10"
 - [The STARS Framework (2023)](https://www.starsframework.org/)
 - [Statistical Process Control: A Practitioner's Guide (2022)](https://two-wrongs.com/statistical-process-control-a-practitioners-guide.html#org89cb18d)
 - [Avoid Blundering (2024)](https://longform.asmartbear.com/avoid-blundering/)
+- [The Secret Heart Of Continuous Improvement (2024)](https://commoncog.com/the-secret-heart-of-continuous-improvement/)
 
 ## Miscellany
 
