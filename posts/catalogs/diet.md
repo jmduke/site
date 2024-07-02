@@ -443,6 +443,21 @@ data:
       - Delicious in Dungeon
       - Pokerogue
       - Profit First
+  - date: 2024-06-29
+      - Taskmaster
+      - Monster
+      - Pokerogue
+      - Profit First
+  - date: 2024-06-30
+      - Taskmaster
+      - Pokerogue
+      - Profit First
+  - date: 2024-07-01
+      - Profit First
+      - Pokerogue
+      - Team
+      - The Three Musketeers
+      - Mushishi
 ---
 
 <style>
