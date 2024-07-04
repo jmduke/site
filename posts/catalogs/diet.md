@@ -457,7 +457,13 @@ data:
       - Pokerogue
       - Team
       - The Three Musketeers
-      - Mushishi
+      - Kaiji
+  - date: 2024-07-02
+      - Taskmaster
+      - Pokerogue
+  - date: 2024-07-03
+      - Cromartie High School
+      - Pokerogue
 ---
 
 <style>
