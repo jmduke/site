@@ -464,6 +464,12 @@ data:
   - date: 2024-07-03
       - Cromartie High School
       - Pokerogue
+  - date: 2024-07-04
+      - Spy Hook
+      - Pokerogue
+  - date: 2024-07-05
+      - Spy Hook
+      - Pokerogue
 ---
 
 <style>
