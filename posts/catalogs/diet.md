@@ -477,6 +477,9 @@ data:
   - date: 2024-07-07
       - Spy Hook
       - Pokerogue
+  - date: 2024-07-08
+      - Spy Hook
+      - Pokerogue
 ---
 
 <style>

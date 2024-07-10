@@ -9,7 +9,6 @@ date: "2024-02-07"
 - River (2023) (via Sumana)
 - Sorcerer (1977)
 - The Late Show (1977)
-- The American Friend (1977)
 - Between the Lines (1977)
 - Saturday Night Fever (1977)
 - The Kentucky Fried Movie (1977)
@@ -25,7 +24,6 @@ date: "2024-02-07"
 - Bound (1996)
 - A Simple Favor (2018)
 - Q&A (1990)
-- The Leopard With Two Stories And A Memory
 
 ## Books
 
@@ -44,6 +42,7 @@ date: "2024-02-07"
 - Iron & Silk
 - The Guns of August
 - Forge
+- The Leopard With Two Stories And A Memory
 
 ## Games
 
