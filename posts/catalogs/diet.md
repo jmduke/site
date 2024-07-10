@@ -480,6 +480,10 @@ data:
   - date: 2024-07-08
       - Spy Hook
       - Pokerogue
+  - date: 2024-07-09
+      - Kaiji
+      - Taskmaster
+      - Pokerogue
 ---
 
 <style>
