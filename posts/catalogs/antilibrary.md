@@ -24,6 +24,7 @@ date: "2024-02-07"
 - Bound (1996)
 - A Simple Favor (2018)
 - Q&A (1990)
+- A History of Violence
 
 ## Books
 
@@ -47,3 +48,5 @@ date: "2024-02-07"
 ## Games
 
 ## Television
+
+- The Good Place

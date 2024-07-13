@@ -484,6 +484,14 @@ data:
       - Kaiji
       - Taskmaster
       - Pokerogue
+  - date: 2024-07-10
+      - Spy Hook
+      - Snack Shack
+      - Pokerogue
+  - date: 2024-07-11
+      - Spy Hook
+      - Mushishi (Season 2)
+      - Pokerogue
 ---
 
 <style>
