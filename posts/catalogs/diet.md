@@ -492,6 +492,13 @@ data:
       - Spy Hook
       - Mushishi (Season 2)
       - Pokerogue
+  - date: 2024-07-12
+      - Spy Line
+      - Cromartie High School
+      - Pokerogue
+  - date: 2024-07-13
+      - Spy Line
+      - Pokerogue
 ---
 
 <style>
