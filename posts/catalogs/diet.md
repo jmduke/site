@@ -499,6 +499,26 @@ data:
   - date: 2024-07-13
       - Spy Line
       - Pokerogue
+  - date: 2024-07-14
+      - Spy Line
+      - Pokerogue
+      - Delicious in Dungeon
+  - date: 2024-07-15
+      - Spy Line
+      - Pokerogue
+      - Taskmaster
+      - Kaiji
+  - date: 2024-07-16
+      - Spy Line
+  - date: 2024-07-17
+      - Spy Sinker
+      - Pokerogue
+      - Taskmaster
+      - Mushishi (Season 2)
+  - date: 2024-07-18
+      - Spy Sinker
+      - Pokerogue
+      - Team
 ---
 
 <style>

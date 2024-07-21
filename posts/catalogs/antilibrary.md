@@ -50,3 +50,5 @@ date: "2024-02-07"
 ## Television
 
 - The Good Place
+- Shogun
+- Xavier: Renegade Angel
