@@ -32,10 +32,8 @@ date: "2024-02-07"
 - Riddle of the Sands
 - The Satanic Verses
 - The Visible Hand
-- The Good Soldier Svejk
 - The MANIAC
 - Monetizing Innovation
-- The Trust
 - 1177 BC: The Year Civilization Collapsed
 - The Power Law
 - The Lever of Riches
@@ -44,6 +42,7 @@ date: "2024-02-07"
 - The Guns of August
 - Forge
 - The Leopard With Two Stories And A Memory
+- At Ease: Stories I Tell Friends
 
 ## Games
 
@@ -52,3 +51,4 @@ date: "2024-02-07"
 - The Good Place
 - Shogun
 - Xavier: Renegade Angel
+- Lady in the Lake

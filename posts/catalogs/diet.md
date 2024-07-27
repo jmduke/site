@@ -519,6 +519,37 @@ data:
       - Spy Sinker
       - Pokerogue
       - Team
+  - date: 2024-07-19
+      - The Hunting Gun
+      - Pokerogue
+  - date: 2024-07-20
+      - Pokerogue
+      - The Correctionsx
+      - The Good Soldier Svejk
+      - Taskmaster
+  - date: 2024-07-21
+      - Taskmaster
+      - The Corrections
+      - Pokerogue
+      - The Good Soldier Svejk
+  - date: 2024-07-22
+      - Cloud Atlas
+      - Pokerogue
+      - Taskmaster
+  - date: 2024-07-23
+      - Cloud Atlas
+      - Pokerogue
+      - Taskmaster
+  - date: 2024-07-24
+      - Cloud Atlas
+      - Pokerogue
+  - date: 2024-07-25
+      - Cloud Atlas
+      - Cromartie High School
+  - date: 2024-07-26
+      - Team
+      - Taskmaster
+      - Pokerogue
 ---
 
 <style>

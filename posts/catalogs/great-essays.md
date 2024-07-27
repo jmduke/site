@@ -22,6 +22,8 @@ date: "2024-02-10"
 - [Load Balancing (2023)](https://samwho.dev/load-balancing/)
 - [The Twelve-Factor Apps (2012)](https://www.12factor.net/)
 - [No Haunted Forests (2018)](https://john-millikin.com/sre-school/no-haunted-forests)
+- [Is this true?](https://notes.jordanscales.com/is-this-true)
+- [Turbopuffer's architecture (2024)](https://turbopuffer.com/architecture)
 
 ## Productivity
 
@@ -60,6 +62,7 @@ date: "2024-02-10"
 - [Statistical Process Control: A Practitioner's Guide (2022)](https://two-wrongs.com/statistical-process-control-a-practitioners-guide.html#org89cb18d)
 - [Avoid Blundering (2024)](https://longform.asmartbear.com/avoid-blundering/)
 - [The Secret Heart Of Continuous Improvement (2024)](https://commoncog.com/the-secret-heart-of-continuous-improvement/)
+- [Extreme Questions (2022)](https://longform.asmartbear.com/extreme-questions/)
 
 ## Miscellany
 
@@ -73,3 +76,4 @@ date: "2024-02-10"
 - [In Praise of Passivity (2012)](https://studiahumana.com/pliki/wydania/In%20Praise%20of%20Passivity.pdf)
 - [Obituary for a Quiet Life (2023)](https://bittersoutherner.com/feature/2023/obituary-for-a-quiet-life)
 - [The animal is tired (2021)](https://www.robinhobb.com/blog/archives/2021-05)
+- [Goodbye Microsoft, Hello Facebook (2010)](https://medium.com/@philipsu/goodbye-microsoft-hello-facebook-94a189d56830)
