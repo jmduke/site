@@ -1,5 +1,5 @@
 ---
 title: "Team"
 type: Book
-status: In progress
+status: Finished
 ---

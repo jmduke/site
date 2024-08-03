@@ -550,6 +550,26 @@ data:
       - Team
       - Taskmaster
       - Pokerogue
+  - date: 2024-07-27
+      - Team
+      - Delicious in Dungeon
+      - Pokerogue
+  - date: 2024-07-28
+      - Team
+      - "Fire Emblem: Engage"
+      - Pokerogue
+  - date: 2024-07-29
+  - date: 2024-07-30
+      - Team
+      - Kaiji
+      - "Fire Emblem: Engage"
+  - date: 2024-07-31
+  - date: 2024-08-01
+      - Cromartie High School
+      - Taskmaster
+  - date: 2024-08-02
+      - Team
+      - Train Dreams
 ---
 
 <style>

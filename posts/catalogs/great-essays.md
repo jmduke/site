@@ -37,6 +37,7 @@ date: "2024-02-10"
 - [Two Big Things (2014)](https://longform.asmartbear.com/two-big-things/)
 - [The Basics (2024)](https://registerspill.thorstenball.com/p/the-basics)
 - [Work is Work (2020)](https://codahale.com//work-is-work/)
+- [When and how to say no at work (2022)](https://amy.dev/?p=1067)
 
 ## Design
 

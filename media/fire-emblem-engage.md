@@ -1,5 +1,5 @@
 ---
 title: "Fire Emblem: Engage"
 type: Game
-status: Abandoned
+status: In progress
 ---

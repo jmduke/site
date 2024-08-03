@@ -25,6 +25,11 @@ date: "2024-02-07"
 - A Simple Favor (2018)
 - Q&A (1990)
 - A History of Violence
+- Mullholland Drive
+- The American
+- Z
+- Husbands and Wives
+- The Anderson Tapes
 
 ## Books
 
@@ -43,6 +48,8 @@ date: "2024-02-07"
 - Forge
 - The Leopard With Two Stories And A Memory
 - At Ease: Stories I Tell Friends
+- High Output Management
+- Only The Paranoid Survive
 
 ## Games
 
