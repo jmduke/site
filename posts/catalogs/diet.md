@@ -570,6 +570,29 @@ data:
   - date: 2024-08-02
       - Team
       - Train Dreams
+  - date: 2024-08-03
+      - Pokerogue
+      - Delicious in Dungeon
+  - date: 2024-08-04
+      - "Fire Emblem: Engage"
+      - Train Dreams
+  - date: 2024-08-05
+      - Train Dreams
+      - Taskmaster
+  - date: 2024-08-06
+      - Ted Lasso
+  - date: 2024-08-07
+        - Ted Lasso
+        - Taskmaster
+        - Mushishi
+        - Pokerogue
+  - date: 2024-08-08
+        - Ted Lasso
+        - Taskmaster
+        - Pokerogue
+  - date: 2024-08-09
+        - Ted Lasso
+        - High Output Management
 ---
 
 <style>

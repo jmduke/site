@@ -64,6 +64,7 @@ date: "2024-02-10"
 - [Avoid Blundering (2024)](https://longform.asmartbear.com/avoid-blundering/)
 - [The Secret Heart Of Continuous Improvement (2024)](https://commoncog.com/the-secret-heart-of-continuous-improvement/)
 - [Extreme Questions (2022)](https://longform.asmartbear.com/extreme-questions/)
+- [Schlep Blindness (2012)](https://paulgraham.com/schlep.html)
 
 ## Miscellany
 

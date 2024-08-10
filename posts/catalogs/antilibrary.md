@@ -50,6 +50,8 @@ date: "2024-02-07"
 - At Ease: Stories I Tell Friends
 - High Output Management
 - Only The Paranoid Survive
+- The Box
+- The Image (Daniel Boorstin)
 
 ## Games
 
