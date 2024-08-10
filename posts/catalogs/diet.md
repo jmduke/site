@@ -556,13 +556,13 @@ data:
       - Pokerogue
   - date: 2024-07-28
       - Team
-      - "Fire Emblem: Engage"
+      - "Fire Emblem Engage"
       - Pokerogue
   - date: 2024-07-29
   - date: 2024-07-30
       - Team
       - Kaiji
-      - "Fire Emblem: Engage"
+      - 'Fire Emblem Engage"
   - date: 2024-07-31
   - date: 2024-08-01
       - Cromartie High School
@@ -574,7 +574,7 @@ data:
       - Pokerogue
       - Delicious in Dungeon
   - date: 2024-08-04
-      - "Fire Emblem: Engage"
+      - "Fire Emblem Engage"
       - Train Dreams
   - date: 2024-08-05
       - Train Dreams
@@ -582,17 +582,17 @@ data:
   - date: 2024-08-06
       - Ted Lasso
   - date: 2024-08-07
-        - Ted Lasso
-        - Taskmaster
-        - Mushishi
-        - Pokerogue
+      - Ted Lasso
+      - Taskmaster
+      - Mushishi
+      - Pokerogue
   - date: 2024-08-08
-        - Ted Lasso
-        - Taskmaster
-        - Pokerogue
+      - Ted Lasso
+      - Taskmaster
+      - Pokerogue
   - date: 2024-08-09
-        - Ted Lasso
-        - High Output Management
+      - Ted Lasso
+      - High Output Management
 ---
 
 <style>
