@@ -593,6 +593,16 @@ data:
   - date: 2024-08-09
       - Ted Lasso
       - High Output Management
+  - date: 2024-08-10
+      - Pokerogue
+      - Fire Emblem Engage
+      - Taskmaster
+      - High Output Management
+  - date: 2024-08-11
+      - High Output Management
+      - Cromartie
+      - Great Pretender
+      - Fire Emblem Engage
 ---
 
 <style>

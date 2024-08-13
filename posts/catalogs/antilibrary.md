@@ -30,6 +30,8 @@ date: "2024-02-07"
 - Z
 - Husbands and Wives
 - The Anderson Tapes
+- The Instigators
+- The Iron Claw
 
 ## Books
 
@@ -61,3 +63,4 @@ date: "2024-02-07"
 - Shogun
 - Xavier: Renegade Angel
 - Lady in the Lake
+- MANIAC

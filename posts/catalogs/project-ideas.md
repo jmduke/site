@@ -8,3 +8,4 @@ date: "2024-02-12"
 - a Stripe-specific blog/content gallery.
 - Turn [the fact that you can render .docs in an iframe](https://jsfiddle.net/gcuzq343/) into a very specific, niche tool.
 - A [prettier, more ergonomic version of Google's DIG tool](https://dns-lookup.jvns.ca/#buttondown.com%7Call-the-records).
+- A non-shitty version of [Linkscout](https://www.linkscout.com/).
