@@ -36,6 +36,7 @@ date: "2024-02-07"
 ## Books
 
 - Kim
+- When the Clock Broke
 - Riddle of the Sands
 - The Satanic Verses
 - The Visible Hand
@@ -54,6 +55,8 @@ date: "2024-02-07"
 - Only The Paranoid Survive
 - The Box
 - The Image (Daniel Boorstin)
+- The Holy Day
+- Man and Rubber
 
 ## Games
 

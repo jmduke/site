@@ -603,6 +603,28 @@ data:
       - Cromartie
       - Great Pretender
       - Fire Emblem Engage
+  - date: 2024-08-12
+      - Taskmaster
+      - High Output Management
+      - Ted Lasso
+  - date: 2024-08-13
+      - Taskmaster
+      - High Output Management
+      - Monster
+  - date: 2024-08-14
+      - The Unicorn Project
+      - Ted Lasso
+      - Fire Emblem Engage
+  - date: 2024-08-14
+      - The Unicorn Project
+      - Ted Lasso
+      - Taskmaster
+  - date: 2024-08-15
+      - Fire Emblem Engage
+      - Ted Lasso
+      - Taskmaster
+  - date: 2024-08-16
+      - The Unicorn Project
 ---
 
 <style>
