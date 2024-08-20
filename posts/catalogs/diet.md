@@ -625,6 +625,15 @@ data:
       - Taskmaster
   - date: 2024-08-16
       - The Unicorn Project
+  - date: 2024-08-17
+      - The Unicorn Project
+      - Fire Emblem Engage
+  - date: 2024-08-17
+      - Fire Emblem
+      - Taskmaster
+      - Unicorn Project
+  - date: 2024-08-19
+      - High Output Management
 ---
 
 <style>

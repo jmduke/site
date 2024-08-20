@@ -10,6 +10,7 @@ I have found myself learning more and more words recently. This is fun and good:
 
 When I first started building this catalog, I expected the plurality to be from the NYT crossword 2, and the data appears to bear that out:
 
+- **manuport**: a natural object that has been deliberately taken from its original environment and relocated without further modification
 - **parvenu**: a person of obscure origin who has gained wealth, influence, or celebrity.
 - **asthenia**: abnormal physical weakness or lack of energy
 - **hoosegow**: a prison (via [[Fargo (Season 5)]])
