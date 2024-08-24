@@ -632,8 +632,19 @@ data:
       - Fire Emblem
       - Taskmaster
       - Unicorn Project
+      - Kaiji
   - date: 2024-08-19
       - High Output Management
+      - Kaiji
+      - Great Pretender
+  - date: 2024-08-20
+      - High Output Management
+      - Dungeon Meshi
+  - date: 2024-08-21
+      - Monster
+      - Taskmaster
+  - date: 2024-08-22
+      - Melvor Idle
 ---
 
 <style>
