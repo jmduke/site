@@ -645,6 +645,9 @@ data:
       - Taskmaster
   - date: 2024-08-22
       - Melvor Idle
+  - date: 2024-08-24
+      - Melvor Idle
+      - Cable Cowboy
 ---
 
 <style>
