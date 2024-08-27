@@ -648,6 +648,11 @@ data:
   - date: 2024-08-24
       - Melvor Idle
       - Cable Cowboy
+  - date: 2024-08-25
+      - Taskmaster
+  - date: 2024-08-26
+      - Tower of Magic
+      - Cable Cowboy
 ---
 
 <style>
