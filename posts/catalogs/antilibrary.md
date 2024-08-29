@@ -57,6 +57,7 @@ date: "2024-02-07"
 - The Image (Daniel Boorstin)
 - The Holy Day
 - Man and Rubber
+- The Wall
 
 ## Games
 

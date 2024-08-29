@@ -651,7 +651,15 @@ data:
   - date: 2024-08-25
       - Taskmaster
   - date: 2024-08-26
-      - Tower of Magic
+      - Wizrobe
+      - Cable Cowboy
+  - date: 2024-08-27
+      - Wizrobe
+      - Cable Cowboy
+      - Taskmaster
+  - date: 2024-08-28
+      - The Great Pretender
+      - Forever
       - Cable Cowboy
 ---
 
