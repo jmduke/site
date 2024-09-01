@@ -661,6 +661,9 @@ data:
       - The Great Pretender
       - Forever
       - Cable Cowboy
+  - date: 2024-08-29
+      - Melvor Isle
+      - Taskmaster
 ---
 
 <style>
