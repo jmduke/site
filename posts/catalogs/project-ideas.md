@@ -9,3 +9,4 @@ date: "2024-02-12"
 - Turn [the fact that you can render .docs in an iframe](https://jsfiddle.net/gcuzq343/) into a very specific, niche tool.
 - A [prettier, more ergonomic version of Google's DIG tool](https://dns-lookup.jvns.ca/#buttondown.com%7Call-the-records).
 - A non-shitty version of [Linkscout](https://www.linkscout.com/).
+- A pleasant frontend for Quickbooks' transaction reconciliation interface. Rather than try and _dethrone_ Quickbooks, I think it would be better to _enrich_ it.

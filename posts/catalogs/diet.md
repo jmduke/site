@@ -664,6 +664,22 @@ data:
   - date: 2024-08-29
       - Melvor Isle
       - Taskmaster
+  - date: 2024-08-30
+      - Le Samourai
+      - Taskmaster
+  - date: 2024-08-31
+      - Cable Cowboy
+      - Melvor Isle
+      - Kaiji
+  - date: 2024-09-01
+      - Cable Cowboy
+      - Melvor Isle
+  - date: 2024-09-02
+      - Cable Cowboy
+      - Melvor Isle
+  - date: 2024-09-03
+      - Cable Cowboy
+      - Melvor Isle
 ---
 
 <style>
