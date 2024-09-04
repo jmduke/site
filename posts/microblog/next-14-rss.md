@@ -1,6 +1,6 @@
 ---
 title: RSS in Next 14
-date: "2024-09-04"
+date: "2024-09-05"
 tags: microblog
 ---
 
