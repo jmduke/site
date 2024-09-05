@@ -680,6 +680,11 @@ data:
   - date: 2024-09-03
       - Cable Cowboy
       - Melvor Isle
+  - date: 2024-09-04
+      - Cable Cowboy
+      - Taskmaster
+      - Fucking Anime I Don't Know
+      - Melvor Isle
 ---
 
 <style>
