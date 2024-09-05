@@ -1,5 +1,5 @@
 ---
-title: "Improving Django's default pagination performance"
+title: "MD5-based uniqueness constraints in Django"
 date: "2024-09-05"
 tags: microblog
 ---
