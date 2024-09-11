@@ -1,8 +1,14 @@
----
-pagination:
-  data: collections.all
-  size: 10
-  reverse: true
+---js
+{
+    pagination: {
+        data: "collections.all",
+        size: 20,
+        reverse: true,
+        before: function(p, f) {
+            return p.filter(p => p.data.source !== undefined || p.data.date !== undefined)
+        }
+    }
+}
 ---
 
 <!doctype html>
