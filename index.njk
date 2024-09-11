@@ -1,6 +1,6 @@
 ---
 pagination:
-  data: collections.post
+  data: collections.all
   size: 10
   reverse: true
 ---
@@ -21,7 +21,7 @@ pagination:
     class="prose prose-neutral flex items-center space-x-4 text-gray-600 -mb-1 font-thin"
   >
 
-                                {% if post.date %}
+                                {% if post.date and post.data.tags != 'quotes' %}
                                     <div class="text-xs">{{ post.date | readablePostDate }}</div>
                                 {% endif %}
                             </nav>
@@ -38,9 +38,20 @@ pagination:
                             </nav>
                         </div>
 
-                        {{ post.content | safe }}
+                        {% if post.data.tags == 'quotes' %}
+                            <blockquote>{{ post.content | safe}}</blockquote>
+                            <div class="-mt-2">
+                                via {{ post.data.source }}
+                            </div>
+                        {% else %}
+                            {% if post.data.image %}
+                            <img src="/img/{{ post.data.image }}" class="float-right max-w-[200px] ml-12" />
+                            {% endif %}
+
+                            {{ post.content | safe }}
+                        {% endif %}
                         <p class="!text-green-600 !mt-0">
-                            {{ post.rating | toStars }}
+                            {{ post.data.rating | toStars }}
                         </p>
                     </div>
                     <hr/>
