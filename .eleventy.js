@@ -30,39 +30,10 @@ module.exports = function (eleventyConfig) {
     return "★".repeat((rating + 1) / 2);
   });
   eleventyConfig.addCollection("statistics", (collectionAPI) => {
-    const relevantTags = ["post", "microblog"];
-    const posts = relevantTags.flatMap((tag) =>
-      collectionAPI.getFilteredByTag(tag)
-    );
-    const totalPosts = posts.length;
-
-    const media = collectionAPI.getFilteredByTag("media").filter((item) => {
-      return item.data.status === "Finished";
-    });
-    const mediaTypeToCount = media.reduce((acc, item) => {
-      const type = item.data.type;
-      if (acc[type]) {
-        acc[type]++;
-      } else {
-        acc[type] = 1;
-      }
-      return acc;
-    }, {});
-
-    const totalWords = [...posts, ...media].reduce(
-      (acc, post) => acc + getWordCount(post.page.inputPath),
-      0
-    );
-
-    return {
-      totalPosts,
-      totalWords,
-      mediaTypeToCount,
-    };
+    return [];
   });
   // END: First-party filters.
 
-  eleventyConfig.addPlugin(iterlinker, {});
   eleventyConfig.addPassthroughCopy({
     "style.out.css": "style.css",
   });
@@ -72,6 +43,7 @@ module.exports = function (eleventyConfig) {
   });
   eleventyConfig.addPlugin(syntaxHighlight);
   eleventyConfig.addPlugin(pluginRss);
+  eleventyConfig.addPlugin(iterlinker, {});
 
   let options = {
     html: true, // Enable HTML tags in source
@@ -79,16 +51,4 @@ module.exports = function (eleventyConfig) {
   };
   let markdownLib = markdownIt(options).use(markdownItFootnote);
   eleventyConfig.setLibrary("md", markdownLib);
-  eleventyConfig.addPlugin(EleventyPluginOgImage, {
-    satoriOptions: {
-      fonts: [
-        {
-          name: "Inter",
-          data: fs.readFileSync("./img/hex-franklin-bold.otf"),
-          weight: 700,
-          style: "normal",
-        },
-      ],
-    },
-  });
 };

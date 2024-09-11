@@ -683,8 +683,18 @@ data:
   - date: 2024-09-04
       - Cable Cowboy
       - Taskmaster
-      - Fucking Anime I Don't Know
+      - Monster
       - Melvor Isle
+  - date: 2024-09-05
+  - date: 2024-09-06
+      - Melvor Isle
+  - date: 2024-09-07
+      - Melvor Isle
+      - Cable Cowboy
+      - High Output Management
+  - date: 2024-09-08
+      - Melvor Isle
+      - Idle Itkah
 ---
 
 <style>

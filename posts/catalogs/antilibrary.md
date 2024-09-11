@@ -32,6 +32,7 @@ date: "2024-02-07"
 - The Anderson Tapes
 - The Instigators
 - The Iron Claw
+- A Parked Life
 
 ## Books
 
@@ -62,6 +63,10 @@ date: "2024-02-07"
 ## Games
 
 - Arco
+- Tactical Breach Wizards
+- Lorelei and the Laser Eyes
+- Dread Delusion
+- Felvidek
 
 ## Television
 

@@ -1,173 +1,60 @@
-<!DOCTYPE html>
+---
+pagination:
+  data: collections.post
+  size: 10
+  reverse: true
+---
+
+<!doctype html>
 <html lang="en">
     <head>
         {% include 'head.html' %}
-        <title>
-            Applied Cartography
-        </title>
+        <title>{{ title }} · Applied Cartography</title>
     </head>
-    <body>
-        {% include 'nav.html' %}
-        <div class="p-4">
-            <main
-        class="max-w-prose mx-auto  prose-neutral flex-1"
-      >
-                <div class="">
-                    <h2 class="font-bold mb-1">👋 Hello hello!</h2>
-                    <p>
-Hi there. I'm Justin Duke: an engineer, writer, and founder. I currently work
-as the CEO of <a href="https://buttondown.com">Buttondown</a>, the best way to start and grow your newsletter. This site is
-meant equal parts playground, pulpit, and commonplace book; I hope you have some fun poking around.
-</p>
-                </div>
+    <body class="flex min-h-screen justify-center flex-col lg:flex-row">
+        <div class="flex-1 flex flex-col">
+            <main class="max-w-prose prose prose-neutral prose-sm flex flex-col items-center [&>*]:w-full prose-p:text-[16px] prose-li:text-[16px] mx-8 lg:mx-auto py-8 lg:py-16 prose-a:text-blue-500 [&_a:hover]:bg-blue-100 prose-code:text-[14px] space-y-16">
+                {% for post in pagination.items %}
+                    <div>
+                        <div class="">
+                            <nav
+    class="prose prose-neutral flex items-center space-x-4 text-gray-600 -mb-1 font-thin"
+  >
 
-                <div class="-m-4 p-4 bg-yellow-100 border-yellow-300 border mt-4">
-                    <h2 class="font-bold mb-1 flex items-center space-x-1">
-                        <img src="/icons/bolt.svg" alt="Lightning bolt" class="w-4 h-4"/>
+                                {% if post.date %}
+                                    <div class="text-xs">{{ post.date | readablePostDate }}</div>
+                                {% endif %}
+                            </nav>
+                        </div>
+                        <div class="">
+                            <nav class="max-w-prose mx-auto prose prose-neutral">
+                                <li class="pl-0 flex">
+                                    <div class="flex-1">
+                                        <a href="{{ post.url }}" class="font-bold no-underline text-lg !text-black"
+        >{{ post.data.title }}</a
+          >
+                                    </div>
+                                </li>
+                            </nav>
+                        </div>
 
-                        <div>Subscribe to my newsletter</div>
-                    </h2>
-I publish monthly roundups of everything I've written, plus pictures of my corgi.
-<form action="https://buttondown.email/api/emails/embed-subscribe/applied-cartography" method="post" target="popupwindow" class="flex space-x-2 mt-2 text-sm"><input type="email" name="email" placeholder="your@lovely.email" class="px-4 rounded-lg border border-solid border-gray-300 flex-1"><input class="bg-yellow-400 rounded-lg text-white font-bold px-4 py-2 uppercase" type="submit" value="Subscribe!"></form>
-                </div>
-
-                <h2 class="font-bold mb-1 mt-8 inline-flex items-center space-x-1">
-                    <img src="/icons/bookmark.svg" class="w-4 h-4"/>
-                    <div>Current work</div>
-                </h2>
-                <ul class="list-none px-0 mt-0">
-                    {%- for role in metadata.currentWork -%}
-                        <li class="pl-0 flex">
-                            <div class="flex-1">
-                                <a class="font-normal text-md hover:bg-gray-200 border-b" href="{{ role.url }}">{{ role.role }}</a>
-                            </div>
-                            <div class="tabular-nums text-gray-500">{{ role.timing }}</div>
-                        </li>
-                    {%- endfor -%}
-                </ul>
-
-                <div class="-m-4 p-4 bg-green-100 border-green-300 border mt-4">
-                    <h2 class="font-bold mb-1 flex items-center space-x-1">
-                        <img src="/icons/calendar.svg" class="w-4 h-4"/>
-                        <div class="flex-1">Current media</div>
-                    </h2>
-                    {% set currentMedia = collections.media | filter("status", "In progress") %}
-                    <div>I'm currently enjoying {% for item in currentMedia %}
-                            {% if loop.last %}and {% endif %}
-                            <strong>{{ item.data.title }}</strong>
-                            {%- if not loop.last -%}, {%- endif -%}
-                        {% endfor %}.
+                        {{ post.content | safe }}
+                        <p class="!text-green-600 !mt-0">
+                            {{ post.rating | toStars }}
+                        </p>
                     </div>
+                    <hr/>
+                {% endfor %}
+                <div style="text-align: center">
+                    {% if pagination.previousPageHref %}
+                        <a href="{{ pagination.previousPageHref }}">Previous page</a> ·
+                    {% endif %}
+                    {% if pagination.nextPageHref %}
+                        <a href="{{ pagination.nextPageHref }}">Next page</a>
+                    {% endif %}
                 </div>
-
-                <h2 class="font-bold mb-1 mt-8 inline-flex items-center space-x-1">
-                    <img src="/icons/document.svg" class="w-4 h-4"/>
-                    <div>Essays</div>
-                </h2>
-                {% set postList = collections.post %}
-                {% include '_post-list.html' %}
-
-                <details>
-                    <summary class="mt-8 inline-flex mb-1 items-center hover:bg-gray-100">
-                        <h2 class="font-bold mr-2 inline-flex items-center space-x-1">
-                            <img src="/icons/book.svg" class="w-4 h-4"/>
-                            <div>Media<div></h2>
-                            </summary>
-                            {% set postList = collections.media | filter("status", "Finished") %}
-                            {% include '_post-list.html' %}
-                        </details>
-
-                        <h2 class="font-bold mb-1 mt-8 inline-flex items-center space-x-1">
-                            <img src="/icons/archive.svg" class="w-4 h-4"/>
-
-                            <div>Notes</div>
-                        </h2>
-                        {% set postList = collections.microblog %}
-                        {% include '_post-list.html' %}
-
-                        <h2 class="font-bold mb-1 mt-8 inline-flex items-center space-x-1">
-                            <img src="/icons/globe.svg" class="w-4 h-4"/>
-
-                            <div>Elsewhere<div></h2>
-                                <ul class="list-none px-0 mt-0">
-                                    {%- for post in metadata.socialMedia -%}
-                                        <li class="pl-0 flex">
-                                            <div class="flex-1">
-                                                <a href="{{ post.url }}" class="font-normal text-md">{{ post.platform }}</a>
-                                            </div>
-                                            <div class="tabular-nums text-gray-500">{{ post.handle }}</div>
-                                        </li>
-                                    {%- endfor -%}
-                                </ul>
-
-                                <h2 class="font-bold mb-1 mt-8 inline-flex items-center space-x-1">
-                                    <img src="/icons/list.svg" class="w-4 h-4"/>
-
-                                    <div>Catalogs<div></h2>
-                                        <ul class="list-none px-0 mt-0">
-                                            {%- for post in collections.catalog -%}
-                                                <li class="pl-0 flex">
-                                                    <div class="flex-1">
-                                                        <a href="{{ post.url }}" class="font-normal text-md">{{ post.data.title }}</a>
-                                                    </div>
-                                                    <div class="tabular-nums text-gray-500">as of {{ post.data.date }}</div>
-                                                </li>
-                                            {%- endfor -%}
-                                        </ul>
-
-                                        <h2 class="font-bold mb-1 mt-8 inline-flex items-center space-x-1">
-                                            <img src="/icons/newspaper.svg" class="w-4 h-4"/>
-
-                                            <div>Press<div></h2>
-                                                {% set postList = collections.press %}
-                                                {% include '_post-list.html' %}
-
-                                                <h2 class="font-bold mb-1 mt-8 inline-flex items-center space-x-1">
-                                                    <img src="/icons/pie.svg" class="w-4 h-4"/>
-                                                    <div>Stats<div></h2>
-
-                                                        <li class="pl-0 flex">
-                                                            <div class="flex-1">
-                                                                Words written
-                                                            </div>
-                                                            <div class="tabular-nums text-gray-500">{{ collections.statistics.totalWords }}</div>
-                                                        </li>
-
-                                                        <li class="pl-0 flex">
-                                                            <div class="flex-1">
-                                                                Essays published
-                                                            </div>
-                                                            <div class="tabular-nums text-gray-500">{{ collections.statistics.totalPosts }}</div>
-                                                        </li>
-
-                                                        <li class="pl-0 flex">
-                                                            <div class="flex-1">
-                                                                Books reviewed
-                                                            </div>
-                                                            <div class="tabular-nums text-gray-500">{{ collections.statistics.mediaTypeToCount.Book }}</div>
-                                                        </li>
-
-                                                        <li class="pl-0 flex">
-                                                            <div class="flex-1">
-                                                                Games reviewed
-                                                            </div>
-                                                            <div class="tabular-nums text-gray-500">{{ collections.statistics.mediaTypeToCount.Game }}</div>
-                                                        </li>
-
-                                                        <li class="pl-0 flex">
-                                                            <div class="flex-1">
-                                                                Movies reviewed
-                                                            </div>
-                                                            <div class="tabular-nums text-gray-500">{{ collections.statistics.mediaTypeToCount.Movie }}</div>
-                                                        </li>
-
-                                                        <li class="pl-0 flex">
-                                                            <div class="flex-1">
-                                                                Television shows reviewed
-                                                            </div>
-                                                            <div class="tabular-nums text-gray-500">{{ collections.statistics.mediaTypeToCount.Television }}</div>
-                                                        </li>
-                                                    </main>
-                                                </div>
-                                            </body>
-                                        </html>
+            </main>
+        </div>
+        {% include 'footer.html' %}
+    </body>
+</html>

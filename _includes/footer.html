@@ -1,40 +1,120 @@
-<div class="max-w-prose md:px-0 mx-auto">
-  <div class="m-4 p-4 bg-yellow-100 border-yellow-300 border mt-12">
-    <h2 class="font-bold mb-1 flex items-center space-x-1 mt-0">
+<div
+  class="lg:max-w-[300px] border-t-gray-200 border-t lg:border-t-0 text-gray-800 text-sm flex flex-col top-0 bg-gray-50 border-l border-l-gray-200 sticky max-h-screen"
+>
+  <div class="not-prose">
+    <nav
+      class="max-w-prose mx-auto prose prose-neutral flex items-center border-b border-b-gray-200"
+    >
+      <a
+        href="/"
+        class="font-bold uppercase no-underline transition-opacity p-4 flex space-x-4 items-center text-sm hover:bg-blue-100 w-full"
+      >
+
+        <img src="/icons/pin.svg" alt="Lightning bolt" class="w-4 h-4" />
+        <div>Applied Cartography</div>
+      </a>
+    </nav>
+  </div>
+  {% include 'analytics.html' %}
+
+  {%- if year or genre %}
+    <div class="p-4 border-b border-b-gray-200">
+      <h2 class="font-bold mb-1 flex items-center space-x-4 mt-0">
+        <img src="/icons/pie.svg" alt="Lightning bolt" class="w-4 h-4" />
+
+        <div>About {{ title }}</div>
+      </h2>
+      <ul class="grid grid-cols-2">
+        {% if year %}
+          <li class="pl-8">
+            <div class="text-xs">Published in
+              <div class="text-sm font-semibold">{{ year }}</div>
+            </div>
+          </li>
+        {% endif %}
+        {% if genre %}
+          <li class="pl-8">
+            <div class="text-xs">Genre
+              <div class="text-sm font-semibold">{{ genre }}</div>
+            </div>
+          </li>
+        {% endif %}
+      </ul>
+    </div>
+  {%- endif %}
+
+  {%- if backlinks.length > 0 %}
+    <div class="p-4 border-b border-b-gray-200">
+      <h2 class="font-bold mb-1 flex items-center space-x-4 mt-0">
+        <img src="/icons/list.svg" alt="Lightning bolt" class="w-4 h-4" />
+        <div>This post is referenced by:</div>
+      </h2>
+      <ul>
+        {%- for mention in backlinks %}
+          <li class="pl-8">
+            <a href="{{ mention.url }}" class="text-blue-500 hover:bg-blue-100">{{ mention.title }}</a>
+          </li>
+        {%- endfor %}
+      </ul>
+    </div>
+  {%- endif %}
+
+  <div class="p-4 flex-1">
+    <h2 class="font-bold mb-1 flex items-center space-x-4 mt-0">
+      <img src="/icons/id.svg" alt="Lightning bolt" class="w-4 h-4" />
+
+      <div>About the author</div>
+    </h2>
+    <div class="pl-8">
+      I'm Justin Duke — a software engineer, writer, and founder. I currently work as the CEO of <a href="https://buttondown.com" class="text-blue-500 underline hover:bg-blue-100">Buttondown</a>, the best way to start and grow your newsletter, and as a partner at <a href="https://thirdsouth.capital" class="text-blue-500 underline hover:bg-blue-100">Third South Capital</a>.
+    </div>
+  </div>
+
+  <div class="p-4 border-t border-t-gray-200">
+    <div class="">
+      <ul class="space-y-1.5">
+        {%- for post in metadata.socialMedia -%}
+          <li class="pl-0 flex items-center space-x-4">
+            <div class="">
+              <img src="/icons/{{ post.platform }}.svg" alt="{{ post.platform }}" class="w-4 h-4" />
+            </div>
+            <div class="tabular-nums text-gray-500">
+              <a href="{{ post.url }}" class="font-normal text-blue-500 hover:bg-blue-100">{{ post.handle }}</a></div>
+          </li>
+        {%- endfor -%}</ul>
+    </div>
+  </div>
+
+  <div class="p-4 border-t border-t-gray-200">
+    <h2 class="font-bold mb-1 flex items-center space-x-4 mt-0">
       <img src="/icons/bolt.svg" alt="Lightning bolt" class="w-4 h-4" />
 
-      <div>Subscribe to my newsletter</div>
+      <div>Don't miss the next essay</div>
     </h2>
-    I publish monthly roundups of everything I've written, plus pictures of my
-    corgi.
+    <div class="pl-8 text-balance mb-4"> Get a monthly roundup of everything I've written: no ads, no nonsense. </div>
     <form
       action="https://buttondown.email/api/emails/embed-subscribe/applied-cartography"
       method="post"
       target="popupwindow"
-      class="flex space-x-2 mt-2 text-sm"
+      class="flex space-y-2 mt-2 text-sm flex-col"
     ><input
       type="email"
       name="email"
       placeholder="your@lovely.email"
-      class="px-4 rounded-lg border border-solid border-gray-300 flex-1" /><input
-        class="bg-yellow-400 rounded-lg text-white font-bold px-4 py-2 uppercase"
+      class="px-4 rounded-lg border border-solid border-gray-300 flex-1 py-2" /><input
+        class="bg-blue-500 rounded-lg text-white font-bold px-4 py-2 uppercase"
         type="submit"
         value="Subscribe!"
       /></form>
   </div>
-</div>
 
-<div class="text-xs uppercase text-gray-500 p-8 mt-8 w-prose mx-auto text-left">
-  © 2024 Justin Duke · All rights reserved · have a nice day.
-</div>
-
-<script>
-  // Footnotes: Littlefoot 'em, THEN hide with Nutshell
-  littlefoot.littlefoot({
-    activateOnHover: true,
-    hoverDelay: 0,
-    dismissOnUnhover: true,
-    buttonTemplate: `
+  <script>
+      // Footnotes: Littlefoot 'em, THEN hide with Nutshell
+    littlefoot.littlefoot({
+      activateOnHover: true,
+      hoverDelay: 0,
+      dismissOnUnhover: true,
+      buttonTemplate: `
         <button
             aria-label="Footnote <% number %>"
             class="littlefoot__button"
@@ -43,5 +123,7 @@
         />
             <% number %>
         </button>`,
-  });
-</script>
+    });
+  </script>
+</div>
+</div>

@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./**/*.{njk,md,html}"],
+  content: ["./**/*.{njk,html}"],
   theme: {
     fontFamily: {
       sans: ["Hex Franklin", "sans-serif"],
@@ -10,14 +10,13 @@ module.exports = {
         DEFAULT: {
           css: {
             blockquote: {
-              borderLeftWidth: "0.5rem",
               padding: "1rem",
               position: "relative",
               fontStyle: "normal",
               backgroundColor: theme("colors.gray.50"),
             },
             "blockquote p": {
-              margin: "0",
+              margin: "0 !important",
             },
             hr: {
               borderColor: theme("colors.gray.200"),
