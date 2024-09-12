@@ -695,6 +695,16 @@ data:
   - date: 2024-09-08
       - Melvor Isle
       - Idle Itkah
+  - date: 2024-09-09
+      - Taskmaster
+      - Kaiji
+      - High Output Management
+      - Melvor
+  - date: 2024-09-10
+  - date: 2024-09-11
+      - Melvor Isle
+      - High Output Management
+      - Taskmaster
 ---
 
 <style>

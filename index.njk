@@ -47,11 +47,11 @@
                         {% if post.data.tags == 'quotes' %}
                             <blockquote>{{ post.content | safe}}</blockquote>
                             <div class="-mt-2">
-                                via {{ post.data.source }}
+                                via <a href="/posts/post/{{ post.data.source | slugify }}">{{ post.data.source }}</a>
                             </div>
                         {% else %}
                             {% if post.data.image %}
-                            <img src="/img/{{ post.data.image }}" class="float-right max-w-[200px] ml-12" />
+                                <img src="/img/{{ post.data.image }}" class="float-right max-w-[200px] ml-12"/>
                             {% endif %}
 
                             {{ post.content | safe }}
