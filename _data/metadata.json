@@ -11,6 +11,28 @@
       "url": "https://thirdsouth.capital"
     }
   ],
+  "greatestHits": [
+    {
+      "title": "Weird tests for tacit knowledge",
+      "url": "/posts/post/weird-tests-tacit-knowledge"
+    },
+    {
+      "title": "Two years of independent work",
+      "url": "/posts/post/two-years"
+    },
+    {
+      "title": "Befriending the Goon Squad",
+      "url": "/posts/post/goon-squad"
+    },
+    {
+      "title": "Buying a domain for $85K",
+      "url": "/posts/post/buttondown-dot-com"
+    },
+    {
+      "title": "What elephants taste like",
+      "url": "/posts/post/elephants"
+    }
+  ],
   "socialMedia": [
     {
       "platform": "Twitter",

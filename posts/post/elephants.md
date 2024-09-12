@@ -3,7 +3,7 @@ title: What Elephants Taste Like
 date: "2023-10-31"
 ---
 
-When I wrote [Befriending the Goon Squad](https://www.applied-cartography.com/goon-squad) — an essay on the importance of patience and discipline when building a product — I received dozens of variations of the following question:
+When I wrote [[Befriending the Goon Squad]] — an essay on the importance of patience and discipline when building a product — I received dozens of variations of the following question:
 
 > So how do you _stay_ disciplined? How do you avoid getting distracted by new ideas or dismayed by bad weeks, even when you only have a few users? <a class="absolute right-3 bottom-3 no-underline not-italic text-orange-700">Various people</a>
 
