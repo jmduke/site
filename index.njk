@@ -5,7 +5,7 @@
         size: 20,
         reverse: true,
         before: function(p, f) {
-            return p.filter(p => p.data.source !== undefined || p.data.date !== undefined)
+            return p.filter(p => p.data.source || p.data.date)
         }
     }
 }
