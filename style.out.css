@@ -1509,6 +1509,18 @@ video {
   margin-top: 2rem;
 }
 
+.\!ml-12 {
+  margin-left: 3rem !important;
+}
+
+.\!mt-12 {
+  margin-top: 3rem !important;
+}
+
+.\!-mt-12 {
+  margin-top: -3rem !important;
+}
+
 .block {
   display: block;
 }
@@ -1675,6 +1687,10 @@ video {
 
 .overflow-x-hidden {
   overflow-x: hidden;
+}
+
+.overflow-y-scroll {
+  overflow-y: scroll;
 }
 
 .text-balance {

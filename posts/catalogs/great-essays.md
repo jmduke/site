@@ -24,6 +24,7 @@ date: "2024-02-10"
 - [No Haunted Forests (2018)](https://john-millikin.com/sre-school/no-haunted-forests)
 - [Is this true?](https://notes.jordanscales.com/is-this-true)
 - [Turbopuffer's architecture (2024)](https://turbopuffer.com/architecture)
+- [The Configuration Complexity Clock (2012)](https://mikehadlow.blogspot.com/2012/05/configuration-complexity-clock.html)
 
 ## Productivity
 
