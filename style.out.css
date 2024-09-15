@@ -1465,6 +1465,14 @@ video {
   margin-bottom: 1rem;
 }
 
+.\!-mt-12 {
+  margin-top: -3rem !important;
+}
+
+.\!ml-12 {
+  margin-left: 3rem !important;
+}
+
 .\!mt-0 {
   margin-top: 0px !important;
 }
@@ -1507,18 +1515,6 @@ video {
 
 .mt-8 {
   margin-top: 2rem;
-}
-
-.\!ml-12 {
-  margin-left: 3rem !important;
-}
-
-.\!mt-12 {
-  margin-top: 3rem !important;
-}
-
-.\!-mt-12 {
-  margin-top: -3rem !important;
 }
 
 .block {
