@@ -24,7 +24,7 @@ The past six months or so have been, to a certain extent, a listening tour of al
 
 ### Bluesky
 
-This leaves the titular social network of this post, and the one that I find myself enjoy the most: Bluesky.
+This leaves the titular social network of this post, and the one that I find myself enjoying the most: Bluesky.
 
 Setting aside whatever preconceived notions you might have as to Bluesky’s Twitter-inflected past, ATProto’s legitimacy as a protocol, or the word “skeet”, Bluesky checks all of my very specific, curmudgeonly boxes:
 
