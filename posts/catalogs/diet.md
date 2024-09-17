@@ -716,6 +716,13 @@ data:
       - Creation Lake
       - Taskmaster
       - Melvor Isle
+  - date: 2024-09-14
+      - Creation Lake
+      - Melvor Isle
+  - date: 2024-09-15
+      - Creation Lake
+      - Melvor Isle
+      - Taskmaster
 ---
 
 <style>

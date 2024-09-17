@@ -2355,6 +2355,11 @@ details[open] summary:after {
     padding-bottom: 4rem;
   }
 
+  .lg\:prose-pre\:\!-mx-8 :is(:where(pre):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
+    margin-left: -2rem !important;
+    margin-right: -2rem !important;
+  }
+
   .lg\:prose-pre\:\!w-\[calc\(100vw-2rem-300px\)\] :is(:where(pre):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
     width: calc(100vw - 2rem - 300px) !important;
   }
