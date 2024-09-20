@@ -723,6 +723,19 @@ data:
       - Creation Lake
       - Melvor Isle
       - Taskmaster
+  - date: 2024-09-16
+      - Creation Lake
+      - Melvor Isle
+  - date: 2024-09-17
+      - Taskmaster
+      - Kaiji
+      - Melvor Idle
+  - date: 2024-09-18
+      - Melvor Idle
+      - Slow Horses
+  - date: 2024-09-19
+      - Melvor Idle
+      - Taskmaster
 ---
 
 <style>

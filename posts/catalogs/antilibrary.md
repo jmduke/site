@@ -60,6 +60,9 @@ date: "2024-02-07"
 - Man and Rubber
 - The Wall
 - Book of Clouds
+- The Miracle of St Anthony
+- Becoming Trader Joe's
+- Significant Objects
 
 ## Games
 
