@@ -4,7 +4,7 @@ date: "2024-02-11"
 tags: post
 ---
 
-Working on a new analytics engine — a scant eleven months after [the previous 'new analytics engine'](https://buttondown.email/changelog/2023-03-28).
+Working on a new analytics engine — a scant eleven months after [the previous 'new analytics engine'](https://buttondown.com/changelog/2023-03-28).
 
 Calling this `3.0` is a bit of a misnomer: most of the code, design, and plumbing from the 2023 redesign is sticking around, just in a more modular format. The goal here is to address a couple shortfalls in the previous architecture:
 

@@ -20,7 +20,7 @@ module.exports = {
             },
             hr: {
               borderColor: theme("colors.gray.200"),
-              width: "300px !important",
+              width: "320px !important",
               margin: "2rem auto",
             },
             p: {

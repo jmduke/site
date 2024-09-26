@@ -7,7 +7,7 @@ date: 2024-09-16
 
 [Buttondown](http://buttondown.com/) was _not_ affected; we send [a lot of our custom domain traffic through Postmark](https://buttondown.com/stack), but all of it is hitting their API, rather than their SMTP, and their SMTP is what had the SSL issue.
 
-Still, if we _had_ been impacted we would have been fine. A few years ago I [accidentally made a great decision to abstract out our backing ESP](https://weeknotes.buttondown.email/archive/expanding-to-multiple-esps/), which means at any point in time I can run a command like:
+Still, if we _had_ been impacted we would have been fine. A few years ago I [accidentally made a great decision to abstract out our backing ESP](https://weeknotes.buttondown.com/archive/expanding-to-multiple-esps/), which means at any point in time I can run a command like:
 
 ```python
 Newsletter

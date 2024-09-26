@@ -12,6 +12,6 @@ Welcome to spring, bona fide and humid. Lots of writing this month:
 
 In other, non-writing news:
 
-- We [launched Buttondown's new docs](https://docs.buttondown.email/introduction), the third iteration in eight years (the first being Notion, the second being what this new iteration is replacing.) This was largely Ben's project, and he's publishing a blog post more formally today or tomorrow on it; I'm really happy with how it turned out.
+- We [launched Buttondown's new docs](https://docs.buttondown.com/introduction), the third iteration in eight years (the first being Notion, the second being what this new iteration is replacing.) This was largely Ben's project, and he's publishing a blog post more formally today or tomorrow on it; I'm really happy with how it turned out.
 - Went to MicroConf. Still need to write up some notes; I had a great time.
 - Busy, busy, busy. The next four months are gonna fly by.

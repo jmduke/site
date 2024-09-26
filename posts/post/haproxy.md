@@ -45,7 +45,7 @@ frontend http
 
     # We want to find references to the old TLD and redirect them to the new one.
     # Don't redirect POST requests, because they're used for webhooks.
-    acl is_old_tld hdr(host) -i buttondown.email
+    acl is_old_tld hdr(host) -i buttondown.com
     http-request redirect prefix https://buttondown.com code 302 if METH_GET is_old_tld
 
     # Yes, it is unfortunate that this is hardcoded and can't be pulled out

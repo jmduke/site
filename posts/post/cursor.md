@@ -64,7 +64,7 @@ def test_basic(stripe_account, stripe_charge):
 
 (Note that it's _intentional_ that the `stripe_account` fixture is not actually in this file: it's in a global `conftest.py` that I pointed Cursor to.)
 
-This is basically the most trivial possible port (and, again, Cody + Copilot Workspace both failed). Here's a slightly more complicated one testing out our [Exports API](https://docs.buttondown.email/api-exports-create):
+This is basically the most trivial possible port (and, again, Cody + Copilot Workspace both failed). Here's a slightly more complicated one testing out our [Exports API](https://docs.buttondown.com/api-exports-create):
 
 ```python
 from unittest import mock

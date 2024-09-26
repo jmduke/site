@@ -6,7 +6,7 @@ tags: post
 
 Via HN I ran into not [one](https://tkte.ch/articles/2024/03/15/parsing-urls-in-python.html) but [two](https://github.com/gruns/furl) extremely neat
 and pleasant-looking libraries for URL manipulation. They look like great libraries, and a prior version of me would have taken a brief set of cursory
-glances at the hodgepodge of janky URL manipulation code that _I_ wrote for [Buttondown](https://buttondown.email) and said "okay, time to rip out all
+glances at the hodgepodge of janky URL manipulation code that _I_ wrote for [Buttondown](https://buttondown.com) and said "okay, time to rip out all
 of this and replace it with a library that knows what it's doing."
 
 Right now — and I don't mean this in some sort of absolute, zealous sense — that seems unwise. The _incremental cost and ongoing burden_ of pulling in a third-party library for something so trivial and tangential feels high relative to best-case return. (It's not like my existing logic is brittle or terrible: it has bugs and edge cases, I'm sure, but they're not an ongoing concern.)

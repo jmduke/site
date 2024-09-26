@@ -32,7 +32,7 @@ To me, it sends a clear message: **there are many competitors that have come bef
 
 This is an important message for independent developers to internalize: especially in crowded markets, **survival, not victory, is the success condition**.
 
-I run [Buttondown](https://buttondown.email/), a newsletter platform. Buttondown shares very little with Blot, but they are both in very crowded spaces — awash with competitors, some of whom are amateurish, some of whom are quite well-funded.
+I run [Buttondown](https://buttondown.com/), a newsletter platform. Buttondown shares very little with Blot, but they are both in very crowded spaces — awash with competitors, some of whom are amateurish, some of whom are quite well-funded.
 
 I've been asked many times some variation of the question "how do you deal with the competition?" There are many answers to this question; in this essay, I want to give one: **wait until they die**.
 
@@ -40,7 +40,7 @@ I've been asked many times some variation of the question "how do you deal with 
 
 ## Buttondown's first year
 
-I launched [Buttondown](https://buttondown.email) in the summer of 2017. The time seemed ripe: the New York Times was writing thinkpieces about the "email newsletter renaissance", and the tool du jour was not just _bad_ but was _actively deprecated_.
+I launched [Buttondown](https://buttondown.com) in the summer of 2017. The time seemed ripe: the New York Times was writing thinkpieces about the "email newsletter renaissance", and the tool du jour was not just _bad_ but was _actively deprecated_.
 
 Unfortunately, I am not a terribly unique person. By my count, _eight_ other newsletter platforms launched in the same year as Buttondown, most of which were either VC-backed or had a significant amount of press coverage.
 

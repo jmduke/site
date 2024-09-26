@@ -1,0 +1,38 @@
+<div class="">
+  <div>
+    <nav
+      class="prose prose-neutral flex items-center space-x-4 text-gray-600 -mb-1 font-thin"
+    >
+      {% if date %}
+        <div class="text-xs">{{ date | readablePostDate }}</div>
+      {% endif %}
+    </nav>
+  </div>
+  <div class="">
+    <nav class="max-w-prose mx-auto prose prose-neutral">
+      <li class="pl-0 flex">
+        <h1 class="flex-1 !my-0 leading-[0]">
+          <a
+            href="{{ url }}"
+            class="font-bold no-underline text-lg !text-black"
+          >
+            {{ title }}
+          </a>
+        </h1>
+      </li>
+    </nav>
+  </div>
+  {% if image %}
+    <img
+      src="/img/{{ image }}"
+      class="float-right max-w-[200px] !ml-12 !-mt-12"
+    />
+  {% endif %} {{ content | safe }}
+  <p class="!text-green-600 !mt-0"> {{ rating | toStars }} </p>
+  {% if title %} {% set quotes = collections.quotes | filter("source", title) %}
+    {% if quotes.length > 0 %}
+      <h2>Highlights</h2>
+      {% for quote in quotes %}
+        <blockquote class="!pt-4">{{ quote.content | safe }}</blockquote>
+      {% endfor %} {% endif %} {% endif %}
+</div>

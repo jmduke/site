@@ -4,7 +4,7 @@ date: "2024-03-29"
 tags: post
 ---
 
-The new version of the [Buttondown docs site](https://docs.buttondown.email/) is all in on [Keystatic](https://keystatic.com/), [Markdoc](https://markdoc.dev/), and [Tailwind's typography plugin](https://github.com/tailwindlabs/tailwindcss-typography) — which makes it _really easy_ to author beautiful docs in plaintext.
+The new version of the [Buttondown docs site](https://docs.buttondown.com/) is all in on [Keystatic](https://keystatic.com/), [Markdoc](https://markdoc.dev/), and [Tailwind's typography plugin](https://github.com/tailwindlabs/tailwindcss-typography) — which makes it _really easy_ to author beautiful docs in plaintext.
 
 We ran into one small issue, which is that the Markdoc renderer likes to place paragraph tags in table cells, such that:
 

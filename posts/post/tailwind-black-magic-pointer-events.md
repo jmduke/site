@@ -4,9 +4,9 @@ date: "2024-03-31"
 tags: post
 ---
 
-I wrote two days ago about [a real and useful application of Tailwind black magic](/tailwind-black-magic-prose-tables/); here's another.
+I wrote two days ago about [a real and useful application of Tailwind black magic](/posts/post/tailwind-black-magic-prose-tables/); here's another.
 
-[Buttondown](https://buttondown.email) has a dropzone component lets folks drag-and-drop items or click on it to get a file-picker. It's used for importing images, archives, CSVs, the works: because it's so flexible, we expose a slot so that components can customize the text and copy as they see fit:
+[Buttondown](https://buttondown.com) has a dropzone component lets folks drag-and-drop items or click on it to get a file-picker. It's used for importing images, archives, CSVs, the works: because it's so flexible, we expose a slot so that components can customize the text and copy as they see fit:
 
 ```html
 <template>

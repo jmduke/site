@@ -11,67 +11,34 @@
 }
 ---
 
-<!doctype html>
-<html lang="en">
-    <head>
-        {% include 'head.html' %}
-        <title>Applied Cartography</title>
-    </head>
-    <body class="flex min-h-screen justify-center flex-col lg:flex-row">
-        <div class="flex-1 flex flex-col">
-            <main class="max-w-prose prose prose-neutral prose-sm flex flex-col items-center [&>*]:w-full prose-p:text-[16px] prose-li:text-[16px] mx-8 lg:mx-auto py-8 lg:py-16 prose-a:text-blue-500 [&_a:hover]:bg-blue-100 prose-code:text-[14px] space-y-16">
-                {% for post in pagination.items %}
-                    <div>
-                        <div class="">
-                            <nav
-    class="prose prose-neutral flex items-center space-x-4 text-gray-600 -mb-1 font-thin"
-  >
+{% extends 'page.njk' %}
 
-                                {% if post.date and post.data.tags != 'quotes' %}
-                                    <div class="text-xs">{{ post.date | readablePostDate }}</div>
-                                {% endif %}
-                            </nav>
-                        </div>
-                        <div class="">
-                            <nav class="max-w-prose mx-auto prose prose-neutral">
-                                <li class="pl-0 flex">
-                                    <div class="flex-1">
-                                        <a href="{{ post.url }}" class="font-bold no-underline text-lg !text-black"
-        >{{ post.data.title }}</a
-          >
-                                    </div>
-                                </li>
-                            </nav>
-                        </div>
+{% block content %}
+    {% for post in pagination.items %}
+        {% if post.data.tags == 'quotes' %}
+            <blockquote>{{ post.content | safe}}</blockquote>
+            <div class="!mt-2">
+            via {{ post.data.source }}
+            </div>
+        {% else %}
+            {% set content = post.content %}
+            {% set title = post.data.title %}
+            {% set date = post.data.date %}
+            {% set url = post.url %}
+            {% include 'content.html' %}
+        {% endif %}
+        <hr/>
+    {% endfor %}
+    <div style="text-align: center">
+        {% if pagination.previousPageHref %}
+            <a href="{{ pagination.previousPageHref }}">Previous page</a> ·
+        {% endif %}
+        {% if pagination.nextPageHref %}
+            <a href="{{ pagination.nextPageHref }}">Next page</a>
+        {% endif %}
+    </div>
+{% endblock %}
 
-                        {% if post.data.tags == 'quotes' %}
-                            <blockquote>{{ post.content | safe}}</blockquote>
-                            <div class="-mt-2">
-                                via <a href="/posts/post/{{ post.data.source | slugify }}">{{ post.data.source }}</a>
-                            </div>
-                        {% else %}
-                            {% if post.data.image %}
-                                <img src="/img/{{ post.data.image }}" class="float-right max-w-[200px] ml-12"/>
-                            {% endif %}
-
-                            {{ post.content | safe }}
-                        {% endif %}
-                        <p class="!text-green-600 !mt-0">
-                            {{ post.data.rating | toStars }}
-                        </p>
-                    </div>
-                    <hr/>
-                {% endfor %}
-                <div style="text-align: center">
-                    {% if pagination.previousPageHref %}
-                        <a href="{{ pagination.previousPageHref }}">Previous page</a> ·
-                    {% endif %}
-                    {% if pagination.nextPageHref %}
-                        <a href="{{ pagination.nextPageHref }}">Next page</a>
-                    {% endif %}
-                </div>
-            </main>
-        </div>
-        {% include 'footer.html' %}
-    </body>
-</html>
+{% block head %}
+    <title>Applied Cartography</title>
+{% endblock %}

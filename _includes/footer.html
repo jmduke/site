@@ -1,5 +1,5 @@
 <div
-  class="lg:max-w-[300px] border-t-gray-200 border-t lg:border-t-0 text-gray-800 text-sm flex flex-col top-0 bg-gray-50 border-l border-l-gray-200 sticky max-h-screen transition-all overflow-y-scroll"
+  class="lg:max-w-[320px] border-t-gray-200 border-t lg:border-t-0 text-gray-800 text-sm flex flex-col top-0 bg-gray-50 border-l border-l-gray-200 sticky max-h-screen transition-all overflow-y-scroll"
 >
   <div class="not-prose">
     <nav
@@ -36,6 +36,13 @@
           <li class="pl-8">
             <div class="text-xs">Genre
               <div class="text-sm font-semibold">{{ genre }}</div>
+            </div>
+          </li>
+        {% endif %}
+        {% if author %}
+          <li class="pl-8">
+            <div class="text-xs">Author
+              <div class="text-sm font-semibold">{{ author }}</div>
             </div>
           </li>
         {% endif %}
@@ -109,7 +116,7 @@
     </h2>
     <div class="pl-8 text-balance mb-4"> Get a monthly roundup of everything I've written: no ads, no nonsense. </div>
     <form
-      action="https://buttondown.email/api/emails/embed-subscribe/applied-cartography"
+      action="https://buttondown.com/api/emails/embed-subscribe/applied-cartography"
       method="post"
       target="popupwindow"
       class="flex space-y-2 mt-2 text-sm flex-col"

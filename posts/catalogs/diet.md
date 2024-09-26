@@ -732,10 +732,30 @@ data:
       - Melvor Idle
   - date: 2024-09-18
       - Melvor Idle
-      - Slow Horses
+      - Slow Horses (Season 4)
   - date: 2024-09-19
       - Melvor Idle
       - Taskmaster
+  - date: 2024-09-20
+      - Melvor Idle
+      - Slow Horses (Season 4)
+  - date: 2024-09-21
+      - Melvor Idle
+      - Taskmaster
+      - Diablo IV
+      - Creation Lake
+  - date: 2024-09-22
+      - Diablo IV
+      - Melvor Idle
+  - date: 2024-09-23
+      - Diablo IV
+      - Melvor Idle
+  - date: 2024-09-24
+      - Taskmaster
+      - Melvor Idle
+  - date: 2024-09-25
+      - Picayune Dreams
+      - Melvor Idle
 ---
 
 <style>
