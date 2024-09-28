@@ -1,5 +1,5 @@
 ---
 title: "Diablo IV"
 type: Game
-status: Shelved
+status: In progress
 ---
