@@ -7,9 +7,26 @@ Lucy Frances Burton was born this week: on September 23, 2024. She came a few we
 
 The first few days have been a bit of a glorious blur: I think fatherhood is one of those rare things uncapturable by prose. What I can say with confidence and poise is this: Lucy is adorable and healthy; Haley is strong beyond belief, and recovering well; I am the luckiest and happiest man alive, and the three of us are blessed to have not just each other but a family of uncles, aunts, cousins, grandparents, and friends far and wide.
 
+---
+
 ![](/img/lucy1.jpeg)
+
+---
+
 ![](/img/lucy2.png)
+
+---
+
 ![](/img/lucy3.jpeg)
+
+---
+
 ![](/img/lucy4.jpeg)
+
+---
+
 ![](/img/lucy5.png)
+
+---
+
 ![](/img/lucy7.png)
