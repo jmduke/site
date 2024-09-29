@@ -756,6 +756,16 @@ data:
   - date: 2024-09-25
       - Picayune Dreams
       - Melvor Idle
+  - date: 2024-09-26
+      - Melvor Idle
+  - date: 2024-09-27
+      - Melvor Idle
+      - Taskmaster
+  - date: 2024-09-28
+      - Melvor Idle
+      - Taskmaster
+  - date: 2024-09-29
+      - Melvor Idle
 ---
 
 <style>
