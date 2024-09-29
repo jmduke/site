@@ -5,7 +5,7 @@ status: Finished
 date: 2023-03-14
 year: 2023
 rating: 7
-image: /poker-face.jpeg
+image: poker-face.jpeg
 ---
 
 Two pithy "damning with faint praise" reviews of this show:
