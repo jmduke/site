@@ -1485,8 +1485,8 @@ video {
   margin-bottom: -0.25rem;
 }
 
-.-mr-\[300px\] {
-  margin-right: -300px;
+.-mr-\[320px\] {
+  margin-right: -320px;
 }
 
 .-mt-2 {
@@ -1519,10 +1519,6 @@ video {
 
 .mt-8 {
   margin-top: 2rem;
-}
-
-.-mr-\[320px\] {
-  margin-right: -320px;
 }
 
 .block {
@@ -2170,6 +2166,10 @@ details[open] summary:after {
 
 .prose-h1\:font-black :is(:where(h1):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
   font-weight: 900;
+}
+
+.prose-h2\:text-\[14px\] :is(:where(h2):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
+  font-size: 14px;
 }
 
 .prose-h2\:text-lg :is(:where(h2):not(:where([class~="not-prose"],[class~="not-prose"] *))) {

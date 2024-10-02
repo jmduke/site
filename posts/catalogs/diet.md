@@ -766,6 +766,12 @@ data:
       - Taskmaster
   - date: 2024-09-29
       - Melvor Idle
+      - Trust
+      - Diablo IV
+  - date: 2024-09-30
+      - Melvor Idle
+      - Trust
+      - Diablo IV
 ---
 
 <style>
