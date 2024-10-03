@@ -20,19 +20,26 @@
           </a>
         </h1>
       </li>
-    </nav>
+    </nav> </div
+    >{% if image %}
+      <img
+        src="/img/{{ image }}"
+        class="float-right max-w-[200px] !ml-12 !-mt-12"
+      />
+    {% endif %} {{ content | safe }}
+    <p class="!text-green-600 !mt-0"> {{ rating | toStars }} </p>
+    {% if title %} {% set quotes = collections.quotes | filter("source", title) %}
+      {% if quotes.length > 0 %}
+        <h2>Highlights</h2>
+        {% for quote in quotes %}
+          <blockquote class="!pt-4">{{ quote.content | safe }}</blockquote>
+        {% endfor %} {% endif %} {% endif %} {% if external_url %}
+          <a
+            href="{{ external_url }}"
+            class="bg-blue-100 rounded-lg flex px-4 py-2 mt-4 items-center hover:bg-blue-200 transition-colors"
+          >
+            <div class="flex-1">{{ external_url_cta }}</div>{% include
+            'icons/external.svg' %}
+          </a>
+        {% endif %}
   </div>
-  {% if image %}
-    <img
-      src="/img/{{ image }}"
-      class="float-right max-w-[200px] !ml-12 !-mt-12"
-    />
-  {% endif %} {{ content | safe }}
-  <p class="!text-green-600 !mt-0"> {{ rating | toStars }} </p>
-  {% if title %} {% set quotes = collections.quotes | filter("source", title) %}
-    {% if quotes.length > 0 %}
-      <h2>Highlights</h2>
-      {% for quote in quotes %}
-        <blockquote class="!pt-4">{{ quote.content | safe }}</blockquote>
-      {% endfor %} {% endif %} {% endif %}
-</div>

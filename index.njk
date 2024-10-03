@@ -25,6 +25,8 @@
             {% set title = post.data.title %}
             {% set date = post.data.date %}
             {% set url = post.url %}
+            {% set external_url = post.data.external_url %}
+            {% set external_url_cta = post.data.external_url_cta %}
             {% include 'content.html' %}
         {% endif %}
         <hr/>
