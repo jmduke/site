@@ -8,4 +8,8 @@
 <meta name="twitter:title" content="{{ title }}" />
 <link rel="canonical" href="https://jmduke.com{{ page.url }}" />
 
+{% if description %}
+<meta name="description" content="{{ description }}" />
+{% endif %}
+
 {% include '_styles.html' %}
