@@ -781,6 +781,12 @@ data:
       - Melvor Idle
       - Taskmaster
       - Diablo IV
+  - date: 2024-10-03
+      - Melvor Idle
+      - Taskmaster
+      - Balatro
+      - Trust
+      - Diablo IV
 ---
 
 <style>

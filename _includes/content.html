@@ -36,6 +36,7 @@
         {% endfor %} {% endif %} {% endif %} {% if external_url %}
           <a
             href="{{ external_url }}"
+            target="_blank"
             class="bg-blue-100 rounded-lg flex px-4 py-2 mt-4 items-center hover:bg-blue-200 transition-colors"
           >
             <div class="flex-1">{{ external_url_cta }}</div>{% include
