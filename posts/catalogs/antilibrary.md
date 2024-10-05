@@ -65,6 +65,7 @@ date: "2024-02-07"
 - Becoming Trader Joe's
 - Significant Objects
 - Priceless: The Case that Brought Down the Visa/MasterCard Bank Cartel
+- The Thursday Murder Club
 
 ## Games
 

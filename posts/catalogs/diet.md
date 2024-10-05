@@ -787,6 +787,11 @@ data:
       - Balatro
       - Trust
       - Diablo IV
+  - date: 2024-10-04
+      - Slow Horses (Season 4)
+      - Melvor
+      - Diablo IV
+      - Taskmaster
 ---
 
 <style>

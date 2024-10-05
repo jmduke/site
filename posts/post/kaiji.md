@@ -1,5 +1,5 @@
 ---
 title: "Kaiji"
 type: Television
-status: In progress
+status: Shelved
 ---
