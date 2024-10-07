@@ -792,6 +792,15 @@ data:
       - Melvor
       - Diablo IV
       - Taskmaster
+  - date: 2024-10-05
+      - Melvor
+      - Diablo IV
+      - Taskmaster
+  - date: 2024-10-06
+      - Slow Horses (Season 4)
+      - Melvor
+      - Monster Sanctuary
+      - Bad Monkey
 ---
 
 <style>
