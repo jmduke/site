@@ -66,6 +66,7 @@ date: "2024-02-07"
 - Significant Objects
 - Priceless: The Case that Brought Down the Visa/MasterCard Bank Cartel
 - The Thursday Murder Club
+- Buy Back Your Time
 
 ## Games
 
@@ -74,6 +75,7 @@ date: "2024-02-07"
 - Lorelei and the Laser Eyes
 - Dread Delusion
 - Felvidek
+- ReFantazio
 
 ## Television
 
@@ -82,3 +84,4 @@ date: "2024-02-07"
 - Xavier: Renegade Angel
 - Lady in the Lake
 - MANIAC
+- Noble House

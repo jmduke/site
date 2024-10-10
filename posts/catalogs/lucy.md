@@ -14,3 +14,11 @@
 9/30/2024
 
 - First time in Barrington!
+
+10/6/2024
+
+- First Dolphins game.
+
+10/7/2024
+
+- First blowout.

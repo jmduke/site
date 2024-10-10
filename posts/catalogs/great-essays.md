@@ -81,3 +81,5 @@ date: "2024-02-10"
 - [Obituary for a Quiet Life (2023)](https://bittersoutherner.com/feature/2023/obituary-for-a-quiet-life)
 - [The animal is tired (2021)](https://www.robinhobb.com/blog/archives/2021-05)
 - [Goodbye Microsoft, Hello Facebook (2010)](https://medium.com/@philipsu/goodbye-microsoft-hello-facebook-94a189d56830)
+- [Trust the Process (2016)](https://www.espn.com/pdf/2016/0406/nba_hinkie_redact.pdf)
+- [Coming Home (2024)](https://aworkinglibrary.com/writing/coming-home)

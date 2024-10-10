@@ -801,6 +801,14 @@ data:
       - Melvor
       - Monster Sanctuary
       - Bad Monkey
+  - date: 2024-10-07
+      - Melvor
+      - Monster Sanctuary
+      - Trust
+  - date: 2024-10-08
+      - Melvor
+      - Monster Sanctuary
+      - Taskmaster
 ---
 
 <style>
