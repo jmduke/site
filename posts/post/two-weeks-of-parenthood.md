@@ -1,6 +1,7 @@
 ---
 title: "Two weeks of parenthood"
 date: 2024-10-10
+tags: post
 ---
 
 We've had [[Lucy]] for two weeks, which qualifies us as experts, which means it is time to write about parenthood. (In all seriousness, consider the below descriptive and not prescriptive: mostly, it's a notepad filled with things that were remarkable or surprising or divergent from popular consensus.)
