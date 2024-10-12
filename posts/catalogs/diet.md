@@ -809,6 +809,21 @@ data:
       - Melvor
       - Monster Sanctuary
       - Taskmaster
+  - date: 2024-10-09
+      - Melvor
+      - Monster Sanctuary
+      - Taskmaster
+      - Dandadan
+      - Slow Horses (Season 4)
+  - date: 2024-10-10
+      - Melvor
+      - Monster Sanctuary
+      - Trust
+      - Taskmaster
+  - date: 2024-10-11
+      - Melvor
+      - Trust
+      - Taskmaster
 ---
 
 <style>
