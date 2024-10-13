@@ -8,6 +8,7 @@ year: 1962
 genre: ["Existential"]
 status: Finished
 image: dunes.jpeg
+spoilers: true
 ---
 
 Let me start with what I loved about this book (a book that, before anything else is said, I _enjoyed_ and

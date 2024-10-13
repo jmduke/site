@@ -19,3 +19,7 @@ At risk of deploying a metaphor (c.f. [[The taste of beer]]), customer feedback 
 None of this is to say you shouldn't talk to customers: you should! But it should be neither the first nor the last step in your process: if someone needs to talk with people to figure out what to build next, it means they have insufficient vision; if someone needs to talk with people to figure out if something is truly _ready_ for GA it means your org has insufficient conviction and process.
 
 Customers are great at _informing_ a product: reminding you of edge cases, blind spots, prior art, and so on. But there are many incredible things that can be built without information, and the annals of history are swamped with products that had very well-informed backlogs and yet no leverage or power to stop their own demise.
+
+<div class="addendum">
+Great bon mot response from <a href="https://x.com/ruanmartinelli/status/1845441489314173107">Ruan Martinelli</a>: When a customer tells you something is wrong, they’re usually right; when they tell you how to fix it, they are usually wrong
+</div>

@@ -37,3 +37,11 @@ summary::after {
 details[open] summary:after {
   content: " ▼";
 }
+
+.addendum {
+  @apply bg-green-200 p-4 rounded-lg my-4 text-black;
+}
+.addendum::before {
+  content: "Addendum";
+  @apply text-green-600 font-bold uppercase text-xs block mb-2;
+}

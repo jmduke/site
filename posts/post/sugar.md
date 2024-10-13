@@ -5,11 +5,8 @@ status: Finished
 year: 2024
 date: 2024-05-24
 rating: 5
+spoilers: true
 image: sugar.jpeg
----
-
-(It's impossible to talk about Sugar without spoiling a major element that both defines and re-defines the show — if you _haven't_ watched it and plan on doing so, don't read any further!)
-
 ---
 
 One of my biggest complaints with [[Blue Eye Samurai]] (a show that I liked and enjoyed overall) was that in its fence-straddling between wanting to tell a meaningful, stand-alone story _and_ set itself up for a second season of East-meets-West bushido misadventures, it not only failed to actually provide a meaningful ending but in its failure it threw away its protagonist's character arc.

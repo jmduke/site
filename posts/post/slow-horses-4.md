@@ -18,3 +18,7 @@ Some miscellaneous notes:
 - Speaking of Jackson Lamb: this season probably had the _least_ screentime from Oldman. This can be a dangerous gambit — it paid off here, and his absence (modulo the handful of convenient deus ex machina opportunities he's afforded) is felt but not painful.
 - Spy stories must thread a very tricky needle when it comes to realism. It's really hard to be _entirely_ grounded in craftwork and realpolitik unless you're le Carré or [[The Americans]], and it's also hard to be bombastic and exciting in the traditional language of television action sequences without feeling like you've suddenly entered a different, sillier show. (This was, I'd argue, the main flaw in Season 3: we suddenly entered a Call of Duty commercial in the back third of the season.)
 - Season-long arcs dedicated to flushing out a character's backstory can, similarly, be hit or miss: shows need to earn an audience's trust that we actually care and empathize with them enough to follow them down unexpected corridors, and actors need to be able to shift from being relatively one-note to full-fledged protagonism. Jack Lowden passed with flying colors.
+
+<div class="addendum">
+Specifically with the last point: my brother points out that part of what made this feel like such a successful backstory arc is that it's not even explicitly a backstory arc until the back half of the season. There are clues, sure, but there's none of the cloying visual language (opening with a lugubrious tracking shot of River, etc.)
+</div>

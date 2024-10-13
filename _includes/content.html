@@ -26,6 +26,11 @@
         src="/img/{{ image }}"
         class="float-right max-w-[200px] !ml-12 !-mt-12"
       />
+    {% endif %} {% if spoilers %}
+      <div class="bg-red-100 rounded-lg p-4 mt-4 text-red-600">
+        <div class="text-xs uppercase font-bold">Danger</div>
+        <div> This post contains spoilers.</div>
+      </div>
     {% endif %} {{ content | safe }}
     <p class="!text-green-600 !mt-0"> {{ rating | toStars }} </p>
     {% if title %} {% set quotes = collections.quotes | filter("source", title) %}
