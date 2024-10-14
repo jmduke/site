@@ -9,7 +9,9 @@
 <link rel="canonical" href="https://jmduke.com{{ page.url }}" />
 
 {% if description %}
-<meta name="description" content="{{ description }}" />
+    <meta name="description" content="{{ description }}" />
 {% endif %}
+
+<meta name="referrer" content="no-referrer-when-downgrade" />
 
 {% include '_styles.html' %}
