@@ -19,6 +19,11 @@ img + em {
   text-align: center;
 }
 
+em {
+  font-style: normal;
+  @apply underline underline-offset-1;
+}
+
 svg {
   color: rgb(234 88 12);
 }

@@ -824,6 +824,27 @@ data:
       - Melvor
       - Trust
       - Taskmaster
+  - date: 2024-10-12
+      - Melvor
+      - Trust
+      - Monster Sanctuary
+      - The Yiddish Policemen's Union
+  - date: 2024-10-13
+      - Melvor
+  - date: 2024-10-14
+      - Melvor
+      - Monster Sanctuary
+  - date: 2024-10-15
+      - Melvor
+      - Monster Sanctuary
+      - Taskmaster
+      - The Anderson Tapes
+  - date: 2024-10-16
+      - Melvor
+      - Monster Sanctuary
+  - date: 2024-10-17
+      - Melvor
+      - Monster Sanctuary
 ---
 
 <style>

@@ -8,11 +8,9 @@ date: "2024-02-07"
 
 - River (2023) (via Sumana)
 - Sorcerer (1977)
-- The Late Show (1977)
 - Between the Lines (1977)
 - Saturday Night Fever (1977)
 - The Kentucky Fried Movie (1977)
-- Snack Shack (2024)
 - Dinner in America (2020)
 - A Mighty Wind (2003)
 - Dirty Rotten Scoundrels
@@ -67,6 +65,13 @@ date: "2024-02-07"
 - Priceless: The Case that Brought Down the Visa/MasterCard Bank Cartel
 - The Thursday Murder Club
 - Buy Back Your Time
+- Trilogy of Desire
+- Mystery Men of Wall Street
+- Winter in the Blood
+- Very Cold People
+- The Book of Goose
+- Imagined Communities
+- The Cruise of the Nona
 
 ## Games
 
@@ -85,3 +90,4 @@ date: "2024-02-07"
 - Lady in the Lake
 - MANIAC
 - Noble House
+- Pantheon
