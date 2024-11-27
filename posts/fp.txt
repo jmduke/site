@@ -1,9 +1,0 @@
-
-
-- abstractly feels like functional programming has "won" but fp langs have "lost" — almost every major PL (+ ecosystem) has become more functional over the past decade, but none of them are explicitly "fp langs"
-- seems really hard to imagine any new fp lang being successful without the auspices of corporate fiat (swift, f#) or leveraging an existing ecosystem (reasonml, kotlin/scala)
-- haskell would be much more successful if it didn't do weird syntactical overload stuff (or maybe I was just cursed with particularly annoying Haskell codebases in my life)
-- excel is the most popular functional programming language in the world
-- elixir seems really neat!
-- the most useful artifact of OOP in 2024 is interface/protocol/trait abstraction (and by extension things like DI)
-- memes about monads and combinators aside, functional programming is deeply pleasant for engs of all levels of experience and most people prefer it given the absence of other confounding factors
