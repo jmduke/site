@@ -134,9 +134,11 @@
   <script>
       // Footnotes: Littlefoot 'em, THEN hide with Nutshell
     littlefoot.littlefoot({
+      allowDuplicates: false,
       activateOnHover: true,
       hoverDelay: 0,
       dismissOnUnhover: true,
+      numberResetSelector: 'article',
       buttonTemplate: `
         <button
             aria-label="Footnote <% number %>"
