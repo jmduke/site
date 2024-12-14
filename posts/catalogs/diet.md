@@ -845,6 +845,150 @@ data:
   - date: 2024-10-17
       - Melvor
       - Monster Sanctuary
+  - date: 2024-10-18
+      - Monster Sanctuary
+      - Taskmaster
+  - date: 2024-10-19
+      - Monster Sanctuary
+  - date: 2024-10-20
+      - Monster Sanctuary
+  - date: 2024-10-21
+      - Monster Sanctuary
+      - Melvor
+      - Taskmaster
+  - date: 2024-10-22
+      - Monster Sanctuary
+      - Taskmaster
+  - date: 2024-10-23
+      - Monster Sanctuary
+      - Taskmaster
+  - date: 2024-10-24
+      - Monster Sanctuary
+      - Luther
+      - Buy Back Your Time
+  - date: 2024-10-25
+      - Monster Sanctuary
+      - Maniac
+      - Luther
+      - Buy Back Your Time
+      - The Yiddish Policeman's Union
+  - date: 2024-10-26
+      - Monster Sanctuary
+      - Maniac
+  - date: 2024-10-27
+      - The Yiddish Policeman's Union
+  - date: 2024-10-28
+  - date: 2024-10-29
+      - Monster Sanctuary
+  - date: 2024-10-30
+      - Taskmaster
+      - The MANIAC
+  - date: 2024-10-31
+      - "Metaphor ReFantazio"
+      - The MANIAC
+  - date: 2024-11-01
+      - "Metaphor ReFantazio"
+      - The West Wing
+      - Taskmaster
+  - date: 2024-11-02
+      - Taskmaster
+      - The West Wing
+      - The MANIAC
+  - date: 2024-11-03
+      - The MANIAC
+  - date: 2024-11-04
+      - The Yiddish Policeman's Union
+      - The MANIAC
+  - date: 2024-11-05
+      - The Yiddish Policeman's Union
+      - The MANIAC
+  - date: 2024-11-06
+      - The Yiddish Policeman's Union
+  - date: 2024-11-07
+      - The Yiddish Policeman's Union
+  - date: 2024-11-08
+  - date: 2024-11-09
+      - Possession
+      - The Yiddish Policeman's Union
+  - date: 2024-11-10
+      - The Yiddish Policeman's Union
+  - date: 2024-11-11
+      - The Yiddish Policeman's Union
+  - date: 2024-11-12
+      - The Yiddish Policeman's Union
+  - date: 2024-11-13
+      - The Yiddish Policeman's Union
+      - Possession
+  - date: 2024-11-14
+      - The Yiddish Policeman's Union
+  - date: 2024-11-15
+      - Case Histories
+      - Taskmaster
+  - date: 2024-11-16
+  - date: 2024-11-17
+      - Case Histories
+  - date: 2024-11-18
+      - Case Histories
+  - date: 2024-11-19
+      - Case Histories
+  - date: 2024-11-20
+      - Possession
+  - date: 2024-11-21
+      - Possession
+  - date: 2024-11-22
+      - Possession
+  - date: 2024-11-23
+      - Possession
+  - date: 2024-11-24
+      - Case Histories
+      - GNX
+  - date: 2024-11-25
+      - Case Histories
+  - date: 2024-11-26
+      - Possession
+  - date: 2024-11-27
+      - Possession
+  - date: 2024-11-28
+      - Possession
+  - date: 2024-11-29
+      - Possession
+      - Case Histories
+  - date: 2024-11-30
+      - Case Histories
+  - date: 2024-12-01
+      - Case Histories
+      - Possession
+  - date: 2024-12-02
+      - "Metaphor ReFantazio"
+      - Possession
+  - date: 2024-12-03
+      - Case Histories
+      - Possession
+  - date: 2024-12-04
+      - "Metaphor ReFantazio"
+      - Case Histories
+      - Possession
+  - date: 2024-12-05
+      - Possession
+  - date: 2024-12-06
+      - Possession
+      - "Metaphor ReFantazio"
+  - date: 2024-12-07
+      - Possession
+      - Becoming Trader Joe
+  - date: 2024-12-08
+      - "Metaphor ReFantazio"
+      - Becoming Trader Joe
+  - date: 2024-12-09
+      - "Metaphor ReFantazio"
+      - Becoming Trader Joe
+  - date: 2024-12-10
+      - Becoming Trader Joe
+  - date: 2024-12-11
+      - Becoming Trader Joe
+      - "Metaphor ReFantazio"
+  - date: 2024-12-11
+      - Becoming Trader Joe
 ---
 
 <style>

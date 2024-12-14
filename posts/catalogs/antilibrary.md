@@ -72,6 +72,8 @@ date: "2024-02-07"
 - The Book of Goose
 - Imagined Communities
 - The Cruise of the Nona
+- Luxury Strategy
+- Strategic Sourcing and Category Management: Lessons Learned at IKEA
 
 ## Games
 

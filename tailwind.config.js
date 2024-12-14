@@ -15,7 +15,7 @@ module.exports = {
               fontStyle: "normal",
               backgroundColor: theme("colors.gray.50"),
             },
-            "blockquote p": {
+            "blockquote p:first-of-type": {
               margin: "0 !important",
             },
             hr: {

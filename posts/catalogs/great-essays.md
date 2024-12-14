@@ -67,6 +67,7 @@ date: "2024-02-10"
 - [The Secret Heart Of Continuous Improvement (2024)](https://commoncog.com/the-secret-heart-of-continuous-improvement/)
 - [Extreme Questions (2022)](https://longform.asmartbear.com/extreme-questions/)
 - [Schlep Blindness (2012)](https://paulgraham.com/schlep.html)
+- [Big Blue (2024)](https://buildingslack.com/big-blue/)
 
 ## Miscellany
 

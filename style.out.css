@@ -1091,7 +1091,7 @@ video {
   margin-bottom: 0;
 }
 
-.prose :where(blockquote p):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
+.prose :where(blockquote p:first-of-type):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
   margin: 0 !important;
 }
 

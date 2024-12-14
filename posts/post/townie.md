@@ -3,6 +3,7 @@ title: "Applied Cartography × Val Town"
 external_url: https://www.youtube.com/watch?v=wOyfS9-Q01I
 external_url_cta: "Watch the full stream"
 date: "2024-11-09"
+tags: post
 ---
 
 Had a blast live-coding some experimentations with [Steve](https://stevekrouse.com/) and [Shovel](https://shovel.report) yesterday using [Val Town](https://valtown.org/). (If you haven't used Val, well, watch the stream — think live, zero-deploy code snippets that can be arbitrarily extended and executed.)
