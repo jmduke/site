@@ -32,6 +32,9 @@ date: "2024-02-07"
 - The Iron Claw
 - A Parked Life
 - Titus
+- Men With Guns
+- Lone Star
+- Primal Fear
 
 ## Books
 

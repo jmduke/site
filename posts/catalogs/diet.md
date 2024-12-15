@@ -987,8 +987,13 @@ data:
   - date: 2024-12-11
       - Becoming Trader Joe
       - "Metaphor ReFantazio"
-  - date: 2024-12-11
+  - date: 2024-12-12
       - Becoming Trader Joe
+  - date: 2024-12-13
+  - date: 2024-12-14
+      - Becoming Trader Joe
+      - "Metaphor ReFantazio"
+      - Possession
 ---
 
 <style>

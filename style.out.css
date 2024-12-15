@@ -1840,11 +1840,6 @@ video {
   background-color: rgb(220 38 38 / var(--tw-bg-opacity));
 }
 
-.bg-white {
-  --tw-bg-opacity: 1;
-  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
-}
-
 .bg-yellow-100 {
   --tw-bg-opacity: 1;
   background-color: rgb(254 249 195 / var(--tw-bg-opacity));
@@ -2351,9 +2346,43 @@ details[open] summary:after {
   font-size: 14px;
 }
 
+.prose-pre\:\!-mx-12 :is(:where(pre):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
+  margin-left: -3rem !important;
+  margin-right: -3rem !important;
+}
+
 .prose-pre\:\!w-fit :is(:where(pre):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
   width: -moz-fit-content !important;
   width: fit-content !important;
+}
+
+.prose-pre\:w-screen :is(:where(pre):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
+  width: 100vw;
+}
+
+.prose-pre\:\!rounded-none :is(:where(pre):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
+  border-radius: 0px !important;
+}
+
+.prose-pre\:p-12 :is(:where(pre):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
+  padding: 3rem;
+}
+
+.prose-pre\:\!p-12 :is(:where(pre):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
+  padding: 3rem !important;
+}
+
+.prose-pre\:\!p-4 :is(:where(pre):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
+  padding: 1rem !important;
+}
+
+.prose-pre\:\!px-12 :is(:where(pre):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
+  padding-left: 3rem !important;
+  padding-right: 3rem !important;
+}
+
+.prose-pre\:\!pl-12 :is(:where(pre):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
+  padding-left: 3rem !important;
 }
 
 .prose-li\:text-\[16px\] :is(:where(li):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
@@ -2473,6 +2502,11 @@ details[open] summary:after {
 
   .lg\:prose-pre\:\!w-\[calc\(100vw-2rem-300px\)\] :is(:where(pre):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
     width: calc(100vw - 2rem - 300px) !important;
+  }
+
+  .lg\:prose-pre\:\!w-fit :is(:where(pre):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
+    width: -moz-fit-content !important;
+    width: fit-content !important;
   }
 
   .lg\:prose-pre\:\!p-8 :is(:where(pre):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
