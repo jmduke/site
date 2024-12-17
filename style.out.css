@@ -2364,25 +2364,8 @@ details[open] summary:after {
   border-radius: 0px !important;
 }
 
-.prose-pre\:p-12 :is(:where(pre):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
-  padding: 3rem;
-}
-
-.prose-pre\:\!p-12 :is(:where(pre):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
-  padding: 3rem !important;
-}
-
 .prose-pre\:\!p-4 :is(:where(pre):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
   padding: 1rem !important;
-}
-
-.prose-pre\:\!px-12 :is(:where(pre):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
-  padding-left: 3rem !important;
-  padding-right: 3rem !important;
-}
-
-.prose-pre\:\!pl-12 :is(:where(pre):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
-  padding-left: 3rem !important;
 }
 
 .prose-li\:text-\[16px\] :is(:where(li):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
