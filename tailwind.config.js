@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./**/*.{njk,html}"],
+  content: ["./**/*.{njk,html}", "./posts/post/order-css-tailwind.md"],
   theme: {
     fontFamily: {
       sans: ["Hex Franklin", "sans-serif"],
