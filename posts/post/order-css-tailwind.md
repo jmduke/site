@@ -79,9 +79,11 @@ For instance, consider the following:
 
 This, as you might expect, renders as:
 
+<div class="bg-gray-50 border border-gray-300 p-4 flex items-center">
 <div class="flex gap-1">
     <div style="order: 2">world</div>
     <div style="order: 1">hello</div>
+</div>
 </div>
 
 Where this gets really useful is composition with `groups`. Consider the following:
@@ -105,7 +107,8 @@ Where this gets really useful is composition with `groups`. Consider the followi
 
 This renders, unexcitingly, as:
 
-<div class="flex gap-1 w-[200px]">
+<div class="bg-gray-50 border border-gray-300 p-4 flex items-center">
+<div class="flex gap-1 w-[200px] flex-1">
   <div class="group flex-1 flex items-center">
     <div class="z-10 flex items-center justify-center size-6 bg-red-500"></div>
     <div class="w-full bg-gray-200 h-0.5"></div>
@@ -118,6 +121,7 @@ This renders, unexcitingly, as:
     <div class="z-10 flex items-center justify-center size-6 bg-red-500"></div>
     <div class="w-full bg-gray-200 h-0.5"></div>
   </div>
+</div>
 </div>
 
 But! Add a tiny sprinkle of `group-last:`
@@ -147,7 +151,8 @@ But! Add a tiny sprinkle of `group-last:`
 
 And you get:
 
-<div class="flex gap-1 w-[200px]">
+<div class="bg-gray-50 border border-gray-300 p-4 flex items-center">
+<div class="flex gap-1 w-[200px] flex-1">
   <div class="group flex-1 flex items-center">
     <div class="z-10 flex items-center justify-center size-6 bg-red-500 group-last:bg-blue-500"></div>
     <div class="w-full bg-gray-200 h-0.5 group-last:order-first"></div>
@@ -160,6 +165,7 @@ And you get:
     <div class="z-10 flex items-center justify-center size-6 bg-red-500 group-last:bg-blue-500"></div>
     <div class="w-full bg-gray-200 h-0.5 group-last:order-first"></div>
   </div>
+</div>
 </div>
 
 Obviously, that is a lot of HTML to write for a very simple outcome. There are a bunch of ways you could reduce this. Why so much repetition? Why specify `group-last` for every node when you _know_ it's going to be the last one?
@@ -195,7 +201,5 @@ Which suddenly looks much more pleasant and maintainable than its conditionally-
   {\% endfor \%}
 </div>
 ```
-
-And, of course, the above is just one of many ways to do this.
 
 [^1]: Not mobile friendly, I'm afraid! Not exactly a pressing concern for the admin site at the moment.
