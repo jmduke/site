@@ -1002,6 +1002,13 @@ data:
       - Possession
   - date: 2024-12-17
       - Possession
+  - date: 2024-12-18
+  - date: 2024-12-19
+      - Possession
+  - date: 2024-12-20
+      - Becoming Trader Joe
+  - date: 2024-12-21
+      - Possession
 ---
 
 <style>

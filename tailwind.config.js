@@ -10,10 +10,13 @@ module.exports = {
         DEFAULT: {
           css: {
             blockquote: {
-              padding: "1rem",
               position: "relative",
               fontStyle: "normal",
               backgroundColor: theme("colors.gray.50"),
+              margin: "1rem -3rem",
+              padding: "1rem 3rem !important",
+              borderTop: "1px solid #e5e7eb",
+              borderBottom: "1px solid #e5e7eb",
             },
             "blockquote p:first-of-type": {
               margin: "0 !important",

@@ -706,9 +706,12 @@ video {
   margin-top: 1.6em;
   margin-bottom: 1.6em;
   padding-left: 1em;
-  padding: 1rem;
   position: relative;
   background-color: #f9fafb;
+  margin: 1rem -3rem;
+  padding: 1rem 3rem !important;
+  border-top: 1px solid #e5e7eb;
+  border-bottom: 1px solid #e5e7eb;
 }
 
 .prose :where(blockquote p:first-of-type):not(:where([class~="not-prose"],[class~="not-prose"] *))::before {
@@ -1920,11 +1923,6 @@ video {
   background-color: rgb(250 204 21 / var(--tw-bg-opacity));
 }
 
-.bg-gray-100 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(243 244 246 / var(--tw-bg-opacity));
-}
-
 .p-2 {
   padding: 0.5rem;
 }
@@ -2370,6 +2368,18 @@ details[open] summary:after {
   line-height: 1.75rem;
 }
 
+.prose-h2\:text-\[18px\] :is(:where(h2):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
+  font-size: 18px;
+}
+
+.prose-h2\:text-\[16px\] :is(:where(h2):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
+  font-size: 16px;
+}
+
+.prose-h2\:text-\[17px\] :is(:where(h2):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
+  font-size: 17px;
+}
+
 .prose-p\:my-2 :is(:where(p):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
@@ -2613,6 +2623,21 @@ details[open] summary:after {
   .lg\:py-16 {
     padding-top: 4rem;
     padding-bottom: 4rem;
+  }
+
+  .lg\:prose-blockquote\:\!mx-auto :is(:where(blockquote):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
+  .lg\:prose-blockquote\:border-y-0 :is(:where(blockquote):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+  }
+
+  .lg\:prose-blockquote\:\!px-4 :is(:where(blockquote):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
   }
 
   .lg\:prose-pre\:\!-mx-8 :is(:where(pre):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
