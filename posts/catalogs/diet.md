@@ -1014,6 +1014,63 @@ data:
       - Book of Clouds
   - date: 2024-12-23
       - Book of Clouds
+  - date: 2024-12-24
+      - Luck be a Landlord
+  - date: 2024-12-25
+      - Luck be a Landlord
+  - date: 2024-12-26
+      - Book of Clouds
+  - date: 2024-12-27
+      - Book of Clouds
+      - The Financier
+  - date: 2024-12-28
+      - Book of Clouds
+      - The Financier
+      - Luck be a Landlord
+  - date: 2024-12-29
+      - Primal Fear
+      - Book of Clouds
+      - North by Northwest
+      - The Financier
+      - Luck be a Landlord
+  - date: 2024-12-30
+      - Family Plot
+      - Book of Clouds
+      - North by Northwest
+      - The Financier
+  - date: 2024-12-31
+      - Family Plot
+      - Book of Clouds
+      - The Financier
+      - Luck be a Landlord
+  - date: 2025-01-01
+      - Book of Clouds
+      - The Financier
+      - Luck be a Landlord
+  - date: 2025-01-02
+      - Book of Clouds
+      - The Financier
+  - date: 2025-01-03
+      - Book of Clouds
+      - The Financier
+  - date: 2025-01-04
+      - Book of Clouds
+      - Luck be a Landlord
+      - Capybara Go
+  - date: 2025-01-05
+      - Book of Clouds
+      - Between the Lines
+      - Capybara Go
+  - date: 2025-01-06
+      - Book of Clouds
+      - Capybara Go
+      - The Financier
+  - date: 2025-01-07
+      - Book of Clouds
+      - The Financier
+  - date: 2025-01-08
+      - Book of Clouds
+      - The Financier
 ---
 
 <style>

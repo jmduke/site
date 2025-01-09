@@ -27,14 +27,13 @@ date: "2024-02-07"
 - The American
 - Z
 - Husbands and Wives
-- The Anderson Tapes
 - The Instigators
 - The Iron Claw
 - A Parked Life
 - Titus
 - Men With Guns
 - Lone Star
-- Primal Fear
+- Do_Not_Expect_Too_Much_from_the_End_of_the_World
 
 ## Books
 
@@ -77,6 +76,8 @@ date: "2024-02-07"
 - The Cruise of the Nona
 - Luxury Strategy
 - Strategic Sourcing and Category Management: Lessons Learned at IKEA
+- Marcovaldo
+- The French Lieutenant's Woman
 
 ## Games
 
@@ -85,7 +86,7 @@ date: "2024-02-07"
 - Lorelei and the Laser Eyes
 - Dread Delusion
 - Felvidek
-- ReFantazio
+- WindBlown
 
 ## Television
 
