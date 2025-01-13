@@ -1071,6 +1071,25 @@ data:
   - date: 2025-01-08
       - Book of Clouds
       - The Financier
+  - date: 2025-01-09
+      - Book of Clouds
+      - Luck be a Landlord
+      - Siralim Ultimate
+  - date: 2025-01-10
+      - Book of Clouds
+      - Luck be a Landlord
+      - Crime and Punishment
+      - Bringing up Bebe
+  - date: 2025-01-11
+      - Planes, Trains, and Automobiles
+      - Luck be a Landlord
+      - Crime and Punishment
+      - Bringing up Bebe
+  - date: 2025-01-12
+      - Planes, Trains, and Automobiles
+      - Crime and Punishment
+      - Bringing up Bebe
+      - The Tower
 ---
 
 <style>

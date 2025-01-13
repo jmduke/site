@@ -1778,6 +1778,12 @@ video {
   overflow-y: scroll;
 }
 
+.truncate {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
 .text-balance {
   text-wrap: balance;
 }
