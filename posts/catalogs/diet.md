@@ -1090,6 +1090,47 @@ data:
       - Crime and Punishment
       - Bringing up Bebe
       - The Tower
+  - date: 2025-01-13
+      - Crime and Punishment
+      - Bringing up Bebe
+      - The Tower
+  - date: 2025-01-14
+      - Crime and Punishment
+      - Bringing up Bebe
+      - The Tower
+  - date: 2025-01-15
+      - Crime and Punishment
+      - Bringing up Bebe
+      - Catch Me If You Can
+  - date: 2025-01-16
+      - Crime and Punishment
+      - Men and Rubber
+  - date: 2025-01-17
+      - Crime and Punishment
+      - Men and Rubber
+      - In The Shadow of the Holy Mountain
+  - date: 2025-01-18
+      - Crime and Punishment
+  - date: 2025-01-19
+      - Crime and Punishment
+  - date: 2025-01-20
+      - Crime and Punishment
+  - date: 2025-01-21
+      - Crime and Punishment
+      - We Own This City
+  - date: 2025-01-22
+      - We Own This City
+  - date: 2025-01-23
+      - We Own This City
+      - Crime and Punishment
+  - date: 2025-01-24
+      - Crime and Punishment
+  - date: 2025-01-25
+      - The Rise of the Golden Idol
+  - date: 2025-01-26
+      - The Rise of the Golden Idol
+  - date: 2025-01-27
+      - Crime and Punishment
 ---
 
 <style>

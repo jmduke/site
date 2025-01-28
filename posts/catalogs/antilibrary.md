@@ -34,6 +34,9 @@ date: "2024-02-07"
 - Men With Guns
 - Lone Star
 - Do_Not_Expect_Too_Much_from_the_End_of_the_World
+- Red Rooms
+- Anora
+- Into Great Silence
 
 ## Books
 
@@ -62,11 +65,9 @@ date: "2024-02-07"
 - The Wall
 - Book of Clouds
 - The Miracle of St Anthony
-- Becoming Trader Joe's
 - Significant Objects
 - Priceless: The Case that Brought Down the Visa/MasterCard Bank Cartel
 - The Thursday Murder Club
-- Buy Back Your Time
 - Trilogy of Desire
 - Mystery Men of Wall Street
 - Winter in the Blood
@@ -78,6 +79,7 @@ date: "2024-02-07"
 - Strategic Sourcing and Category Management: Lessons Learned at IKEA
 - Marcovaldo
 - The French Lieutenant's Woman
+- And The Band Played On
 
 ## Games
 
