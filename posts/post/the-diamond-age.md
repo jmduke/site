@@ -15,7 +15,7 @@ The reason for this is that in much the same way that [[Snow Crash]] purports to
 1. **What social ills might exist in a post-scarcity world?**
 2. **How do we raise children to be interesting, happy, and virtuous?**
 
-I did not find either either side of Stephenson's first question to be particularly revelatory: the yadda-yaddaing of nanotechnology and its impacts felt _thin_ and post-hoc to me, even if there were some flashes of brilliance in isolated asides. But where Stephenson was both clearly more interested and more persuasive was when he began to shift the narrative to focus on the triad of young girls who had received the primer, and their varying divergences.
+I did not find either side of Stephenson's first question to be particularly revelatory: the yadda-yaddaing of nanotechnology and its impacts felt _thin_ and post-hoc to me, even if there were some flashes of brilliance in isolated asides. But where Stephenson was both clearly more interested and more persuasive was when he began to shift the narrative to focus on the triad of young girls who had received the primer, and their varying divergences.
 
 Moreover, the device of the Primer carries with it a level of stylistic flourish difficult to find in other pieces of his work. Princess Nell's escapades served well to shepherd us through the obvious paces of character development while offering something relatively novel; the Turing Castle chapter in particular (and thereafter) was a legitimately _fun_ (albeit, of course, campy) way to deliver what could have been dreadfully boring material.
 
