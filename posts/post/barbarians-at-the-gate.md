@@ -9,7 +9,7 @@ year: 1989
 status: Finished
 ---
 
-This book is _meticulous_. It has an incredibly clever cover. It was eye-opening (not in the "oh, LBOs are bad!" sense [^1], but in the the "oh, industrial multinationals are a lot more interesting and sprawling than I had previously conceived!" sense). It is, for the most part, immensely entertaining. If you like books about business, this is a really good one — in the general atmosphere as [[Liar's Poker]], though Burroughs is much more of a grounded and journalistic writer than Michael Lewis. 
+This book is _meticulous_. It has an incredibly clever cover. It was eye-opening (not in the "oh, LBOs are bad!" sense [^1], but in the "oh, industrial multinationals are a lot more interesting and sprawling than I had previously conceived!" sense). It is, for the most part, immensely entertaining. If you like books about business, this is a really good one — in the general atmosphere as [[Liar's Poker]], though Burroughs is much more of a grounded and journalistic writer than Michael Lewis.
 
 What didn't I like? For starters, I think the greatest writers have a talent at turning exposition into powerful vignettes in their own right — think of [[The Path to Power]], where Caro turns the sprawling progeny of the Texas hill country into a compelling novella in of itself. Burroughs introduces a character and you are immediately thrown into an excursus about where they grew up, what firms they bounced around, broad snippets of their personality, and so on — it's useful, but it quickly feels so _rote_.
 
