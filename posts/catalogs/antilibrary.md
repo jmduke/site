@@ -38,6 +38,9 @@ date: "2024-02-07"
 - Anora
 - Into Great Silence
 - Postcards from the Edge
+- The Memory Police
+- Adaptation
+- Wild Things
 
 ## Books
 
