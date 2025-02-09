@@ -1,7 +1,7 @@
 ---
 title: "Family Plot"
 type: Movie
-date: 2025-02-05
+date: 2025-02-04
 rating: 5
 year: 1976
 status: Finished

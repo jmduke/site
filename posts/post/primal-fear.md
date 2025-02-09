@@ -1,6 +1,6 @@
 ---
 title: Primal Fear
-date: 2025-02-04
+date: 2025-02-03
 type: Movie
 year: 1996
 rating: 7

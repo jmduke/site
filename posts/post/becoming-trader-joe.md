@@ -4,7 +4,8 @@ type: Book
 rating: 8
 date: "2025-01-28"
 year: 2021
-author: Joe oulombe
+author: Joe Coulombe
+tags: post
 ---
 
 (Shout out to [Red Queen Podcast](https://podcasts.apple.com/us/podcast/trader-joes/id1744818916?i=1000669447996) for introducing me to this book.)
