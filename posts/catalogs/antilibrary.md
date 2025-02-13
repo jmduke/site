@@ -84,6 +84,8 @@ date: "2024-02-07"
 - Marcovaldo
 - The French Lieutenant's Woman
 - And The Band Played On
+- House of Huawei
+- Field Guide to the Haunted Forest
 
 ## Games
 
