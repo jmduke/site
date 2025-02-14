@@ -8,7 +8,6 @@ date: "2024-02-07"
 
 - River (2023) (via Sumana)
 - Sorcerer (1977)
-- Between the Lines (1977)
 - Saturday Night Fever (1977)
 - The Kentucky Fried Movie (1977)
 - Dinner in America (2020)

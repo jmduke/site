@@ -16,7 +16,7 @@ The personal answer I give is going to be out-of-date: the truth is, I’ve expe
 
 ---
 
-The pre-Lucy answer is probably more useful, even if its now firmly entrenched in the past. When Haley and I talked about what my [life as an independent technologist would look like](), we settled on some ground rules, unimpeachable clauses in my contract not just as a husband and “person who wasn’t an absolute shit to live with”: to have dinner together every night, to take good care of myself (sleep well, eat healthy, work out every day, stay hydrated and sun-touched), to not lose sight of my own luck and providence. Those things were — and are — my topsoil. Everything else is labor — labor by choice, but hard work nonetheless.
+The pre-Lucy answer is probably more useful, even if its now firmly entrenched in the past. When Haley and I talked about what my [life as an independent technologist would look like](/posts/post/two-years), we settled on some ground rules, unimpeachable clauses in my contract not just as a husband and “person who wasn’t an absolute shit to live with”: to have dinner together every night, to take good care of myself (sleep well, eat healthy, work out every day, stay hydrated and sun-touched), to not lose sight of my own luck and providence. Those things were — and are — my topsoil. Everything else is labor — labor by choice, but hard work nonetheless.
 
 A lot goes by the wayside! I am a terrible friend and correspondent these days; I love television and film but saw maybe a dozen movies total this year and only watch what Haley and I can consume during dinner (which in 2024 was all seventeen series of Taskmaster); I travel and experiment and hobby less than I otherwise would.
 
