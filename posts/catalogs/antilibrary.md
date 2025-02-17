@@ -39,7 +39,7 @@ date: "2024-02-07"
 - Postcards from the Edge
 - The Memory Police
 - Adaptation
-- Wild Things
+- Wanderlust
 
 ## Books
 
@@ -104,3 +104,4 @@ date: "2024-02-07"
 - MANIAC
 - Noble House
 - Pantheon
+- Medical Police
