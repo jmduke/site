@@ -11,10 +11,13 @@
     "start": "npm-run-all -p dev:*",
     "build": "run-s build:*",
     "dev:11ty": "eleventy --serve",
-    "build:11ty": "eleventy"
+    "build:11ty": "eleventy",
+    "dev:tailwind": "pnpx @tailwindcss/cli -i style.css -o style.out.css --watch",
+    "build:tailwind": "pnpx @tailwindcss/cli -i style.css -o style.out.css"
   },
   "dependencies": {
     "@photogabble/eleventy-plugin-interlinker": "^1.0.5",
-    "markdown-it-footnote": "^4.0.0"
+    "markdown-it-footnote": "^4.0.0",
+    "tailwindcss": "^4.0.9"
   }
 }

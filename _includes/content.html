@@ -11,10 +11,10 @@
   <div class="">
     <nav class="max-w-prose mx-auto prose prose-neutral">
       <li class="pl-0 flex">
-        <h1 class="flex-1 !my-0 leading-[0]">
+        <h1 class="flex-1 my-0! leading-[0]">
           <a
             href="{{ url }}"
-            class="font-bold no-underline text-lg !text-black"
+            class="font-bold no-underline text-lg text-black!"
           >
             {{ title }}
           </a>
@@ -24,7 +24,7 @@
     >{% if image %}
       <img
         src="/img/{{ image }}"
-        class="float-right max-w-[200px] !ml-12 !-mt-12"
+        class="float-right max-w-[200px] ml-12! -mt-12!"
       />
     {% endif %} {% if spoilers %}
       <div class="bg-red-100 rounded-lg p-4 mt-4 text-red-600">
@@ -32,12 +32,12 @@
         <div> This post contains spoilers.</div>
       </div>
     {% endif %} {{ content | safe }}
-    <p class="!text-green-600 !mt-0"> {{ rating | toStars }} </p>
+    <p class="text-green-600! mt-0!"> {{ rating | toStars }} </p>
     {% if title %} {% set quotes = collections.quotes | filter("source", title) %}
       {% if quotes.length > 0 %}
         <h2>Highlights</h2>
         {% for quote in quotes %}
-          <blockquote class="!pt-4">{{ quote.content | safe }}</blockquote>
+          <blockquote class="pt-4!">{{ quote.content | safe }}</blockquote>
         {% endfor %} {% endif %} {% endif %} {% if external_url %}
           <a
             href="{{ external_url }}"

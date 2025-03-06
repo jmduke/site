@@ -17,7 +17,7 @@
     {% for post in pagination.items %}
         {% if post.data.tags == 'quotes' %}
             <blockquote>{{ post.content | safe}}</blockquote>
-            <div class="!mt-2">
+            <div class="mt-2!">
             via {{ post.data.source }}
             </div>
         {% else %}
@@ -29,7 +29,7 @@
             {% set external_url_cta = post.data.external_url_cta %}
             {% include 'content.html' %}
         {% endif %}
-        <hr class="!w-screen !-ml-12 lg:!ml-[calc(-50vw+32.5ch)]" />
+        <hr class="w-screen! -ml-12! lg:ml-[calc(-50vw+32.5ch)]!" />
     {% endfor %}
     <div style="text-align: center">
         {% if pagination.previousPageHref %}

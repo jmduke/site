@@ -16,7 +16,7 @@
             </nav>
         </div>
         <div class="px-4 py-8 flex-1">
-            <main class="max-w-prose prose prose-neutral mx-auto flex flex-col items-center [&>*]:w-full">
+            <main class="max-w-prose prose prose-neutral mx-auto flex flex-col items-center *:w-full">
                 {{ content | safe }}
 
                 <a href="{{ external_url }}">Go to {{ title }}↗</a>
