@@ -5,7 +5,7 @@ tags: post
 ---
 
 
-When we added support for [complex filtering in Buttondown](), I spent a long time trying to come up with a schema for filters that felt sufficiently ergonomic and future-proof. I had a few constraints, all of which were reasonable:
+When we added support for [complex filtering in Buttondown](https://buttondown.com/changelog/2024-08-28), I spent a long time trying to come up with a schema for filters that felt sufficiently ergonomic and future-proof. I had a few constraints, all of which were reasonable:
 
 1. It needed to be JSON-serializable, and trivially parsable by both the front-end and back-end.
 2. It needed to be arbitrarily extendible across a number of domains (you could filter subscribers, but also you might want to filter emails or other models.)
@@ -14,7 +14,7 @@ When we added support for [complex filtering in Buttondown](), I spent a long ti
 
 The solution I landed upon is not, I’m sure, a novel one, but googling “recursive filter schema” was unsuccessful and I am really happy with the result so here it is in case you need something like this:
 
-```
+```python
 @dataclass
 class FilterGroup:
   filters: list[Filter]
@@ -33,7 +33,7 @@ And there you have it. Simple, easily serializable/type-safe, can handle everyth
 
 For example, a filter for all folks _younger than 18_ or _older than 60 and retired_:
 
-```
+```python
 FilterGroup(
   predicate="or",
   filters=[
