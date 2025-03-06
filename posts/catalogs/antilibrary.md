@@ -40,6 +40,19 @@ date: "2024-02-07"
 - The Memory Police
 - Adaptation
 - Wanderlust
+- Amsterdam
+- Three Kings
+- Babylon
+- Killing Them Softly
+- Secret Mall Apartment
+- A Real Pain
+- The World Before Your Feet
+- The Squid & The Whale
+- Happiest Season
+- Heist
+- Let Them All Talk
+- That Thing You Do!
+- The Passenger
 
 ## Books
 
@@ -107,3 +120,4 @@ date: "2024-02-07"
 - Noble House
 - Pantheon
 - Medical Police
+- White Lotus

@@ -1213,6 +1213,23 @@ data:
       - The Score Takes Care of Itself
   - date: 2025-02-28
       - The Flamethrowers
+  - date: 2025-03-01
+      - The Flamethrowers
+      - Realm Grinder
+  - date: 2025-03-02
+      - The Flamethrowers
+      - Realm Grinder
+  - date: 2025-03-03
+      - The Flamethrowers
+      - Realm Grinder
+      - Kentucky Fried Movie
+  - date: 2025-03-04
+      - The Flamethrowers
+      - Realm Grinder
+  - date: 2025-03-05
+      - The Flamethrowers
+      - Realm Grinder
+      - Drive Your Plow Over the Bones of the Dead
 ---
 
 <style>
