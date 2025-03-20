@@ -2155,6 +2155,31 @@
       pointer-events: none;
     }
   }
+  .\[\&amp\;_td\&gt\;p\]\:\!my-0 {
+    &amp; td&gt;p {
+      margin-block: calc(var(--spacing) * 0) !important;
+    }
+  }
+  .\[\&amp\;_th\&gt\;p\]\:\!my-0 {
+    &amp; th&gt;p {
+      margin-block: calc(var(--spacing) * 0) !important;
+    }
+  }
+  .\[\&amp\;\&gt\;\*\]\:pointer-events-none {
+    &amp;&gt;* {
+      pointer-events: none;
+    }
+  }
+  .\[\&amp\;\>\*\]\:pointer-events-none {
+    &amp;>* {
+      pointer-events: none;
+    }
+  }
+  .\[\&amp\;amp\;_th\&amp\;gt\;p\]\:\!my-0 {
+    &amp;amp; th&amp;gt;p {
+      margin-block: calc(var(--spacing) * 0) !important;
+    }
+  }
 }
 @layer base {
   *, ::after, ::before, ::backdrop, ::file-selector-button {
