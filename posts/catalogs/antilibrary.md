@@ -51,8 +51,13 @@ date: "2024-02-07"
 - Happiest Season
 - Heist
 - Let Them All Talk
-- That Thing You Do!
 - The Passenger
+- The Verdict
+- That's Life
+- Missing.
+- Deathtrap
+- The Road Warrior
+- Diner
 
 ## Books
 
@@ -69,22 +74,17 @@ date: "2024-02-07"
 - Extrastatecraft
 - Iron & Silk
 - The Guns of August
-- Forge
 - The Leopard With Two Stories And A Memory
 - At Ease: Stories I Tell Friends
-- High Output Management
 - Only The Paranoid Survive
 - The Box
 - The Image (Daniel Boorstin)
 - The Holy Day
-- Man and Rubber
 - The Wall
-- Book of Clouds
 - The Miracle of St Anthony
 - Significant Objects
 - Priceless: The Case that Brought Down the Visa/MasterCard Bank Cartel
 - The Thursday Murder Club
-- Trilogy of Desire
 - Mystery Men of Wall Street
 - Winter in the Blood
 - Very Cold People
@@ -118,6 +118,5 @@ date: "2024-02-07"
 - Lady in the Lake
 - MANIAC
 - Noble House
-- Pantheon
 - Medical Police
-- White Lotus
+- Adolescence

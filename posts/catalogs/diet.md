@@ -1230,6 +1230,53 @@ data:
       - The Flamethrowers
       - Realm Grinder
       - Drive Your Plow Over the Bones of the Dead
+  - date: 2025-03-12
+      - Realm Grinder
+      - Drive Your Plow Over the Bones of the Dead
+  - date: 2025-03-13
+      - Drive Your Plow Over the Bones of the Dead
+  - date: 2025-03-14
+      - Drive Your Plow Over the Bones of the Dead
+      - Working
+  - date: 2025-03-15
+      - Working
+  - date: 2025-03-16
+      - Working
+      - The Score Takes Care Of Itself
+  - date: 2025-03-17
+      - Nixonland
+      - "Daredevil: Born Again"
+      - The Score Takes Care Of Itself
+  - date: 2025-03-18
+      - Nixonland
+      - White Lotus (Season 1
+  - date: 2025-03-19
+      - Nixonland
+      - "Daredevil: Born Again"
+      - White Lotus (Season 1)
+  - date: 2025-03-20
+      - Nixonland
+      - White Lotus (Season 1)
+      - White Lotus (Season 2)
+  - date: 2025-03-21
+      - Nixonland
+      - The Score Takes Care Of Itself
+      - White Lotus (Season 2)
+  - date: 2025-03-22
+      - Deathtrap
+      - The Score Takes Care Of Itself
+  - date: 2025-03-23
+      - The Score Takes Care Of Itself
+  - date: 2025-03-24
+      - The Score Takes Care Of Itself
+  - date: 2025-03-25
+  - date: 2025-03-26
+      - The Score Takes Care Of Itself
+      - Nixonland
+  - date: 2025-03-27
+      - The Wager
+      - White Lotus (Season 2)
+      - "Daredevil: Born Again"
 ---
 
 <style>
