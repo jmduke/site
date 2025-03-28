@@ -1245,14 +1245,14 @@ data:
       - The Score Takes Care Of Itself
   - date: 2025-03-17
       - Nixonland
-      - "Daredevil: Born Again"
+      - 'Daredevil Born Again'
       - The Score Takes Care Of Itself
   - date: 2025-03-18
       - Nixonland
       - White Lotus (Season 1
   - date: 2025-03-19
       - Nixonland
-      - "Daredevil: Born Again"
+      - "Daredevil Born Again"
       - White Lotus (Season 1)
   - date: 2025-03-20
       - Nixonland
@@ -1276,7 +1276,7 @@ data:
   - date: 2025-03-27
       - The Wager
       - White Lotus (Season 2)
-      - "Daredevil: Born Again"
+      - "Daredevil Born Again"
 ---
 
 <style>
