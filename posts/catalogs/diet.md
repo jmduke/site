@@ -1277,6 +1277,111 @@ data:
       - The Wager
       - White Lotus (Season 2)
       - "Daredevil Born Again"
+  - date: 2025-03-28
+      - The Wager
+      - White Lotus (Season 2)
+  - date: 2025-03-29
+      - Ducks, Newburyport
+  - date: 2025-03-30
+      - Ducks, Newburyport
+  - date: 2025-03-31
+      - Ducks, Newburyport
+      - The Studio
+      - The Verdict
+      - White Lotus (Season 2)
+  - date: 2025-04-01
+      - Ducks, Newburyport
+      - The Verdict
+  - date: 2025-04-02
+      - Ducks, Newburyport
+      - The Studio
+  - date: 2025-04-03
+      - Ducks, Newburyport
+  - date: 2025-04-04
+      - Ducks, Newburyport
+  - date: 2025-04-05
+      - Ducks, Newburyport
+  - date: 2025-04-06
+  - date: 2025-04-07
+      - Ducks, Newburyport
+  - date: 2025-04-08
+  - date: 2025-04-09
+  - date: 2025-04-10
+      - Ducks, Newburyport
+  - date: 2025-04-11
+      - Ducks, Newburyport
+      - The Studio
+  - date: 2025-04-12
+      - Ducks, Newburyport
+  - date: 2025-04-13
+      - Ducks, Newburyport
+  - date: 2025-04-14
+  - date: 2025-04-15
+      - The Studio
+  - date: 2025-04-16
+      - Ducks, Newburyport
+      - Vicky Christina Barcelona
+  - date: 2025-04-17
+  - date: 2025-04-18
+  - date: 2025-04-19
+      - Ducks, Newburyport
+      - A Sort Of Ending
+  - date: 2025-04-20
+      - A Sort Of Ending
+  - date: 2025-04-21
+      - A Sort Of Ending
+  - date: 2025-04-22
+      - Ducks, Newburyport
+      - The Rehearsal
+      - A Sort Of Ending
+  - date: 2025-04-23
+      - Ducks, Newburyport
+  - date: 2025-04-24
+      - Ducks, Newburyport
+  - date: 2025-04-25
+      - The Ghost
+  - date: 2025-04-26
+      - The Ghost
+  - date: 2025-04-27
+      - The Ghost
+      - Koyaanisqatsi
+  - date: 2025-04-28
+  - date: 2025-04-29
+      - The Ghost
+  - date: 2025-04-30
+      - The Ghost
+      - Ducks, Newburyport
+  - date: 2025-05-01
+      - Ducks, Newburyport
+      - The Rehearsal
+  - date: 2025-05-02
+      - Ducks, Newburyport
+  - date: 2025-05-03
+      - Ducks, Newburyport
+      - Shopkeeping
+  - date: 2025-05-04
+      - Ducks, Newburyport
+  - date: 2025-05-05
+  - date: 2025-05-06
+  - date: 2025-05-07
+      - Ducks, Newburyport
+  - date: 2025-05-08
+  - date: 2025-05-09
+      - Fiasco
+  - date: 2025-05-10
+      - Shopkeeping
+      - Fiasco
+  - date: 2025-05-11
+      - Fiasco
+  - date: 2025-05-12
+      - Fiasco
+      - The Rehearsal (Season 2)
+  - date: 2025-05-13
+      - The Studio
+  - date: 2025-05-14
+      - The Rehearsal (Season 2)
+      - Ducks, Newburyport
+
 ---
 
 <style>

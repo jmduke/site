@@ -55,9 +55,11 @@ date: "2024-02-07"
 - The Verdict
 - That's Life
 - Missing.
-- Deathtrap
+- Sleuth
 - The Road Warrior
 - Diner
+- HAPPYEND (2024)
+- Gosford Park
 
 ## Books
 
@@ -100,6 +102,11 @@ date: "2024-02-07"
 - Field Guide to the Haunted Forest
 - Nothing Is True and Everything Is Possible
 - Achieving Our Country
+- Fado Alexandrino
+- The Plains
+- The Sea
+- Under The Volcano
+- TRAUMNOVELLE
 
 ## Games
 
@@ -120,3 +127,4 @@ date: "2024-02-07"
 - Noble House
 - Medical Police
 - Adolescence
+- Your Friends and Neighbors

@@ -25,6 +25,7 @@ date: "2024-02-10"
 - [Is this true?](https://notes.jordanscales.com/is-this-true)
 - [Turbopuffer's architecture (2024)](https://turbopuffer.com/architecture)
 - [The Configuration Complexity Clock (2012)](https://mikehadlow.blogspot.com/2012/05/configuration-complexity-clock.html)
+- [JSX Over The Wire (2025)](https://overreacted.io/jsx-over-the-wire/)
 
 ## Productivity
 
