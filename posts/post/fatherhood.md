@@ -3,6 +3,8 @@ title: Fatherhood
 date: "2025-05-14"
 ---
 
+![](/img/fatherhood.png)
+
 I'm emerging from what already feels like, in retrospect, the hardest two months of my career and the hardest I've worked since I was an over-caffeinated undergrad whose diet consisted of PBR and Qdoba (Chipotle if I was in the mood to splurge). This isn't an oblique metaphor or a veiled reference to any one specific thing: it's simply been a very demanding stretch, filled with long nights, longer to-do lists, and stressful incidents. A certain malaise attacks me when I have so much to do and neither time or energy to do even a fraction of it: a recursive stress, a gray goo of Bad Vibes that seeps unchecked without exogenous intervention. 
 
 About that exogenous intervention.
