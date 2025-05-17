@@ -1381,6 +1381,10 @@ data:
   - date: 2025-05-14
       - The Rehearsal (Season 2)
       - Ducks, Newburyport
+  - date: 2025-05-15
+      - Diner
+      - Your Friends and Neighbors
+      - Ducks, Newburyport
 
 ---
 
