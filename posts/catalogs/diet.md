@@ -1385,7 +1385,29 @@ data:
       - Diner
       - Your Friends and Neighbors
       - Ducks, Newburyport
-
+  - date: 2025-05-16
+      - Diner
+      - Ducks, Newburyport
+  - date: 2025-05-17
+      - Ducks, Newburyport
+  - date: 2025-05-18
+      - Ducks, Newburyport
+      - Porco Rosso
+  - date: 2025-05-19
+  - date: 2025-05-20
+      - Ducks, Newburyport
+      - The Rehearsal (Season 2)
+      - The Studio
+  - date: 2025-05-21
+      - Ducks, Newburyport
+  - date: 2025-05-22
+      - Ducks, Newburyport
+  - date: 2025-05-23    
+      - Ducks, Newburyport
+  - date: 2025-05-24
+      - Ducks, Newburyport
+      - The Studio
+      - Pokerogue
 ---
 
 <style>

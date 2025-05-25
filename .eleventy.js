@@ -1,8 +1,9 @@
-const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
-const markdownIt = require("markdown-it");
-const markdownItFootnote = require("markdown-it-footnote");
-const iterlinker = require("@photogabble/eleventy-plugin-interlinker");
-const pluginRss = require("@11ty/eleventy-plugin-rss");
+import syntaxHighlight from "@11ty/eleventy-plugin-syntaxhighlight";
+import markdownIt from "markdown-it";
+import markdownItFootnote from "markdown-it-footnote";
+import iterlinker from "@photogabble/eleventy-plugin-interlinker";
+import pluginRss from "@11ty/eleventy-plugin-rss";
+import { encodeHTML } from "entities";
 
 const STATIC_FILES = [
   "img",
@@ -13,7 +14,7 @@ const STATIC_FILES = [
   "_redirects",
 ];
 
-module.exports = function (eleventyConfig) {
+export default function (eleventyConfig) {
   // BEGIN: First-party filters.
   eleventyConfig.addFilter("filter", (arr, key, value) => {
     return arr.filter((item) => item.data[key] === value);
@@ -42,7 +43,23 @@ module.exports = function (eleventyConfig) {
   });
   eleventyConfig.addPlugin(syntaxHighlight);
   eleventyConfig.addPlugin(pluginRss);
-  eleventyConfig.addPlugin(iterlinker, {});
+  eleventyConfig.addPlugin(iterlinker, {
+    resolvingFns: new Map([["default", async (link, currentPage, interlinker) => {
+      try {
+      const text = encodeHTML(link.title ?? link.name);
+      let href = link.href;
+    
+      if (link.anchor) {
+        href = `${href}#${link.anchor}`;
+      }
+    
+        return href === false ? link.link : `<a href="${href}">${text}</a>`;
+      } catch (e) {
+        console.error(e);
+        return link.link;
+      }
+    }]]),
+  });
 
   let options = {
     html: true, // Enable HTML tags in source

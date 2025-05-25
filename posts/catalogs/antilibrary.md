@@ -57,7 +57,6 @@ date: "2024-02-07"
 - Missing.
 - Sleuth
 - The Road Warrior
-- Diner
 - HAPPYEND (2024)
 - Gosford Park
 
@@ -123,8 +122,6 @@ date: "2024-02-07"
 - Shogun
 - Xavier: Renegade Angel
 - Lady in the Lake
-- MANIAC
 - Noble House
 - Medical Police
 - Adolescence
-- Your Friends and Neighbors
