@@ -5,8 +5,9 @@ date: 2025-05-25
 rating: 6
 year: 2023
 status: Finished
-tags: post
 ---
+
+![](/img/qc.png)
 
 I can't quite remember how I got into it, but in high school I was a big webcomics guy, mostly pixel stuff. But the one I loved the most at the time, and felt permeate deep into my identity in a way that 8-Bit Theater and the rest never could, was Questionable Content—a still-running series about a self-insert-shaped character working at a coffee shop in New England and palling around with his coworkers, most of whom were women, all of whom had high levels of snark and indie rock erudition.
 
@@ -17,6 +18,8 @@ Five years later, feeling a little more comfortable in my having an identity tha
 It was fun to remember being the kind of person who fantasized about working at a coffee shop — who fantasized about having an increasingly idiosyncratic coterie of band T-shirts. It spoke to a culture that I wasn't even really sure existed, but desperately wanted all the same, and I remembered at once how adulthood felt like a distant, beautiful island filled with serendipity and meaning.
 
 ---
+
+![](/img/sma.webp)
 
 I bring this up in the context of Secret Mall Apartment not just because I think the characters of QC would befriend the protagonists of the documentary, but because it's hard not to have the same kind of feeling—both a nostalgia for remembering all the discussions and jokes about these lovely artist/squatters, and a not unpainful feeling of distance between who I was and how I thought about these people then versus now, and how my understanding of meaning and grandeur has shifted over time.
 
