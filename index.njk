@@ -1,9 +1,15 @@
----
-eleventyExcludeFromCollections: true
-pagination:
-  data: collections.all
-  size: 20
-  reverse: true
+---js
+{
+    "eleventyExcludeFromCollections": true,
+    "pagination": {
+        "data": "collections.all",
+        "size": 20,
+        "reverse": true,
+        "before": function(p, f) {
+            return p.filter(p => p.data.date)
+        }
+    }
+}
 ---
 
 {% extends 'page.njk' %}
