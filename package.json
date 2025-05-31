@@ -10,9 +10,10 @@
   "type": "module",
   "scripts": {
     "start": "npm-run-all -p dev:*",
-    "build": "run-s build:*",
+    "build": "run-s build:tailwind build:11ty build:search",
     "dev:11ty": "eleventy --serve",
     "build:11ty": "eleventy",
+    "build:search": "node scripts/generate-search-index.js",
     "dev:tailwind": "pnpx @tailwindcss/cli -i style.css -o style.out.css --watch",
     "build:tailwind": "pnpx @tailwindcss/cli -i style.css -o style.out.css"
   },

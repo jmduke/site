@@ -1408,6 +1408,26 @@ data:
       - Ducks, Newburyport
       - The Studio
       - Pokerogue
+  - date: 2025-05-25
+      - Ducks, Newburyport
+      - Secret Mall Apartment
+      - Pokerogue
+  - date: 2025-05-26
+      - Ducks, Newburyport
+      - Pokerogue
+      - The Rehearsal (Season 2)
+  - date: 2025-05-27
+      - Ducks, Newburyport
+      - Pokerogue
+      - Gosford Park
+  - date: 2025-05-28
+      - Ducks, Newburyport
+      - Pokerogue
+      - Let Them All Talk
+  - date: 2025-05-29
+      - Pokerogue
+  - date: 2025-05-30
+      - Pokerogue
 ---
 
 <style>
