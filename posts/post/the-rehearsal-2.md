@@ -1,5 +1,4 @@
 ---
-title: "The Rehearsal"
 type: Television
 date: 2025-05-26
 rating: 8

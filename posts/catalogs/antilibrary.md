@@ -9,7 +9,6 @@ date: "2024-02-07"
 - River (2023) (via Sumana)
 - Sorcerer (1977)
 - Saturday Night Fever (1977)
-- The Kentucky Fried Movie (1977)
 - Dinner in America (2020)
 - A Mighty Wind (2003)
 - Dirty Rotten Scoundrels
@@ -44,13 +43,11 @@ date: "2024-02-07"
 - Three Kings
 - Babylon
 - Killing Them Softly
-- Secret Mall Apartment
 - A Real Pain
 - The World Before Your Feet
 - The Squid & The Whale
 - Happiest Season
 - Heist
-- Let Them All Talk
 - The Passenger
 - The Verdict
 - That's Life
@@ -58,7 +55,6 @@ date: "2024-02-07"
 - Sleuth
 - The Road Warrior
 - HAPPYEND (2024)
-- Gosford Park
 
 ## Books
 
