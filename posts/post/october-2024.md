@@ -1,6 +1,9 @@
 ---
 title: "September, 2024"
 date: 2024-10-03
+tags:
+- roundup
+- post
 ---
 
 In descending order of importance:

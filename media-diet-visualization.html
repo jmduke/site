@@ -1,0 +1,713 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Media Diet Visualization</title>
+    <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+    <script src="https://cdn.jsdelivr.net/npm/js-yaml@4.1.0/dist/js-yaml.min.js"></script>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: #0a0a0a;
+            color: #e0e0e0;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+        
+        h1 {
+            text-align: center;
+            color: #fff;
+            margin-bottom: 40px;
+            font-weight: 300;
+            letter-spacing: 2px;
+        }
+        
+        .controls {
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+            margin-bottom: 30px;
+            flex-wrap: wrap;
+        }
+        
+        button {
+            background: #1a1a1a;
+            color: #e0e0e0;
+            border: 1px solid #333;
+            padding: 10px 20px;
+            cursor: pointer;
+            border-radius: 4px;
+            transition: all 0.3s;
+        }
+        
+        button:hover {
+            background: #252525;
+            border-color: #666;
+        }
+        
+        button.active {
+            background: #333;
+            border-color: #666;
+        }
+        
+        #calendar {
+            margin-bottom: 40px;
+        }
+        
+        .month-label {
+            font-size: 14px;
+            fill: #999;
+            font-weight: 500;
+        }
+        
+        .day {
+            stroke: #333;
+            stroke-width: 1;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        
+        .day:hover {
+            stroke: #666;
+            stroke-width: 2;
+        }
+        
+        #bubble-chart {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        
+        .bubble {
+            cursor: pointer;
+            transition: opacity 0.3s;
+        }
+        
+        .bubble:hover {
+            opacity: 0.8;
+        }
+        
+        .bubble text {
+            font-size: 11px;
+            fill: #fff;
+            text-anchor: middle;
+            pointer-events: none;
+            text-shadow: 0 0 3px rgba(0,0,0,0.8);
+        }
+        
+        #timeline {
+            margin-bottom: 40px;
+        }
+        
+        .timeline-item {
+            fill: #666;
+            cursor: pointer;
+            transition: fill 0.2s;
+        }
+        
+        .timeline-item:hover {
+            fill: #999;
+        }
+        
+        .tooltip {
+            position: absolute;
+            text-align: left;
+            padding: 12px;
+            font-size: 13px;
+            background: rgba(0, 0, 0, 0.9);
+            border: 1px solid #333;
+            border-radius: 4px;
+            pointer-events: none;
+            opacity: 0;
+            transition: opacity 0.3s;
+            max-width: 300px;
+            line-height: 1.4;
+        }
+        
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-bottom: 40px;
+        }
+        
+        .stat-card {
+            background: #1a1a1a;
+            border: 1px solid #333;
+            padding: 20px;
+            border-radius: 8px;
+            text-align: center;
+        }
+        
+        .stat-value {
+            font-size: 36px;
+            font-weight: 300;
+            color: #fff;
+            margin-bottom: 5px;
+        }
+        
+        .stat-label {
+            font-size: 14px;
+            color: #999;
+        }
+        
+        .legend {
+            display: flex;
+            gap: 20px;
+            justify-content: center;
+            margin: 20px 0;
+            flex-wrap: wrap;
+        }
+        
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            font-size: 13px;
+        }
+        
+        .legend-color {
+            width: 12px;
+            height: 12px;
+            border-radius: 2px;
+        }
+        
+        .file-input {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        
+        input[type="file"] {
+            padding: 10px;
+            background: #1a1a1a;
+            border: 1px solid #333;
+            color: #e0e0e0;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Media Diet Visualization</h1>
+        
+        <div class="file-input">
+            <input type="file" id="fileInput" accept=".md">
+            <label for="fileInput">Select your diet.md file</label>
+        </div>
+        
+        <div class="stats" id="stats" style="display: none;"></div>
+        
+        <div class="controls" style="display: none;">
+            <button id="calendar-view" class="active">Calendar Heatmap</button>
+            <button id="bubble-view">Bubble Chart</button>
+            <button id="timeline-view">Timeline</button>
+            <button id="category-view">Category Analysis</button>
+        </div>
+        
+        <div id="calendar"></div>
+        <div id="bubble-chart" style="display: none;"></div>
+        <div id="timeline" style="display: none;"></div>
+        <div id="category" style="display: none;"></div>
+        
+        <div class="tooltip"></div>
+    </div>
+    
+    <script>
+        let data = [];
+        
+        // Categorize items
+        const categories = {
+            'Books': ['The E-Myth', 'Austerlitz', 'Superforecasting', 'Cribsheet', 'Trust', 'Work Clean', 'Unreasonable Hospitality', 'The Diamond Age', 'Profiles', 'Team', 'Freedom\'s Forge', 'Profit First', 'Spy Hook', 'Spy Line', 'Spy Sinker', 'The Hunting Gun', 'The Good Soldier', 'Cloud Atlas', 'Train Dreams', 'High Output Management', 'The Unicorn Project', 'Creation Lake', 'Buy Back Your Time', 'The Yiddish', 'Case Histories', 'Possession', 'Becoming Trader Joe', 'Book of Clouds', 'The Financier', 'Crime and Punishment', 'Bringing up Bebe', 'Men and Rubber', 'The Flamethrowers', 'The Score Takes', 'Drive Your Plow', 'Working', 'Nixonland', 'The Wager', 'Ducks, Newburyport', 'A Sort Of Ending', 'The Ghost', 'Fiasco', 'Shopkeeping', 'The Club Dumas', 'Black Bag'],
+            'TV Shows': ['Taskmaster', 'Mr. and Mrs. Smith', 'Blue Eye Samurai', 'Frieren', 'Attack on Titan', 'Delicious in Dungeon', 'Monster', 'Legend of the Galactic Heroes', 'Scott Pilgrim', 'Devs', 'Cromartie', 'Sugar', 'Ripley', 'Everybody\'s in LA', 'Mushishi', 'Presumed Innocent', 'Kaiji', 'Snack Shack', 'Ted Lasso', 'Great Pretender', 'Slow Horses', 'Bad Monkey', 'Dandadan', 'Luther', 'Maniac', 'The West Wing', 'We Own This City', 'Pantheon', 'Daredevil', 'White Lotus', 'The Studio', 'The Rehearsal', 'The Agency'],
+            'Games': ['Balatro', 'Berlin Game', 'Crystal Project', 'Unicorn Overlord', 'Pokerogue', 'Animal Well', 'Vampire Survivors', 'Fire Emblem Engage', 'Melvor', 'Cable Cowboy', 'Idle Itkah', 'Picayune Dreams', 'Diablo IV', 'Monster Sanctuary', 'Metaphor ReFantazio', 'Luck be a Landlord', 'Capybara Go', 'Siralim Ultimate', 'The Rise of the Golden Idol', 'Realm Grinder'],
+            'Movies': ['Dune', 'Hit Man', 'The Fall Guy', 'Godzilla Minus One', 'The American Friend', 'Le Samourai', 'The Anderson Tapes', 'North by Northwest', 'Primal Fear', 'Family Plot', 'Planes, Trains', 'Catch Me If You Can', 'Being John Malkovich', 'Wild Things', 'They Came Together', 'Kentucky Fried Movie', 'Deathtrap', 'The Verdict', 'Vicky Christina Barcelona', 'Koyaanisqatsi', 'Diner', 'Your Friends and Neighbors', 'Porco Rosso', 'Secret Mall Apartment', 'Gosford Park', 'Let Them All Talk', 'Husbands and Wives'],
+            'Music': ['Only God Was Above Us', 'HIT ME HARD AND SOFT', 'Oh Wonder', 'GNX', 'Forever', 'This is Personal', 'Between the Lines']
+        };
+        
+        function getCategory(item) {
+            for (const [cat, items] of Object.entries(categories)) {
+                if (items.some(i => item.includes(i))) return cat;
+            }
+            return 'Other';
+        }
+        
+        const categoryColors = {
+            'Books': '#FF6B6B',
+            'TV Shows': '#4ECDC4',
+            'Games': '#45B7D1',
+            'Movies': '#F7DC6F',
+            'Music': '#BB8FCE',
+            'Other': '#95A5A6'
+        };
+        
+        // File input handler
+        document.getElementById('fileInput').addEventListener('change', function(e) {
+            const file = e.target.files[0];
+            if (!file) return;
+            
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                const content = e.target.result;
+                parseMarkdownFile(content);
+            };
+            reader.readAsText(file);
+        });
+        
+        function parseMarkdownFile(content) {
+            // Extract YAML front matter
+            const yamlMatch = content.match(/^---\n([\s\S]*?)\n---/);
+            if (!yamlMatch) {
+                alert('Invalid file format. Please select a valid diet.md file.');
+                return;
+            }
+            
+            try {
+                // Custom parser for the mixed format
+                const yamlContent = yamlMatch[1];
+                const lines = yamlContent.split('\n');
+                data = [];
+                
+                let currentDate = null;
+                let currentItems = [];
+                let inDataSection = false;
+                
+                for (let line of lines) {
+                    const trimmed = line.trim();
+                    
+                    if (trimmed === 'data:') {
+                        inDataSection = true;
+                        continue;
+                    }
+                    
+                    if (!inDataSection) continue;
+                    
+                    // Check if it's a date line
+                    const dateMatch = trimmed.match(/^- date: (\d{4}-\d{2}-\d{2})$/);
+                    if (dateMatch) {
+                        // Save previous entry if exists
+                        if (currentDate && currentItems.length > 0) {
+                            data.push({ date: currentDate, items: currentItems });
+                        }
+                        currentDate = dateMatch[1];
+                        currentItems = [];
+                        continue;
+                    }
+                    
+                    // Check if it's a content: line
+                    if (trimmed === 'content:') {
+                        continue;
+                    }
+                    
+                    // Check if it's an item line
+                    const itemMatch = trimmed.match(/^- (.+)$/);
+                    if (itemMatch && currentDate) {
+                        currentItems.push(itemMatch[1]);
+                    }
+                }
+                
+                // Save last entry
+                if (currentDate && currentItems.length > 0) {
+                    data.push({ date: currentDate, items: currentItems });
+                }
+                
+                if (data.length > 0) {
+                    // Show controls and stats
+                    document.querySelector('.controls').style.display = 'flex';
+                    document.querySelector('#stats').style.display = 'grid';
+                    
+                    // Calculate and display stats
+                    displayStats();
+                    
+                    // Clear previous visualizations
+                    document.getElementById('calendar').innerHTML = '';
+                    document.getElementById('bubble-chart').innerHTML = '';
+                    document.getElementById('timeline').innerHTML = '';
+                    document.getElementById('category').innerHTML = '';
+                    
+                    // Draw initial view
+                    drawCalendar();
+                } else {
+                    alert('No data found in the file.');
+                }
+            } catch (error) {
+                console.error('Error parsing file:', error);
+                alert('Error parsing the file: ' + error.message);
+            }
+        }
+        
+        function displayStats() {
+            const stats = {
+                totalDays: data.filter(d => d.items.length > 0).length,
+                totalItems: data.reduce((sum, d) => sum + d.items.length, 0),
+                uniqueItems: [...new Set(data.flatMap(d => d.items))].length,
+                avgPerDay: (data.reduce((sum, d) => sum + d.items.length, 0) / data.filter(d => d.items.length > 0).length).toFixed(1)
+            };
+            
+            const statsContainer = d3.select('#stats');
+            statsContainer.selectAll('*').remove();
+            
+            const statData = [
+                { label: 'Days Tracked', value: stats.totalDays },
+                { label: 'Total Items', value: stats.totalItems },
+                { label: 'Unique Items', value: stats.uniqueItems },
+                { label: 'Avg per Day', value: stats.avgPerDay }
+            ];
+            
+            statData.forEach(stat => {
+                statsContainer.append('div')
+                    .attr('class', 'stat-card')
+                    .html(`<div class="stat-value">${stat.value}</div><div class="stat-label">${stat.label}</div>`);
+            });
+        }
+        
+        // Calendar heatmap
+        function drawCalendar() {
+            const cellSize = 17;
+            const yearHeight = cellSize * 7 + 50;
+            
+            const svg = d3.select('#calendar')
+                .append('svg')
+                .attr('width', '100%')
+                .attr('viewBox', `0 0 ${cellSize * 53 + 50} ${yearHeight}`);
+            
+            const year = svg.append('g')
+                .attr('transform', 'translate(40, 20)');
+            
+            const rect = year.selectAll('.day')
+                .data(data)
+                .enter().append('rect')
+                .attr('class', 'day')
+                .attr('width', cellSize - 2)
+                .attr('height', cellSize - 2)
+                .attr('x', d => {
+                    try {
+                        const date = new Date(d.date + 'T00:00:00');
+                        const startOfYear = new Date(date.getFullYear(), 0, 1);
+                        const weekNumber = d3.timeWeek.count(startOfYear, date);
+                        return weekNumber * cellSize;
+                    } catch (e) {
+                        console.error('Date parsing error:', d.date);
+                        return 0;
+                    }
+                })
+                .attr('y', d => {
+                    try {
+                        const date = new Date(d.date + 'T00:00:00');
+                        return date.getDay() * cellSize;
+                    } catch (e) {
+                        return 0;
+                    }
+                })
+                .attr('fill', d => {
+                    const count = d.items.length;
+                    if (count === 0) return '#0a0a0a';
+                    const intensity = Math.min(count / 8, 1);
+                    return d3.interpolateViridis(intensity);
+                })
+                .on('mouseover', function(event, d) {
+                    if (d.items.length > 0) {
+                        const tooltip = d3.select('.tooltip');
+                        const date = new Date(d.date + 'T00:00:00');
+                        tooltip.html(`<strong>${date.toLocaleDateString()}</strong><br>${d.items.join('<br>')}`)
+                            .style('left', (event.pageX + 10) + 'px')
+                            .style('top', (event.pageY - 10) + 'px')
+                            .style('opacity', 1);
+                    }
+                })
+                .on('mouseout', function() {
+                    d3.select('.tooltip').style('opacity', 0);
+                });
+            
+            // Month labels
+            if (data.length > 0) {
+                const startDate = new Date(data[0].date + 'T00:00:00');
+                const endDate = new Date(data[data.length - 1].date + 'T00:00:00');
+                const monthLabels = d3.timeMonths(startDate, endDate);
+                year.selectAll('.month-label')
+                    .data(monthLabels)
+                    .enter().append('text')
+                    .attr('class', 'month-label')
+                    .attr('x', d => d3.timeWeek.count(new Date(d.getFullYear(), 0, 1), d) * cellSize)
+                    .attr('y', -5)
+                    .text(d => d3.timeFormat('%b')(d));
+            }
+        }
+        
+        // Bubble chart
+        function drawBubbleChart() {
+            const width = 1200;
+            const height = 600;
+            
+            const itemCounts = {};
+            data.forEach(d => {
+                d.items.forEach(item => {
+                    itemCounts[item] = (itemCounts[item] || 0) + 1;
+                });
+            });
+            
+            const nodes = Object.entries(itemCounts)
+                .map(([name, count]) => ({
+                    name,
+                    count,
+                    category: getCategory(name),
+                    radius: Math.sqrt(count) * 5
+                }))
+                .filter(d => d.count > 5);
+            
+            const svg = d3.select('#bubble-chart')
+                .append('svg')
+                .attr('width', '100%')
+                .attr('viewBox', `0 0 ${width} ${height}`);
+            
+            const simulation = d3.forceSimulation(nodes)
+                .force('charge', d3.forceManyBody().strength(-50))
+                .force('center', d3.forceCenter(width / 2, height / 2))
+                .force('collision', d3.forceCollide().radius(d => d.radius + 2));
+            
+            const bubbles = svg.selectAll('.bubble')
+                .data(nodes)
+                .enter().append('g')
+                .attr('class', 'bubble');
+            
+            bubbles.append('circle')
+                .attr('r', d => d.radius)
+                .attr('fill', d => categoryColors[d.category])
+                .on('mouseover', function(event, d) {
+                    const tooltip = d3.select('.tooltip');
+                    tooltip.html(`<strong>${d.name}</strong><br>Category: ${d.category}<br>Appearances: ${d.count}`)
+                        .style('left', (event.pageX + 10) + 'px')
+                        .style('top', (event.pageY - 10) + 'px')
+                        .style('opacity', 1);
+                })
+                .on('mouseout', function() {
+                    d3.select('.tooltip').style('opacity', 0);
+                });
+            
+            bubbles.append('text')
+                .text(d => d.radius > 20 ? d.name.substring(0, 15) + (d.name.length > 15 ? '...' : '') : '');
+            
+            simulation.on('tick', () => {
+                bubbles.attr('transform', d => `translate(${d.x}, ${d.y})`);
+            });
+            
+            // Add legend
+            const legend = d3.select('#bubble-chart')
+                .append('div')
+                .attr('class', 'legend');
+            
+            Object.entries(categoryColors).forEach(([cat, color]) => {
+                legend.append('div')
+                    .attr('class', 'legend-item')
+                    .html(`<div class="legend-color" style="background: ${color}"></div>${cat}`);
+            });
+        }
+        
+        // Timeline view
+        function drawTimeline() {
+            const width = 1200;
+            const height = 400;
+            const margin = { top: 20, right: 30, bottom: 40, left: 50 };
+            
+            const svg = d3.select('#timeline')
+                .append('svg')
+                .attr('width', '100%')
+                .attr('viewBox', `0 0 ${width} ${height}`);
+            
+            const parseDate = d3.timeParse('%Y-%m-%d');
+            const timelineData = data.map(d => ({
+                date: parseDate(d.date),
+                count: d.items.length
+            })).filter(d => d.date);
+            
+            const x = d3.scaleTime()
+                .domain(d3.extent(timelineData, d => d.date))
+                .range([margin.left, width - margin.right]);
+            
+            const y = d3.scaleLinear()
+                .domain([0, d3.max(timelineData, d => d.count)])
+                .nice()
+                .range([height - margin.bottom, margin.top]);
+            
+            const area = d3.area()
+                .x(d => x(d.date))
+                .y0(height - margin.bottom)
+                .y1(d => y(d.count))
+                .curve(d3.curveMonotoneX);
+            
+            svg.append('path')
+                .datum(timelineData)
+                .attr('fill', '#4ECDC4')
+                .attr('fill-opacity', 0.6)
+                .attr('stroke', '#4ECDC4')
+                .attr('stroke-width', 2)
+                .attr('d', area);
+            
+            svg.append('g')
+                .attr('transform', `translate(0,${height - margin.bottom})`)
+                .call(d3.axisBottom(x).tickFormat(d3.timeFormat('%b %Y')))
+                .style('color', '#999');
+            
+            svg.append('g')
+                .attr('transform', `translate(${margin.left},0)`)
+                .call(d3.axisLeft(y))
+                .style('color', '#999');
+            
+            svg.append('text')
+                .attr('transform', 'rotate(-90)')
+                .attr('y', 0)
+                .attr('x', 0 - (height / 2))
+                .attr('dy', '1em')
+                .style('text-anchor', 'middle')
+                .style('fill', '#999')
+                .text('Items per Day');
+        }
+        
+        // Category analysis
+        function drawCategoryAnalysis() {
+            const categoryData = {};
+            data.forEach(d => {
+                d.items.forEach(item => {
+                    const cat = getCategory(item);
+                    if (!categoryData[cat]) categoryData[cat] = {};
+                    const month = d.date.substring(0, 7);
+                    categoryData[cat][month] = (categoryData[cat][month] || 0) + 1;
+                });
+            });
+            
+            const width = 1200;
+            const height = 500;
+            const margin = { top: 20, right: 150, bottom: 50, left: 50 };
+            
+            const svg = d3.select('#category')
+                .append('svg')
+                .attr('width', '100%')
+                .attr('viewBox', `0 0 ${width} ${height}`);
+            
+            const months = [...new Set(data.map(d => d.date.substring(0, 7)))].sort();
+            const categories = Object.keys(categoryData);
+            
+            const x = d3.scaleBand()
+                .domain(months)
+                .range([margin.left, width - margin.right])
+                .padding(0.1);
+            
+            const y = d3.scaleLinear()
+                .domain([0, d3.max(categories.flatMap(cat => 
+                    months.map(month => categoryData[cat][month] || 0)))])
+                .nice()
+                .range([height - margin.bottom, margin.top]);
+            
+            const line = d3.line()
+                .x(d => x(d.month) + x.bandwidth() / 2)
+                .y(d => y(d.value))
+                .curve(d3.curveMonotoneX);
+            
+            categories.forEach(cat => {
+                const lineData = months.map(month => ({
+                    month,
+                    value: categoryData[cat][month] || 0
+                }));
+                
+                svg.append('path')
+                    .datum(lineData)
+                    .attr('fill', 'none')
+                    .attr('stroke', categoryColors[cat])
+                    .attr('stroke-width', 2)
+                    .attr('d', line);
+                
+                svg.selectAll(`.dot-${cat}`)
+                    .data(lineData)
+                    .enter().append('circle')
+                    .attr('cx', d => x(d.month) + x.bandwidth() / 2)
+                    .attr('cy', d => y(d.value))
+                    .attr('r', 4)
+                    .attr('fill', categoryColors[cat]);
+            });
+            
+            svg.append('g')
+                .attr('transform', `translate(0,${height - margin.bottom})`)
+                .call(d3.axisBottom(x).tickValues(months.filter((m, i) => i % 3 === 0)))
+                .style('color', '#999');
+            
+            svg.append('g')
+                .attr('transform', `translate(${margin.left},0)`)
+                .call(d3.axisLeft(y))
+                .style('color', '#999');
+            
+            // Legend
+            const legend = svg.selectAll('.legend')
+                .data(categories)
+                .enter().append('g')
+                .attr('class', 'legend')
+                .attr('transform', (d, i) => `translate(${width - margin.right + 20}, ${margin.top + i * 25})`);
+            
+            legend.append('rect')
+                .attr('width', 18)
+                .attr('height', 18)
+                .style('fill', d => categoryColors[d]);
+            
+            legend.append('text')
+                .attr('x', 24)
+                .attr('y', 9)
+                .attr('dy', '.35em')
+                .style('text-anchor', 'start')
+                .style('fill', '#999')
+                .text(d => d);
+        }
+        
+        // View switching
+        document.getElementById('calendar-view').addEventListener('click', function() {
+            if (!data.length) return;
+            document.querySelectorAll('.controls button').forEach(b => b.classList.remove('active'));
+            this.classList.add('active');
+            document.getElementById('calendar').style.display = 'block';
+            document.getElementById('bubble-chart').style.display = 'none';
+            document.getElementById('timeline').style.display = 'none';
+            document.getElementById('category').style.display = 'none';
+            if (document.querySelector('#calendar svg')) return;
+            drawCalendar();
+        });
+        
+        document.getElementById('bubble-view').addEventListener('click', function() {
+            if (!data.length) return;
+            document.querySelectorAll('.controls button').forEach(b => b.classList.remove('active'));
+            this.classList.add('active');
+            document.getElementById('calendar').style.display = 'none';
+            document.getElementById('bubble-chart').style.display = 'block';
+            document.getElementById('timeline').style.display = 'none';
+            document.getElementById('category').style.display = 'none';
+            if (document.querySelector('#bubble-chart svg')) return;
+            drawBubbleChart();
+        });
+        
+        document.getElementById('timeline-view').addEventListener('click', function() {
+            if (!data.length) return;
+            document.querySelectorAll('.controls button').forEach(b => b.classList.remove('active'));
+            this.classList.add('active');
+            document.getElementById('calendar').style.display = 'none';
+            document.getElementById('bubble-chart').style.display = 'none';
+            document.getElementById('timeline').style.display = 'block';
+            document.getElementById('category').style.display = 'none';
+            if (document.querySelector('#timeline svg')) return;
+            drawTimeline();
+        });
+        
+        document.getElementById('category-view').addEventListener('click', function() {
+            if (!data.length) return;
+            document.querySelectorAll('.controls button').forEach(b => b.classList.remove('active'));
+            this.classList.add('active');
+            document.getElementById('calendar').style.display = 'none';
+            document.getElementById('bubble-chart').style.display = 'none';
+            document.getElementById('timeline').style.display = 'none';
+            document.getElementById('category').style.display = 'block';
+            if (document.querySelector('#category svg')) return;
+            drawCategoryAnalysis();
+        });
+    </script>
+</body>
+</html>

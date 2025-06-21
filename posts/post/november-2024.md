@@ -1,7 +1,9 @@
 ---
 title: "October, 2024"
 date: 2024-11-02
-tags: post
+tags:
+- roundup
+- post
 ---
 
 Hello! Lots of writing in October (what early parenthood takes away in terms of deep flow, it gives back in terms of twenty-minute pockets of time and thought):

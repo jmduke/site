@@ -1,7 +1,9 @@
 ---
 title: "Spring, 2025"
 date: 2025-06-05
-tags: post
+tags:
+- roundup
+- post
 ---
 
 Hello! I have _so much_ to catch up with you about. The time has flown.

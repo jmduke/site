@@ -20,6 +20,9 @@
           </a>
         </h1>
       </li>
+      {% if post in collections.roundup %}
+        <div class="text-xs text-gray-600">Roundup</div>
+      {% endif %}
     </nav> </div
     >{% if image %}
       <img

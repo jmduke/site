@@ -1,7 +1,9 @@
 ---
 title: "November, 2024"
 date: 2024-12-08
-tags: post
+tags:
+- roundup
+- post
 ---
 
 Not a lot to share this month; it was a particularly busy time, between a mystery (and now solved, without fanfare or closure) cough and a dearth of time to write as I started to explore easing back into full-time work.

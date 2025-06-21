@@ -1,7 +1,9 @@
 ---
 title: "January, 2025"
 date: 2025-01-09
-tags: post
+tags:
+- roundup
+- post
 ---
 
 Hello, 2025! (As always, [Death Cab](https://www.youtube.com/watch?v=NSgHGFuPNus) remains the soundtrack by which you should read this.)

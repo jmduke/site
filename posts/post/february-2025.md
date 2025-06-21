@@ -1,7 +1,9 @@
 ---
 title: "February, 2025"
 date: 2025-02-09
-tags: post
+tags:
+- roundup
+- post
 ---
 
 What a start to the year! January was a bit more flat-packed than I think Haley and I would have otherwise liked, but all with great things. (Highlights include: first weekend trip with Lucy, signing a lease on an office, and Third South's annual offsite.)
