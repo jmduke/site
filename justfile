@@ -1,5 +1,2 @@
-tailwind:
-	npx tailwindcss -i style.css -o style.out.css --watch
-
-eleventy:
+dev:
 	npx @11ty/eleventy@2.0.1 --serve

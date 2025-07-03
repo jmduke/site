@@ -1,0 +1,13 @@
+---
+title: "Nine months in"
+date: "2025-07-02"
+tags: post
+---
+
+- Many people have asked me what the biggest surprise has been, now that the dust has settled: I politely inform them that the dust has _never_ been more unsettled before answering that nobody quite tells you how _fun_ having a kid is. Childlike joy is a contagion; it is impossible to watch your baby blow raspberries for a minute straight without laughing.
+- When things happen quickly, they happen very quickly. It took ten days to go from "hm, she might crawl soon" to "is that a crawl, technically?" to "oh lawd she crawlin'" to Lucy jog-crawling laps around the house in order to chase poor Telly, who has gamely accepted his fate as Chief Entertainment Officer of LucyCorp (eschewing stock-based compensation in favor of food thrown down from the high chair).
+- She has favorite toys, favorite foods, favorite pillows. She is known on a first-name basis at coffee shops and our local butcher. She has so much fun doing whatever she happens to be doing at any given moment (unless it is waiting at a red light, whether on foot or in car).
+- It is still, of course, quite hard. Days usually start at five and end at midnight, and despite those OSHA-violating hours I am behind at any given moment on twenty different things. My threshold for good workout has shifted from personal bests to time under tension, which is a concept that generalizes broadly; I am still learning about how to live a life that is not executed with a certain kind of calendrical precision and fervor.
+- Old rituals crumble; new rituals emerge. I write this from our dining room table, at 9:00 PM; Lucy's been in her crib for an hour, and Haley is starting to wean which means she has more time and energy at night, so we're spending time in the dining room using our record player for the first time in years. It is fun to go crate-digging through your past self: [[For Emma, Forever Ago]] is better than it's ever been, as is [[The XX]]. 
+- Blessings, blessings, blessings; impossible to count, impossible to ignore. _If this isn't nice, what is?_
+- One of us will have to go up in an hour or so because she's teething this week, and she's growing this week, and the combination of the two means chaos: but that is a problem for a slightly distant version of ourselves, and in the meantime we've really _nailed_ our Gimlet recipe (key limes work really well with a rich mint syrup), and it is my turn to pick the next record, and I need to make sure it's a good one.
