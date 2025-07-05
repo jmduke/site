@@ -1402,7 +1402,7 @@ data:
       - Ducks, Newburyport
   - date: 2025-05-22
       - Ducks, Newburyport
-  - date: 2025-05-23    
+  - date: 2025-05-23
       - Ducks, Newburyport
   - date: 2025-05-24
       - Ducks, Newburyport
@@ -1474,6 +1474,13 @@ data:
   - date: 2025-06-21
       - In Cold Blood
       - Pokerogue
+  - date: 2025-07-03
+      - In Cold Blood
+      - Pokerogue
+  - date: 2025-07-04
+      - In Cold Blood
+      - Pokerogue
+      - Taskmaster
 ---
 
 <style>
