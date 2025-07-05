@@ -16,7 +16,7 @@ First, have some epistemic disclaimers:
 
 That aside: I _love_ — and find especially apt — the phrase “VC-subsidized tokens”.
 
-In 2015, Lyft would charge me $7 for a ride from West Seattle to Belltown; Uber would charge me $5. It was not clear to me if this was because Uber had better magic or because they were more aggressively loss-leading; all I cared about was that it was cheaper.
+In 2015, Lyft would charge me $7 for a ride from West Seattle to Belltown; Uber would charge me $5. It was not clear to me if this was because Uber had better magic or because they were more aggressively loss-leading. I certainly did not (nor did anyone I know) have "loyalty" to one or the other — we simply opened both apps and chose the cheaper quote.
 
 In 2025, both companies would charge me $30 — a price that is less beggaring of disbelief, and also a price that wouldn’t cause me to say “okay, time to call a cab company” but would cause me to look up how delayed the C Line has been lately [^2]. It’s unambiguous that the ridehailing wave resulted in an objectively better user experience for getting a cab; it’s also very clear that a lot of the temporary shift _towards_ these services was more about taking advantage of very generous a16z subsidy and less about enduring behavioral change. [^3]
 
