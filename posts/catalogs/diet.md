@@ -1486,7 +1486,14 @@ data:
       - Pokerogue
   - date: 2025-07-06
       - In Cold Blood
-      - Vertigo Years
+      - Capote
+      - Pokerogue
+  - date: 2025-07-07
+      - Capote
+      - The Inner Game of Tennis
+      - Pokerogue
+  - date: 2025-07-08
+      - Capote
       - Pokerogue
 ---
 
