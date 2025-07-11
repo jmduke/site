@@ -85,3 +85,4 @@ date: "2024-02-10"
 - [Goodbye Microsoft, Hello Facebook (2010)](https://medium.com/@philipsu/goodbye-microsoft-hello-facebook-94a189d56830)
 - [Trust the Process (2016)](https://www.espn.com/pdf/2016/0406/nba_hinkie_redact.pdf)
 - [Coming Home (2024)](https://aworkinglibrary.com/writing/coming-home)
+- [The Communal Mind (2019)](https://www.lrb.co.uk/the-paper/v41/n04/patricia-lockwood/the-communal-mind)
