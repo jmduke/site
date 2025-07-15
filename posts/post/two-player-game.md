@@ -17,4 +17,6 @@ In the before times, meaning not just before Lucy but before I was working on Bu
 
 There are ways of combating this, of course. An underrated method to keep your overall surface area small is to shift your biases towards disjoint surfaces: [rssrsssrssrss](https://www.rssrssrssrss.com/), for instance, is the kind of thing that would have been an order of magnitude _more_ difficult to build within Buttondown than it was to do outside of it. (I suspect that this will become increasingly true over time, as the collective industry matures.)
 
-But one thing that is easy to take for granted — one thing that I really did not internalize until much later — is that there is a certain freedom in those first few halcyon periods of a codebase's life, when the streets are empty and the cost of breakage rounds down to zero. Success begets friction, and to the extent that [every incremental user is a strip of papier-mâché](https://xkcd.com/1172/)
+But one thing that is easy to take for granted — one thing that I really did not internalize until much later — is that there is a certain freedom in those first few halcyon periods of a codebase's life, when the streets are empty and the cost of breakage rounds down to zero. Success begets friction; [every incremental user is a strip of papier-mâché](https://xkcd.com/1172/).
+
+(This is also, in lieu of a crisper ending, why I think the phrase "a startup within a larger company" is a scam; one cannot be so neatly separated from the other.)
