@@ -1,4 +1,3 @@
----
 title: Media diet
 date: "2024-02-21"
 data:
@@ -1495,22 +1494,15 @@ data:
   - date: 2025-07-08
       - Capote
       - Pokerogue
-  - date: 2025-07-08
+  - date: 2025-07-09
       - The Inner Game of Tennis
       - Taskmaster
       - Pokerogue
----
-
-<style>
-li > p { margin-bottom: 0 !important; margin-top: 0 !important;}
-</style>
-
-{% for datum in data %}
-
-### {{ datum.date | readablePostDate }}
-
-{% for item in datum.content %}
-
-- [[{{ item }}]]
-  {% endfor %}
-  {% endfor %}
+  - date: 2025-07-10
+      - "Boogie Man The Lee Atwater Story"
+  - date: 2025-07-11
+      - The Inner Game of Tennis
+  - date: 2025-07-12
+      - Pokerogue
+  - date: 2025-07-13
+      - Pokerogue

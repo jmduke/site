@@ -1,4 +1,4 @@
-@import 'tailwindcss';
+@import "tailwindcss";
 
 @config './tailwind.config.js';
 
@@ -11,60 +11,60 @@
   color utility to any element that depends on these defaults.
 */
 @layer base {
-  *,
-  ::after,
-  ::before,
-  ::backdrop,
-  ::file-selector-button {
-    border-color: var(--color-gray-200, currentColor);
-  }
+    *,
+    ::after,
+    ::before,
+    ::backdrop,
+    ::file-selector-button {
+        border-color: var(--color-gray-200, currentColor);
+    }
 }
 
 @font-face {
-  font-family: "Hex Franklin";
-  src: url("https://d33wubrfki0l68.cloudfront.net/409516e806160febfc4d1d7902107ae378404d3f/fd4dc/fonts/hex-franklin/hex-franklin-0.2.woff2")
-    format("woff2");
-  font-weight: 1 999;
-  font-stretch: 0% 100%;
-  font-style: normal;
+    font-family: "Hex Franklin";
+    src: url("https://d33wubrfki0l68.cloudfront.net/409516e806160febfc4d1d7902107ae378404d3f/fd4dc/fonts/hex-franklin/hex-franklin-0.2.woff2")
+        format("woff2");
+    font-weight: 1 999;
+    font-stretch: 0% 100%;
+    font-style: normal;
 }
 
 img + em {
-  margin-top: -2em;
-  font-size: 0.75em;
+    margin-top: -2em;
+    font-size: 0.75em;
 
-  display: block;
-  text-align: center;
+    display: block;
+    text-align: center;
 }
 
 em {
-  font-style: normal;
-  @apply underline underline-offset-1;
+    font-style: normal;
+    font-weight: 600;
 }
 
 svg {
-  color: rgb(234 88 12);
+    color: rgb(234 88 12);
 }
 
 details > summary {
-  list-style: none;
+    list-style: none;
 }
 summary::-webkit-details-marker {
-  display: none;
+    display: none;
 }
 
 summary::after {
-  content: "  ►";
-  font-size: 12px;
+    content: "  ►";
+    font-size: 12px;
 }
 details[open] summary:after {
-  content: " ▼";
+    content: " ▼";
 }
 
 .addendum {
-  @apply bg-green-200 p-4 rounded-lg my-4 text-black;
+    @apply bg-green-200 p-4 rounded-lg my-4 text-black;
 }
 .addendum::before {
-  content: "Addendum";
-  @apply text-green-600 font-bold uppercase text-xs block mb-2;
+    content: "Addendum";
+    @apply text-green-600 font-bold uppercase text-xs block mb-2;
 }

@@ -1699,9 +1699,6 @@
   .py-\[0\.2rem\] {
     padding-block: 0.2rem;
   }
-  .\!pt-4 {
-    padding-top: calc(var(--spacing) * 4) !important;
-  }
   .pt-4\! {
     padding-top: calc(var(--spacing) * 4) !important;
   }
@@ -2237,8 +2234,7 @@ img + em {
 }
 em {
   font-style: normal;
-  text-decoration-line: underline;
-  text-underline-offset: 1px;
+  font-weight: 600;
 }
 svg {
   color: rgb(234 88 12);
