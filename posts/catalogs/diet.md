@@ -1,1514 +1,1541 @@
 title: Media diet
 date: "2024-02-21"
 data:
-  - date: 2024-02-21
-    content:
-      - Balatro
-      - Berlin Game
-      - Taskmaster
-  - date: 2024-02-22
-    content:
-      - Balatro
-      - Berlin Game
-      - Mr. and Mrs. Smith
-  - date: 2024-02-23
-    content:
-      - Mr. and Mrs. Smith
-      - Berlin Game
-      - Frieren
-  - date: 2024-02-24
-    content:
-      - Berlin Game
-      - Taskmaster
-      - Balatro
-      - The E-Myth Revisited
-      - The Club Dumas
-      - Crystal Project
-      - Delicious in Dungeon
-  - date: 2024-02-25
-      - The E-Myth Revisited
-      - Crystal Project
-      - Taskmaster
-      - Attack on Titan (Season 4)
-  - date: 2024-02-26
-      - The E-Myth Revisited
-      - Blue Eye Samurai
-      - Crystal Project
-  - date: 2024-02-27
-      - The E-Myth Revisited
-      - Blue Eye Samurai
-      - Crystal Project
-      - Monster
-  - date: 2024-02-28
-      - The E-Myth Revisited
-      - Mexico Set
-      - Legend of the Galactic Heroes
-      - Crystal Project
-      - Taskmaster
-  - date: 2024-02-29
-      - Crystal Project
-      - Mexico Set
-      - Frieren
-  - date: 2024-03-01
-      - Blue Eye Samurai
-      - Mexico Set
-      - The Club Dumas
-  - date: 2024-03-02
-      - Mexico Set
-      - Taskmaster
-      - Crystal Project
-      - Delicious in Dungeon
-  - date: 2024-03-03
-      - Mexico Set
-      - London Match
-      - Attack on Titan (Season 4)
-  - date: 2024-03-04
-      - Taskmaster
-      - Monster
-      - Crystal Project
-      - Blue Eye Samurai
-      - London Match
-  - date: 2024-03-05
-      - London Match
-      - Crystal Project
-      - Legend of the Galactic Heroes
-  - date: 2024-03-06
-      - London Match
-      - Blue Eye Samurai
-      - Taskmaster
-      - Freiren
-  - date: 2024-03-07
-      - London Match
-  - date: 2024-03-08
-      - London Match
-  - date: 2024-03-09
-      - Delicious in Dungeon
-      - Taskmaster
-      - London Match
-      - Secrets of Grindea
-      - The Club Dumas
-  - date: 2024-03-10
-      - London Match
-      - Austerlitz
-      - Secrets of Grindea
-      - Crystal Project
-      - Taskmaster
-      - Attack on Titan (Season 4)
-  - date: 2024-03-11
-      - Austerlitz
-      - Taskmaster
-      - Monster
-  - date: 2024-03-12
-      - Austerlitz
-  - date: 2024-03-13
-      - Austerlitz
-      - Scott Pilgrim Takes Off
-      - Legend of the Galactic Heroes
-  - date: 2024-03-14
-      - Crystal Project
-      - Scott Pilgrim Takes Off
-      - Frieren
-      - Taskmaster
-  - date: 2024-03-15
-      - Crystal Project
-      - Unicorn Overlord
-      - Austerlitz
-      - Delicious in Dungeon
-  - date: 2024-03-16
-      - Austerlitz
-      - Unicorn Overlord
-      - Dune
-      - Frieren
-  - date: 2024-03-17
-      - Austerlitz
-      - Unicorn Overlord
-      - Monster
-  - date: 2024-03-18
-      - Attack on Titan (Season 4)
-      - Unicorn Overlord
-      - Taskmaster
-      - Devs
-  - date: 2024-03-19
-      - Devs
-      - Unicorn Overlord
-  - date: 2024-03-20
-      - Devs
-      - Unicorn Overlord
-      - Taskmaster
-  - date: 2024-03-21
-      - Devs
-  - date: 2024-03-22
-      - Dune 2
-  - date: 2024-03-23
-  - date: 2024-03-24
-      - Austerlitz
-      - Frieren
-  - date: 2024-03-25
-      - Unicorn Overlord
-  - date: 2024-03-26
-      - Delicious in Dungeon
-  - date: 2024-03-27
-      - Monster
-      - Taskmaster
-  - date: 2024-03-28
-      - The Late Show
-      - Austerlitz
-  - date: 2024-03-29
-      - Attack on Titan (Season 4)
-      - Superforecasting
-      - Cribsheet
-  - date: 2024-03-30
-      - Cribsheet
-      - Taskmaster
-      - Unicorn Overlord
-      - Legends of the Galactic Heroes
-  - date: 2024-03-31
-      - Cribsheet
-      - Unicorn Overlord
-  - date: 2024-04-01
-      - Frieren
-      - Cribsheet
-      - Unicorn Overlord
-  - date: 2024-04-02
-      - Cromartie High School
-      - Cribsheet
-  - date: 2024-04-03
-      - Cribsheet
-  - date: 2024-04-04
-      - Cribsheet
-  - date: 2024-04-05
-      - Unicorn Overlord
-  - date: 2024-04-06
-      - This is Personal
-      - The Club Dumas
-  - date: 2024-04-07
-      - Unicorn Overlord
-      - Only God Was Above Us
-      - The Club Dumas
-  - date: 2024-04-08
-  - date: 2024-04-09
-  - date: 2024-04-10
-      - Unicorn Overlord
-      - Cribsheet
-  - date: 2024-04-11
-      - Sugar
-      - Cribsheet
-      - Dungeon in Dishi
-  - date: 2024-04-12
-      - Sugar
-      - Taskmaster
-      - Monster
-  - date: 2024-04-13
-      - Taskmaster
-      - Legends of the Galactic Heroes
-      - Cribsheet
-  - date: 2024-04-14
-      - Cribsheet
-      - Unicorn Overlord
-      - Frieren
-  - date: 2024-04-15
-      - Cribsheet
-      - Trust
-      - Cromartie High School
-  - date: 2024-04-16
-      - Trust
-  - date: 2024-04-17
-      - Trust
-      - Murderville
-  - date: 2024-04-18
-      - Trust
-      - Ripley
-      - Taskmaster
-      - Delicious in Dungeon
-  - date: 2024-04-19
-      - Trust
-      - Ripley
-  - date: 2024-04-20
-      - Work Clean
-      - Taskmaster
-  - date: 2024-04-21
-      - Work Clean
-      - Unicorn Overlord
-      - Monster
-  - date: 2024-04-22
-  - date: 2024-04-23
-  - date: 2024-04-24
-      - Work Clean
-      - Taskmaster
-      - Legend of the Galactic Heroes
-  - date: 2024-04-25
-      - Work Clean
-      - Sugar
-  - date: 2024-04-26
-  - date: 2024-04-27
-  - date: 2024-04-28
-  - date: 2024-04-29
-      - Work Clean
-      - Frieren
-  - date: 2024-04-30
-      - Work Clean
-      - Cromartie High School
-  - date: 2024-05-01
-      - Work Clean
-      - Taskmaster
-      - Dungeon Dishi
-  - date: 2024-05-02
-      - Work Clean
-      - Taskmaster
-  - date: 2024-05-03
-      - Work Clean
-      - Unreasonable Hospitality
-  - date: 2024-05-04
-      - Unreasonable Hospitality
-      - Taskmaster
-  - date: 2024-05-05
-      - Unreasonable Hospitality
-      - Taskmaster
-      - Monster
-  - date: 2024-05-06
-      - Taskmaster
-  - date: 2024-05-07
-  - date: 2024-05-08
-      - Taskmaster
-      - Frieren
-      - Unreasonable Hospitality
-  - date: 2024-05-09
-  - date: 2024-05-10
-      - Unreasonable Hospitality
-      - Cromartie High School
-  - date: 2024-05-11
-      - Unreasonable Hospitality
-      - Taskmaster
-  - date: 2024-05-12
-      - Unreasonable Hospitality
-      - Super Turtle Idle
-      - Animal Well
-  - date: 2024-05-13
-      - Monster
-  - date: 2024-05-14
-      - Animal Well
-      - Everybody's in LA
-      - Unreasonable Hospitality
-      - Legend of the Galactic Heroes
-      - Taskmaster
-  - date: 2024-05-15
-      - Animal Well
-      - Unreasonable Hospitality
-  - date: 2024-05-16
-      - The Diamond Age
-      - Taskmaster
-      - Everybody's in LA
-  - date: 2024-05-17
-      - The Diamond Age
-      - Everybody's in LA
-      - Cromartie High School
-  - date: 2024-05-18
-      - The Diamond Age
-      - Taskmaster
-      - Dungeon Dishi
-  - date: 2024-05-19
-      - The Diamond Age
-      - Pokerogue
-  - date: 2024-05-20
-      - The Diamond Age
-      - Pokerogue
-      - Taskmaster
-      - Monster
-  - date: 2024-05-21
-      - The Diamond Age
-      - Pokerogue
-      - Legend of the Galactic Heroes
-      - HIT ME HARD AND SOFT
-  - date: 2024-05-22
-      - The Diamond Age
-      - Pokerogue
-      - Sugar
-  - date: 2024-05-23
-      - The Diamond Age
-  - date: 2024-05-24
-      - The Diamond Age
-      - The Club Dumas
-      - Pokerogue
-  - date: 2024-05-25
-      - Pokerogue
-      - Taskmaster
-  - date: 2024-05-26
-      - Pokerogue
-      - Vampire Survivors
-      - The Club Dumas
-  - date: 2024-05-27
-      - Pokerogue
-      - Vampire Survivors
-      - Profiles of the Future
-  - date: 2024-05-28
-      - The Diamond Age
-      - Oh Wonder
-  - date: 2024-05-29
-      - Pokerogue
-      - The Diamond Age
-      - Everybody's in L.A.
-  - date: 2024-05-30
-      - Pokerogue
-      - Monster
-  - date: 2024-05-31
-      - Pokerogue
-  - date: 2024-06-01
-      - Pokerogue
-  - date: 2024-06-02
-      - Team
-      - Taskmaster
-  - date: 2024-06-03
-      - Team
-      - Frieren
-  - date: 2024-06-04
-      - Cromartie High School
-  - date: 2024-06-05
-      - Dungeon Meshi
-  - date: 2024-06-06
-  - date: 2024-06-07
-      - The Diamond Age
-      - Godzilla Minus One
-  - date: 2024-06-08
-  - date: 2024-06-09
-      - The Diamond Age
-      - Monster
-  - date: 2024-06-10
-      - The Diamond Age
-      - Taskmaster
-      - Legend of the Galactic Heroes
-  - date: 2024-06-11
-      - The Diamond Age
-      - Taskmaster
-      - Pokerogue
-  - date: 2024-06-12
-      - The Diamond Age
-      - Pokerogue
-      - Mushishi (Season 2)
-  - date: 2024-06-13
-      - Freedom's Forge
-      - Hit Man
-      - Pokerogue
-  - date: 2024-06-14
-      - Freedom's Forge
-      - The Fall Guy
-      - Pokerogue
-  - date: 2024-06-15
-      - Freedom's Forge
-      - Pluto
-      - Pokerogue
-  - date: 2024-06-16
-      - Freedom's Forge
-      - Pokerogue
-      - Taskmaster
-      - Cromartie High School
-  - date: 2024-06-17
-      - Freedom's Forge
-      - Pokerogue
-  - date: 2024-06-18
-      - Freedom's Forge
-      - Pokerogue
-      - Dungeon Mishi
-  - date: 2024-06-19
-      - Pokerogue
-      - Presumed Innocent
-  - date: 2024-06-20
-      - Pokerogue
-      - Freedom's Forge
-  - date: 2024-06-21
-  - date: 2024-06-22
-      - Pokerogue
-      - Taskmaster
-  - date: 2024-06-23
-      - Pokerogue
-      - Mushishi (Season 2)
-  - date: 2024-06-24
-      - Pokerogue
-      - Kaiji
-      - Freedom's Forge
-      - Team
-      - Presumed Innocent
-  - date: 2024-06-25
-      - Pokerogue
-      - Freedom's Forge
-  - date: 2024-06-26
-      - Pokerogue
-      - Freedom's Forge
-  - date: 2024-06-27
-      - Pokerogue
-      - Freedom's Forge
-      - Profit First
-      - The American Friend
-  - date: 2024-06-28
-      - Delicious in Dungeon
-      - Pokerogue
-      - Profit First
-  - date: 2024-06-29
-      - Taskmaster
-      - Monster
-      - Pokerogue
-      - Profit First
-  - date: 2024-06-30
-      - Taskmaster
-      - Pokerogue
-      - Profit First
-  - date: 2024-07-01
-      - Profit First
-      - Pokerogue
-      - Team
-      - The Three Musketeers
-      - Kaiji
-  - date: 2024-07-02
-      - Taskmaster
-      - Pokerogue
-  - date: 2024-07-03
-      - Cromartie High School
-      - Pokerogue
-  - date: 2024-07-04
-      - Spy Hook
-      - Pokerogue
-  - date: 2024-07-05
-      - Spy Hook
-      - Pokerogue
-  - date: 2024-07-06
-      - Spy Hook
-      - Pokerogue
-      - Delicious in Dungeon
-  - date: 2024-07-07
-      - Spy Hook
-      - Pokerogue
-  - date: 2024-07-08
-      - Spy Hook
-      - Pokerogue
-  - date: 2024-07-09
-      - Kaiji
-      - Taskmaster
-      - Pokerogue
-  - date: 2024-07-10
-      - Spy Hook
-      - Snack Shack
-      - Pokerogue
-  - date: 2024-07-11
-      - Spy Hook
-      - Mushishi (Season 2)
-      - Pokerogue
-  - date: 2024-07-12
-      - Spy Line
-      - Cromartie High School
-      - Pokerogue
-  - date: 2024-07-13
-      - Spy Line
-      - Pokerogue
-  - date: 2024-07-14
-      - Spy Line
-      - Pokerogue
-      - Delicious in Dungeon
-  - date: 2024-07-15
-      - Spy Line
-      - Pokerogue
-      - Taskmaster
-      - Kaiji
-  - date: 2024-07-16
-      - Spy Line
-  - date: 2024-07-17
-      - Spy Sinker
-      - Pokerogue
-      - Taskmaster
-      - Mushishi (Season 2)
-  - date: 2024-07-18
-      - Spy Sinker
-      - Pokerogue
-      - Team
-  - date: 2024-07-19
-      - The Hunting Gun
-      - Pokerogue
-  - date: 2024-07-20
-      - Pokerogue
-      - The Correctionsx
-      - The Good Soldier Svejk
-      - Taskmaster
-  - date: 2024-07-21
-      - Taskmaster
-      - The Corrections
-      - Pokerogue
-      - The Good Soldier Svejk
-  - date: 2024-07-22
-      - Cloud Atlas
-      - Pokerogue
-      - Taskmaster
-  - date: 2024-07-23
-      - Cloud Atlas
-      - Pokerogue
-      - Taskmaster
-  - date: 2024-07-24
-      - Cloud Atlas
-      - Pokerogue
-  - date: 2024-07-25
-      - Cloud Atlas
-      - Cromartie High School
-  - date: 2024-07-26
-      - Team
-      - Taskmaster
-      - Pokerogue
-  - date: 2024-07-27
-      - Team
-      - Delicious in Dungeon
-      - Pokerogue
-  - date: 2024-07-28
-      - Team
-      - "Fire Emblem Engage"
-      - Pokerogue
-  - date: 2024-07-29
-  - date: 2024-07-30
-      - Team
-      - Kaiji
-      - 'Fire Emblem Engage"
-  - date: 2024-07-31
-  - date: 2024-08-01
-      - Cromartie High School
-      - Taskmaster
-  - date: 2024-08-02
-      - Team
-      - Train Dreams
-  - date: 2024-08-03
-      - Pokerogue
-      - Delicious in Dungeon
-  - date: 2024-08-04
-      - "Fire Emblem Engage"
-      - Train Dreams
-  - date: 2024-08-05
-      - Train Dreams
-      - Taskmaster
-  - date: 2024-08-06
-      - Ted Lasso
-  - date: 2024-08-07
-      - Ted Lasso
-      - Taskmaster
-      - Mushishi
-      - Pokerogue
-  - date: 2024-08-08
-      - Ted Lasso
-      - Taskmaster
-      - Pokerogue
-  - date: 2024-08-09
-      - Ted Lasso
-      - High Output Management
-  - date: 2024-08-10
-      - Pokerogue
-      - Fire Emblem Engage
-      - Taskmaster
-      - High Output Management
-  - date: 2024-08-11
-      - High Output Management
-      - Cromartie
-      - Great Pretender
-      - Fire Emblem Engage
-  - date: 2024-08-12
-      - Taskmaster
-      - High Output Management
-      - Ted Lasso
-  - date: 2024-08-13
-      - Taskmaster
-      - High Output Management
-      - Monster
-  - date: 2024-08-14
-      - The Unicorn Project
-      - Ted Lasso
-      - Fire Emblem Engage
-  - date: 2024-08-14
-      - The Unicorn Project
-      - Ted Lasso
-      - Taskmaster
-  - date: 2024-08-15
-      - Fire Emblem Engage
-      - Ted Lasso
-      - Taskmaster
-  - date: 2024-08-16
-      - The Unicorn Project
-  - date: 2024-08-17
-      - The Unicorn Project
-      - Fire Emblem Engage
-  - date: 2024-08-17
-      - Fire Emblem
-      - Taskmaster
-      - Unicorn Project
-      - Kaiji
-  - date: 2024-08-19
-      - High Output Management
-      - Kaiji
-      - Great Pretender
-  - date: 2024-08-20
-      - High Output Management
-      - Dungeon Meshi
-  - date: 2024-08-21
-      - Monster
-      - Taskmaster
-  - date: 2024-08-22
-      - Melvor Idle
-  - date: 2024-08-24
-      - Melvor Idle
-      - Cable Cowboy
-  - date: 2024-08-25
-      - Taskmaster
-  - date: 2024-08-26
-      - Wizrobe
-      - Cable Cowboy
-  - date: 2024-08-27
-      - Wizrobe
-      - Cable Cowboy
-      - Taskmaster
-  - date: 2024-08-28
-      - The Great Pretender
-      - Forever
-      - Cable Cowboy
-  - date: 2024-08-29
-      - Melvor Isle
-      - Taskmaster
-  - date: 2024-08-30
-      - Le Samourai
-      - Taskmaster
-  - date: 2024-08-31
-      - Cable Cowboy
-      - Melvor Isle
-      - Kaiji
-  - date: 2024-09-01
-      - Cable Cowboy
-      - Melvor Isle
-  - date: 2024-09-02
-      - Cable Cowboy
-      - Melvor Isle
-  - date: 2024-09-03
-      - Cable Cowboy
-      - Melvor Isle
-  - date: 2024-09-04
-      - Cable Cowboy
-      - Taskmaster
-      - Monster
-      - Melvor Isle
-  - date: 2024-09-05
-  - date: 2024-09-06
-      - Melvor Isle
-  - date: 2024-09-07
-      - Melvor Isle
-      - Cable Cowboy
-      - High Output Management
-  - date: 2024-09-08
-      - Melvor Isle
-      - Idle Itkah
-  - date: 2024-09-09
-      - Taskmaster
-      - Kaiji
-      - High Output Management
-      - Melvor
-  - date: 2024-09-10
-  - date: 2024-09-11
-      - Melvor Isle
-      - High Output Management
-      - Taskmaster
-      - Mushishi
-  - date: 2024-09-12
-      - Creation Lake
-      - Taskmaster
-      - Melvor Isle
-  - date: 2024-09-13
-      - Great Pretender
-      - Picayune Dreams
-      - Creation Lake
-      - Taskmaster
-      - Melvor Isle
-  - date: 2024-09-14
-      - Creation Lake
-      - Melvor Isle
-  - date: 2024-09-15
-      - Creation Lake
-      - Melvor Isle
-      - Taskmaster
-  - date: 2024-09-16
-      - Creation Lake
-      - Melvor Isle
-  - date: 2024-09-17
-      - Taskmaster
-      - Kaiji
-      - Melvor Idle
-  - date: 2024-09-18
-      - Melvor Idle
-      - Slow Horses (Season 4)
-  - date: 2024-09-19
-      - Melvor Idle
-      - Taskmaster
-  - date: 2024-09-20
-      - Melvor Idle
-      - Slow Horses (Season 4)
-  - date: 2024-09-21
-      - Melvor Idle
-      - Taskmaster
-      - Diablo IV
-      - Creation Lake
-  - date: 2024-09-22
-      - Diablo IV
-      - Melvor Idle
-  - date: 2024-09-23
-      - Diablo IV
-      - Melvor Idle
-  - date: 2024-09-24
-      - Taskmaster
-      - Melvor Idle
-  - date: 2024-09-25
-      - Picayune Dreams
-      - Melvor Idle
-  - date: 2024-09-26
-      - Melvor Idle
-  - date: 2024-09-27
-      - Melvor Idle
-      - Taskmaster
-  - date: 2024-09-28
-      - Melvor Idle
-      - Taskmaster
-  - date: 2024-09-29
-      - Melvor Idle
-      - Trust
-      - Diablo IV
-  - date: 2024-09-30
-      - Melvor Idle
-      - Trust
-      - Diablo IV
-  - date: 2024-10-01
-      - Melvor Idle
-      - Taskmaster
-      - Diablo IV
-      - Trust
-  - date: 2024-10-02
-      - Melvor Idle
-      - Taskmaster
-      - Diablo IV
-  - date: 2024-10-03
-      - Melvor Idle
-      - Taskmaster
-      - Balatro
-      - Trust
-      - Diablo IV
-  - date: 2024-10-04
-      - Slow Horses (Season 4)
-      - Melvor
-      - Diablo IV
-      - Taskmaster
-  - date: 2024-10-05
-      - Melvor
-      - Diablo IV
-      - Taskmaster
-  - date: 2024-10-06
-      - Slow Horses (Season 4)
-      - Melvor
-      - Monster Sanctuary
-      - Bad Monkey
-  - date: 2024-10-07
-      - Melvor
-      - Monster Sanctuary
-      - Trust
-  - date: 2024-10-08
-      - Melvor
-      - Monster Sanctuary
-      - Taskmaster
-  - date: 2024-10-09
-      - Melvor
-      - Monster Sanctuary
-      - Taskmaster
-      - Dandadan
-      - Slow Horses (Season 4)
-  - date: 2024-10-10
-      - Melvor
-      - Monster Sanctuary
-      - Trust
-      - Taskmaster
-  - date: 2024-10-11
-      - Melvor
-      - Trust
-      - Taskmaster
-  - date: 2024-10-12
-      - Melvor
-      - Trust
-      - Monster Sanctuary
-      - The Yiddish Policemen's Union
-  - date: 2024-10-13
-      - Melvor
-  - date: 2024-10-14
-      - Melvor
-      - Monster Sanctuary
-  - date: 2024-10-15
-      - Melvor
-      - Monster Sanctuary
-      - Taskmaster
-      - The Anderson Tapes
-  - date: 2024-10-16
-      - Melvor
-      - Monster Sanctuary
-  - date: 2024-10-17
-      - Melvor
-      - Monster Sanctuary
-  - date: 2024-10-18
-      - Monster Sanctuary
-      - Taskmaster
-  - date: 2024-10-19
-      - Monster Sanctuary
-  - date: 2024-10-20
-      - Monster Sanctuary
-  - date: 2024-10-21
-      - Monster Sanctuary
-      - Melvor
-      - Taskmaster
-  - date: 2024-10-22
-      - Monster Sanctuary
-      - Taskmaster
-  - date: 2024-10-23
-      - Monster Sanctuary
-      - Taskmaster
-  - date: 2024-10-24
-      - Monster Sanctuary
-      - Luther
-      - Buy Back Your Time
-  - date: 2024-10-25
-      - Monster Sanctuary
-      - Maniac
-      - Luther
-      - Buy Back Your Time
-      - The Yiddish Policeman's Union
-  - date: 2024-10-26
-      - Monster Sanctuary
-      - Maniac
-  - date: 2024-10-27
-      - The Yiddish Policeman's Union
-  - date: 2024-10-28
-  - date: 2024-10-29
-      - Monster Sanctuary
-  - date: 2024-10-30
-      - Taskmaster
-      - The MANIAC
-  - date: 2024-10-31
-      - "Metaphor ReFantazio"
-      - The MANIAC
-  - date: 2024-11-01
-      - "Metaphor ReFantazio"
-      - The West Wing
-      - Taskmaster
-  - date: 2024-11-02
-      - Taskmaster
-      - The West Wing
-      - The MANIAC
-  - date: 2024-11-03
-      - The MANIAC
-  - date: 2024-11-04
-      - The Yiddish Policeman's Union
-      - The MANIAC
-  - date: 2024-11-05
-      - The Yiddish Policeman's Union
-      - The MANIAC
-  - date: 2024-11-06
-      - The Yiddish Policeman's Union
-  - date: 2024-11-07
-      - The Yiddish Policeman's Union
-  - date: 2024-11-08
-  - date: 2024-11-09
-      - Possession
-      - The Yiddish Policeman's Union
-  - date: 2024-11-10
-      - The Yiddish Policeman's Union
-  - date: 2024-11-11
-      - The Yiddish Policeman's Union
-  - date: 2024-11-12
-      - The Yiddish Policeman's Union
-  - date: 2024-11-13
-      - The Yiddish Policeman's Union
-      - Possession
-  - date: 2024-11-14
-      - The Yiddish Policeman's Union
-  - date: 2024-11-15
-      - Case Histories
-      - Taskmaster
-  - date: 2024-11-16
-  - date: 2024-11-17
-      - Case Histories
-  - date: 2024-11-18
-      - Case Histories
-  - date: 2024-11-19
-      - Case Histories
-  - date: 2024-11-20
-      - Possession
-  - date: 2024-11-21
-      - Possession
-  - date: 2024-11-22
-      - Possession
-  - date: 2024-11-23
-      - Possession
-  - date: 2024-11-24
-      - Case Histories
-      - GNX
-  - date: 2024-11-25
-      - Case Histories
-  - date: 2024-11-26
-      - Possession
-  - date: 2024-11-27
-      - Possession
-  - date: 2024-11-28
-      - Possession
-  - date: 2024-11-29
-      - Possession
-      - Case Histories
-  - date: 2024-11-30
-      - Case Histories
-  - date: 2024-12-01
-      - Case Histories
-      - Possession
-  - date: 2024-12-02
-      - "Metaphor ReFantazio"
-      - Possession
-  - date: 2024-12-03
-      - Case Histories
-      - Possession
-  - date: 2024-12-04
-      - "Metaphor ReFantazio"
-      - Case Histories
-      - Possession
-  - date: 2024-12-05
-      - Possession
-  - date: 2024-12-06
-      - Possession
-      - "Metaphor ReFantazio"
-  - date: 2024-12-07
-      - Possession
-      - Becoming Trader Joe
-  - date: 2024-12-08
-      - "Metaphor ReFantazio"
-      - Becoming Trader Joe
-  - date: 2024-12-09
-      - "Metaphor ReFantazio"
-      - Becoming Trader Joe
-  - date: 2024-12-10
-      - Becoming Trader Joe
-  - date: 2024-12-11
-      - Becoming Trader Joe
-      - "Metaphor ReFantazio"
-  - date: 2024-12-12
-      - Becoming Trader Joe
-  - date: 2024-12-13
-  - date: 2024-12-14
-      - Becoming Trader Joe
-      - "Metaphor ReFantazio"
-      - Possession
-  - date: 2024-12-15
-      - Becoming Trader Joe
-      - "Metaphor ReFantazio"
-      - Possession
-  - date: 2024-12-16
-      - Possession
-  - date: 2024-12-17
-      - Possession
-  - date: 2024-12-18
-  - date: 2024-12-19
-      - Possession
-  - date: 2024-12-20
-      - Becoming Trader Joe
-  - date: 2024-12-21
-      - Possession
-  - date: 2024-12-22
-      - Possession
-      - Book of Clouds
-  - date: 2024-12-23
-      - Book of Clouds
-  - date: 2024-12-24
-      - Luck be a Landlord
-  - date: 2024-12-25
-      - Luck be a Landlord
-  - date: 2024-12-26
-      - Book of Clouds
-  - date: 2024-12-27
-      - Book of Clouds
-      - The Financier
-  - date: 2024-12-28
-      - Book of Clouds
-      - The Financier
-      - Luck be a Landlord
-  - date: 2024-12-29
-      - Primal Fear
-      - Book of Clouds
-      - North by Northwest
-      - The Financier
-      - Luck be a Landlord
-  - date: 2024-12-30
-      - Family Plot
-      - Book of Clouds
-      - North by Northwest
-      - The Financier
-  - date: 2024-12-31
-      - Family Plot
-      - Book of Clouds
-      - The Financier
-      - Luck be a Landlord
-  - date: 2025-01-01
-      - Book of Clouds
-      - The Financier
-      - Luck be a Landlord
-  - date: 2025-01-02
-      - Book of Clouds
-      - The Financier
-  - date: 2025-01-03
-      - Book of Clouds
-      - The Financier
-  - date: 2025-01-04
-      - Book of Clouds
-      - Luck be a Landlord
-      - Capybara Go
-  - date: 2025-01-05
-      - Book of Clouds
-      - Between the Lines
-      - Capybara Go
-  - date: 2025-01-06
-      - Book of Clouds
-      - Capybara Go
-      - The Financier
-  - date: 2025-01-07
-      - Book of Clouds
-      - The Financier
-  - date: 2025-01-08
-      - Book of Clouds
-      - The Financier
-  - date: 2025-01-09
-      - Book of Clouds
-      - Luck be a Landlord
-      - Siralim Ultimate
-  - date: 2025-01-10
-      - Book of Clouds
-      - Luck be a Landlord
-      - Crime and Punishment
-      - Bringing up Bebe
-  - date: 2025-01-11
-      - Planes, Trains, and Automobiles
-      - Luck be a Landlord
-      - Crime and Punishment
-      - Bringing up Bebe
-  - date: 2025-01-12
-      - Planes, Trains, and Automobiles
-      - Crime and Punishment
-      - Bringing up Bebe
-      - The Tower
-  - date: 2025-01-13
-      - Crime and Punishment
-      - Bringing up Bebe
-      - The Tower
-  - date: 2025-01-14
-      - Crime and Punishment
-      - Bringing up Bebe
-      - The Tower
-  - date: 2025-01-15
-      - Crime and Punishment
-      - Bringing up Bebe
-      - Catch Me If You Can
-  - date: 2025-01-16
-      - Crime and Punishment
-      - Men and Rubber
-  - date: 2025-01-17
-      - Crime and Punishment
-      - Men and Rubber
-      - In The Shadow of the Holy Mountain
-  - date: 2025-01-18
-      - Crime and Punishment
-  - date: 2025-01-19
-      - Crime and Punishment
-  - date: 2025-01-20
-      - Crime and Punishment
-  - date: 2025-01-21
-      - Crime and Punishment
-      - We Own This City
-  - date: 2025-01-22
-      - We Own This City
-  - date: 2025-01-23
-      - We Own This City
-      - Crime and Punishment
-  - date: 2025-01-24
-      - Crime and Punishment
-  - date: 2025-01-25
-      - The Rise of the Golden Idol
-  - date: 2025-01-26
-      - The Rise of the Golden Idol
-  - date: 2025-01-27
-      - Crime and Punishment
-  - date: 2025-01-28
-      - Crime and Punishment
-  - date: 2025-01-29
-      - Crime and Punishment
-      - Men and Rubber
-  - date: 2025-01-30
-      - Crime and Punishment
-      - Being John Malkovich
-  - date: 2025-01-31
-      - Crime and Punishment
-  - date: 2025-02-01
-      - Crime and Punishment
-  - date: 2025-02-02
-  - date: 2025-02-03
-  - date: 2025-02-04
-  - date: 2025-02-05
-      - Crime and Punishment
-  - date: 2025-02-06
-      - Crime and Punishment
-  - date: 2025-02-07
-  - date: 2025-02-08
-      - Crime and Punishment
-  - date: 2025-02-09
-      - Crime and Punishment
-  - date: 2025-02-10
-  - date: 2025-02-11
-      - Crime and Punishment
-  - date: 2025-02-12
-      - Crime and Punishment
-  - date: 2025-02-13
-      - Crime and Punishment
-  - date: 2025-02-14
-      - Crime and Punishment
-      - Wild Things
-  - date: 2025-02-15
-      - Crime and Punishment
-      - They Came Together
-      - Men and Rubber
-      - The Flamethrowers
-  - date: 2025-02-16
-      - Crime and Punishment
-      - Realm Grinder
-      - The Flamethrowers
-  - date: 2025-02-17
-      - Pantheon
-      - Realm Grinder
-      - The Flamethrowers
-  - date: 2025-02-18
-      - Pantheon
-      - Realm Grinder
-      - Crime and Punishment
-  - date: 2025-02-19
-      - Realm Grinder
-  - date: 2025-02-20
-      - Realm Grinder
-      - Pantheon
-  - date: 2025-02-21
-      - The Flamethrowers
-      - Realm Grinder
-      - Pantheon
-  - date: 2025-02-22
-      - The Flamethrowers
-      - Realm Grinder
-      - Crime and Punishment
-  - date: 2025-02-23
-      - The Flamethrowers
-      - Realm Grinder
-      - Crime and Punishment
-  - date: 2025-02-24
-      - Realm Grinder
-      - Crime and Punishment
-  - date: 2025-02-25
-      - Realm Grinder
-      - The Flamethrowers
-  - date: 2025-02-26
-      - Realm Grinder
-      - The Flamethrowers
-      - The Score Takes Care of Itself
-  - date: 2025-02-27
-      - The Score Takes Care of Itself
-  - date: 2025-02-28
-      - The Flamethrowers
-  - date: 2025-03-01
-      - The Flamethrowers
-      - Realm Grinder
-  - date: 2025-03-02
-      - The Flamethrowers
-      - Realm Grinder
-  - date: 2025-03-03
-      - The Flamethrowers
-      - Realm Grinder
-      - Kentucky Fried Movie
-  - date: 2025-03-04
-      - The Flamethrowers
-      - Realm Grinder
-  - date: 2025-03-05
-      - The Flamethrowers
-      - Realm Grinder
-      - Drive Your Plow Over the Bones of the Dead
-  - date: 2025-03-12
-      - Realm Grinder
-      - Drive Your Plow Over the Bones of the Dead
-  - date: 2025-03-13
-      - Drive Your Plow Over the Bones of the Dead
-  - date: 2025-03-14
-      - Drive Your Plow Over the Bones of the Dead
-      - Working
-  - date: 2025-03-15
-      - Working
-  - date: 2025-03-16
-      - Working
-      - The Score Takes Care Of Itself
-  - date: 2025-03-17
-      - Nixonland
-      - 'Daredevil Born Again'
-      - The Score Takes Care Of Itself
-  - date: 2025-03-18
-      - Nixonland
-      - White Lotus (Season 1
-  - date: 2025-03-19
-      - Nixonland
-      - "Daredevil Born Again"
-      - White Lotus (Season 1)
-  - date: 2025-03-20
-      - Nixonland
-      - White Lotus (Season 1)
-      - White Lotus (Season 2)
-  - date: 2025-03-21
-      - Nixonland
-      - The Score Takes Care Of Itself
-      - White Lotus (Season 2)
-  - date: 2025-03-22
-      - Deathtrap
-      - The Score Takes Care Of Itself
-  - date: 2025-03-23
-      - The Score Takes Care Of Itself
-  - date: 2025-03-24
-      - The Score Takes Care Of Itself
-  - date: 2025-03-25
-  - date: 2025-03-26
-      - The Score Takes Care Of Itself
-      - Nixonland
-  - date: 2025-03-27
-      - The Wager
-      - White Lotus (Season 2)
-      - "Daredevil Born Again"
-  - date: 2025-03-28
-      - The Wager
-      - White Lotus (Season 2)
-  - date: 2025-03-29
-      - Ducks, Newburyport
-  - date: 2025-03-30
-      - Ducks, Newburyport
-  - date: 2025-03-31
-      - Ducks, Newburyport
-      - The Studio
-      - The Verdict
-      - White Lotus (Season 2)
-  - date: 2025-04-01
-      - Ducks, Newburyport
-      - The Verdict
-  - date: 2025-04-02
-      - Ducks, Newburyport
-      - The Studio
-  - date: 2025-04-03
-      - Ducks, Newburyport
-  - date: 2025-04-04
-      - Ducks, Newburyport
-  - date: 2025-04-05
-      - Ducks, Newburyport
-  - date: 2025-04-06
-  - date: 2025-04-07
-      - Ducks, Newburyport
-  - date: 2025-04-08
-  - date: 2025-04-09
-  - date: 2025-04-10
-      - Ducks, Newburyport
-  - date: 2025-04-11
-      - Ducks, Newburyport
-      - The Studio
-  - date: 2025-04-12
-      - Ducks, Newburyport
-  - date: 2025-04-13
-      - Ducks, Newburyport
-  - date: 2025-04-14
-  - date: 2025-04-15
-      - The Studio
-  - date: 2025-04-16
-      - Ducks, Newburyport
-      - Vicky Christina Barcelona
-  - date: 2025-04-17
-  - date: 2025-04-18
-  - date: 2025-04-19
-      - Ducks, Newburyport
-      - A Sort Of Ending
-  - date: 2025-04-20
-      - A Sort Of Ending
-  - date: 2025-04-21
-      - A Sort Of Ending
-  - date: 2025-04-22
-      - Ducks, Newburyport
-      - The Rehearsal
-      - A Sort Of Ending
-  - date: 2025-04-23
-      - Ducks, Newburyport
-  - date: 2025-04-24
-      - Ducks, Newburyport
-  - date: 2025-04-25
-      - The Ghost
-  - date: 2025-04-26
-      - The Ghost
-  - date: 2025-04-27
-      - The Ghost
-      - Koyaanisqatsi
-  - date: 2025-04-28
-  - date: 2025-04-29
-      - The Ghost
-  - date: 2025-04-30
-      - The Ghost
-      - Ducks, Newburyport
-  - date: 2025-05-01
-      - Ducks, Newburyport
-      - The Rehearsal
-  - date: 2025-05-02
-      - Ducks, Newburyport
-  - date: 2025-05-03
-      - Ducks, Newburyport
-      - Shopkeeping
-  - date: 2025-05-04
-      - Ducks, Newburyport
-  - date: 2025-05-05
-  - date: 2025-05-06
-  - date: 2025-05-07
-      - Ducks, Newburyport
-  - date: 2025-05-08
-  - date: 2025-05-09
-      - Fiasco
-  - date: 2025-05-10
-      - Shopkeeping
-      - Fiasco
-  - date: 2025-05-11
-      - Fiasco
-  - date: 2025-05-12
-      - Fiasco
-      - The Rehearsal (Season 2)
-  - date: 2025-05-13
-      - The Studio
-  - date: 2025-05-14
-      - The Rehearsal (Season 2)
-      - Ducks, Newburyport
-  - date: 2025-05-15
-      - Diner
-      - Your Friends and Neighbors
-      - Ducks, Newburyport
-  - date: 2025-05-16
-      - Diner
-      - Ducks, Newburyport
-  - date: 2025-05-17
-      - Ducks, Newburyport
-  - date: 2025-05-18
-      - Ducks, Newburyport
-      - Porco Rosso
-  - date: 2025-05-19
-  - date: 2025-05-20
-      - Ducks, Newburyport
-      - The Rehearsal (Season 2)
-      - The Studio
-  - date: 2025-05-21
-      - Ducks, Newburyport
-  - date: 2025-05-22
-      - Ducks, Newburyport
-  - date: 2025-05-23
-      - Ducks, Newburyport
-  - date: 2025-05-24
-      - Ducks, Newburyport
-      - The Studio
-      - Pokerogue
-  - date: 2025-05-25
-      - Ducks, Newburyport
-      - Secret Mall Apartment
-      - Pokerogue
-  - date: 2025-05-26
-      - Ducks, Newburyport
-      - Pokerogue
-      - The Rehearsal (Season 2)
-  - date: 2025-05-27
-      - Ducks, Newburyport
-      - Pokerogue
-      - Gosford Park
-  - date: 2025-05-28
-      - Ducks, Newburyport
-      - Pokerogue
-      - Let Them All Talk
-  - date: 2025-05-29
-      - Pokerogue
-  - date: 2025-05-30
-      - Pokerogue
-  - date: 2025-06-01
-      - Pokerogue
-      - Ducks, Newburyport
-  - date: 2025-06-07
-      - Pokerogue
-      - Ducks, Newburyport
-  - date: 2025-06-08
-      - Pokerogue
-      - Ducks, Newburyport
-  - date: 2025-06-09
-      - Pokerogue
-      - Ducks, Newburyport
-  - date: 2025-06-10
-      - Ducks, Newburyport
-      - Husbands and Wives
-  - date: 2025-06-11
-      - Ducks, Newburyport
-  - date: 2025-06-12
-      - Black Bag
-      - Ducks, Newburyport
-  - date: 2025-06-13
-      - The Agency
-      - Zama
-      - Pokerogue
-  - date: 2025-06-14
-      - Pokerogue
-      - Zama
-  - date: 2025-06-15
-      - Pokerogue
-      - Zama
-  - date: 2025-06-16
-      - Pokerogue
-  - date: 2025-06-17
-      - Pokerogue
-      - The Agency
-  - date: 2025-06-18
-      - Pokerogue
-      - Zama
-      - In Cold Blood
-  - date: 2025-06-19
-      - In Cold Blood
-  - date: 2025-06-20
-      - In Cold Blood
-  - date: 2025-06-21
-      - In Cold Blood
-      - Pokerogue
-  - date: 2025-07-03
-      - In Cold Blood
-      - Pokerogue
-  - date: 2025-07-04
-      - In Cold Blood
-      - Pokerogue
-      - Taskmaster
-  - date: 2025-07-05
-      - In Cold Blood
-      - Pokerogue
-  - date: 2025-07-06
-      - In Cold Blood
-      - Capote
-      - Pokerogue
-  - date: 2025-07-07
-      - Capote
-      - The Inner Game of Tennis
-      - Pokerogue
-  - date: 2025-07-08
-      - Capote
-      - Pokerogue
-  - date: 2025-07-09
-      - The Inner Game of Tennis
-      - Taskmaster
-      - Pokerogue
-  - date: 2025-07-10
-      - "Boogie Man The Lee Atwater Story"
-  - date: 2025-07-11
-      - The Inner Game of Tennis
-  - date: 2025-07-12
-      - Pokerogue
-  - date: 2025-07-13
-      - Pokerogue
-  - date: 2025-07-14
-      - The Inner Game of Tennis
-  - date: 2025-07-15
-    - The Candidate
-  - date: 2025-07-16
-      - The Inner Game of Tennis
+
+- date: 2024-02-21
+  content:
+  - Balatro
+  - Berlin Game
+  - Taskmaster
+- date: 2024-02-22
+  content:
+  - Balatro
+  - Berlin Game
+  - Mr. and Mrs. Smith
+- date: 2024-02-23
+  content:
+  - Mr. and Mrs. Smith
+  - Berlin Game
+  - Frieren
+- date: 2024-02-24
+  content:
+  - Berlin Game
+  - Taskmaster
+  - Balatro
+  - The E-Myth Revisited
+  - The Club Dumas
+  - Crystal Project
+  - Delicious in Dungeon
+- date: 2024-02-25
+  - The E-Myth Revisited
+  - Crystal Project
+  - Taskmaster
+  - Attack on Titan (Season 4)
+- date: 2024-02-26
+  - The E-Myth Revisited
+  - Blue Eye Samurai
+  - Crystal Project
+- date: 2024-02-27
+  - The E-Myth Revisited
+  - Blue Eye Samurai
+  - Crystal Project
+  - Monster
+- date: 2024-02-28
+  - The E-Myth Revisited
+  - Mexico Set
+  - Legend of the Galactic Heroes
+  - Crystal Project
+  - Taskmaster
+- date: 2024-02-29
+  - Crystal Project
+  - Mexico Set
+  - Frieren
+- date: 2024-03-01
+  - Blue Eye Samurai
+  - Mexico Set
+  - The Club Dumas
+- date: 2024-03-02
+  - Mexico Set
+  - Taskmaster
+  - Crystal Project
+  - Delicious in Dungeon
+- date: 2024-03-03
+  - Mexico Set
+  - London Match
+  - Attack on Titan (Season 4)
+- date: 2024-03-04
+  - Taskmaster
+  - Monster
+  - Crystal Project
+  - Blue Eye Samurai
+  - London Match
+- date: 2024-03-05
+  - London Match
+  - Crystal Project
+  - Legend of the Galactic Heroes
+- date: 2024-03-06
+  - London Match
+  - Blue Eye Samurai
+  - Taskmaster
+  - Freiren
+- date: 2024-03-07
+  - London Match
+- date: 2024-03-08
+  - London Match
+- date: 2024-03-09
+  - Delicious in Dungeon
+  - Taskmaster
+  - London Match
+  - Secrets of Grindea
+  - The Club Dumas
+- date: 2024-03-10
+  - London Match
+  - Austerlitz
+  - Secrets of Grindea
+  - Crystal Project
+  - Taskmaster
+  - Attack on Titan (Season 4)
+- date: 2024-03-11
+  - Austerlitz
+  - Taskmaster
+  - Monster
+- date: 2024-03-12
+  - Austerlitz
+- date: 2024-03-13
+  - Austerlitz
+  - Scott Pilgrim Takes Off
+  - Legend of the Galactic Heroes
+- date: 2024-03-14
+  - Crystal Project
+  - Scott Pilgrim Takes Off
+  - Frieren
+  - Taskmaster
+- date: 2024-03-15
+  - Crystal Project
+  - Unicorn Overlord
+  - Austerlitz
+  - Delicious in Dungeon
+- date: 2024-03-16
+  - Austerlitz
+  - Unicorn Overlord
+  - Dune
+  - Frieren
+- date: 2024-03-17
+  - Austerlitz
+  - Unicorn Overlord
+  - Monster
+- date: 2024-03-18
+  - Attack on Titan (Season 4)
+  - Unicorn Overlord
+  - Taskmaster
+  - Devs
+- date: 2024-03-19
+  - Devs
+  - Unicorn Overlord
+- date: 2024-03-20
+  - Devs
+  - Unicorn Overlord
+  - Taskmaster
+- date: 2024-03-21
+  - Devs
+- date: 2024-03-22
+  - Dune 2
+- date: 2024-03-23
+- date: 2024-03-24
+  - Austerlitz
+  - Frieren
+- date: 2024-03-25
+  - Unicorn Overlord
+- date: 2024-03-26
+  - Delicious in Dungeon
+- date: 2024-03-27
+  - Monster
+  - Taskmaster
+- date: 2024-03-28
+  - The Late Show
+  - Austerlitz
+- date: 2024-03-29
+  - Attack on Titan (Season 4)
+  - Superforecasting
+  - Cribsheet
+- date: 2024-03-30
+  - Cribsheet
+  - Taskmaster
+  - Unicorn Overlord
+  - Legends of the Galactic Heroes
+- date: 2024-03-31
+  - Cribsheet
+  - Unicorn Overlord
+- date: 2024-04-01
+  - Frieren
+  - Cribsheet
+  - Unicorn Overlord
+- date: 2024-04-02
+  - Cromartie High School
+  - Cribsheet
+- date: 2024-04-03
+  - Cribsheet
+- date: 2024-04-04
+  - Cribsheet
+- date: 2024-04-05
+  - Unicorn Overlord
+- date: 2024-04-06
+  - This is Personal
+  - The Club Dumas
+- date: 2024-04-07
+  - Unicorn Overlord
+  - Only God Was Above Us
+  - The Club Dumas
+- date: 2024-04-08
+- date: 2024-04-09
+- date: 2024-04-10
+  - Unicorn Overlord
+  - Cribsheet
+- date: 2024-04-11
+  - Sugar
+  - Cribsheet
+  - Dungeon in Dishi
+- date: 2024-04-12
+  - Sugar
+  - Taskmaster
+  - Monster
+- date: 2024-04-13
+  - Taskmaster
+  - Legends of the Galactic Heroes
+  - Cribsheet
+- date: 2024-04-14
+  - Cribsheet
+  - Unicorn Overlord
+  - Frieren
+- date: 2024-04-15
+  - Cribsheet
+  - Trust
+  - Cromartie High School
+- date: 2024-04-16
+  - Trust
+- date: 2024-04-17
+  - Trust
+  - Murderville
+- date: 2024-04-18
+  - Trust
+  - Ripley
+  - Taskmaster
+  - Delicious in Dungeon
+- date: 2024-04-19
+  - Trust
+  - Ripley
+- date: 2024-04-20
+  - Work Clean
+  - Taskmaster
+- date: 2024-04-21
+  - Work Clean
+  - Unicorn Overlord
+  - Monster
+- date: 2024-04-22
+- date: 2024-04-23
+- date: 2024-04-24
+  - Work Clean
+  - Taskmaster
+  - Legend of the Galactic Heroes
+- date: 2024-04-25
+  - Work Clean
+  - Sugar
+- date: 2024-04-26
+- date: 2024-04-27
+- date: 2024-04-28
+- date: 2024-04-29
+  - Work Clean
+  - Frieren
+- date: 2024-04-30
+  - Work Clean
+  - Cromartie High School
+- date: 2024-05-01
+  - Work Clean
+  - Taskmaster
+  - Dungeon Dishi
+- date: 2024-05-02
+  - Work Clean
+  - Taskmaster
+- date: 2024-05-03
+  - Work Clean
+  - Unreasonable Hospitality
+- date: 2024-05-04
+  - Unreasonable Hospitality
+  - Taskmaster
+- date: 2024-05-05
+  - Unreasonable Hospitality
+  - Taskmaster
+  - Monster
+- date: 2024-05-06
+  - Taskmaster
+- date: 2024-05-07
+- date: 2024-05-08
+  - Taskmaster
+  - Frieren
+  - Unreasonable Hospitality
+- date: 2024-05-09
+- date: 2024-05-10
+  - Unreasonable Hospitality
+  - Cromartie High School
+- date: 2024-05-11
+  - Unreasonable Hospitality
+  - Taskmaster
+- date: 2024-05-12
+  - Unreasonable Hospitality
+  - Super Turtle Idle
+  - Animal Well
+- date: 2024-05-13
+  - Monster
+- date: 2024-05-14
+  - Animal Well
+  - Everybody's in LA
+  - Unreasonable Hospitality
+  - Legend of the Galactic Heroes
+  - Taskmaster
+- date: 2024-05-15
+  - Animal Well
+  - Unreasonable Hospitality
+- date: 2024-05-16
+  - The Diamond Age
+  - Taskmaster
+  - Everybody's in LA
+- date: 2024-05-17
+  - The Diamond Age
+  - Everybody's in LA
+  - Cromartie High School
+- date: 2024-05-18
+  - The Diamond Age
+  - Taskmaster
+  - Dungeon Dishi
+- date: 2024-05-19
+  - The Diamond Age
+  - Pokerogue
+- date: 2024-05-20
+  - The Diamond Age
+  - Pokerogue
+  - Taskmaster
+  - Monster
+- date: 2024-05-21
+  - The Diamond Age
+  - Pokerogue
+  - Legend of the Galactic Heroes
+  - HIT ME HARD AND SOFT
+- date: 2024-05-22
+  - The Diamond Age
+  - Pokerogue
+  - Sugar
+- date: 2024-05-23
+  - The Diamond Age
+- date: 2024-05-24
+  - The Diamond Age
+  - The Club Dumas
+  - Pokerogue
+- date: 2024-05-25
+  - Pokerogue
+  - Taskmaster
+- date: 2024-05-26
+  - Pokerogue
+  - Vampire Survivors
+  - The Club Dumas
+- date: 2024-05-27
+  - Pokerogue
+  - Vampire Survivors
+  - Profiles of the Future
+- date: 2024-05-28
+  - The Diamond Age
+  - Oh Wonder
+- date: 2024-05-29
+  - Pokerogue
+  - The Diamond Age
+  - Everybody's in L.A.
+- date: 2024-05-30
+  - Pokerogue
+  - Monster
+- date: 2024-05-31
+  - Pokerogue
+- date: 2024-06-01
+  - Pokerogue
+- date: 2024-06-02
+  - Team
+  - Taskmaster
+- date: 2024-06-03
+  - Team
+  - Frieren
+- date: 2024-06-04
+  - Cromartie High School
+- date: 2024-06-05
+  - Dungeon Meshi
+- date: 2024-06-06
+- date: 2024-06-07
+  - The Diamond Age
+  - Godzilla Minus One
+- date: 2024-06-08
+- date: 2024-06-09
+  - The Diamond Age
+  - Monster
+- date: 2024-06-10
+  - The Diamond Age
+  - Taskmaster
+  - Legend of the Galactic Heroes
+- date: 2024-06-11
+  - The Diamond Age
+  - Taskmaster
+  - Pokerogue
+- date: 2024-06-12
+  - The Diamond Age
+  - Pokerogue
+  - Mushishi (Season 2)
+- date: 2024-06-13
+  - Freedom's Forge
+  - Hit Man
+  - Pokerogue
+- date: 2024-06-14
+  - Freedom's Forge
+  - The Fall Guy
+  - Pokerogue
+- date: 2024-06-15
+  - Freedom's Forge
+  - Pluto
+  - Pokerogue
+- date: 2024-06-16
+  - Freedom's Forge
+  - Pokerogue
+  - Taskmaster
+  - Cromartie High School
+- date: 2024-06-17
+  - Freedom's Forge
+  - Pokerogue
+- date: 2024-06-18
+  - Freedom's Forge
+  - Pokerogue
+  - Dungeon Mishi
+- date: 2024-06-19
+  - Pokerogue
+  - Presumed Innocent
+- date: 2024-06-20
+  - Pokerogue
+  - Freedom's Forge
+- date: 2024-06-21
+- date: 2024-06-22
+  - Pokerogue
+  - Taskmaster
+- date: 2024-06-23
+  - Pokerogue
+  - Mushishi (Season 2)
+- date: 2024-06-24
+  - Pokerogue
+  - Kaiji
+  - Freedom's Forge
+  - Team
+  - Presumed Innocent
+- date: 2024-06-25
+  - Pokerogue
+  - Freedom's Forge
+- date: 2024-06-26
+  - Pokerogue
+  - Freedom's Forge
+- date: 2024-06-27
+  - Pokerogue
+  - Freedom's Forge
+  - Profit First
+  - The American Friend
+- date: 2024-06-28
+  - Delicious in Dungeon
+  - Pokerogue
+  - Profit First
+- date: 2024-06-29
+  - Taskmaster
+  - Monster
+  - Pokerogue
+  - Profit First
+- date: 2024-06-30
+  - Taskmaster
+  - Pokerogue
+  - Profit First
+- date: 2024-07-01
+  - Profit First
+  - Pokerogue
+  - Team
+  - The Three Musketeers
+  - Kaiji
+- date: 2024-07-02
+  - Taskmaster
+  - Pokerogue
+- date: 2024-07-03
+  - Cromartie High School
+  - Pokerogue
+- date: 2024-07-04
+  - Spy Hook
+  - Pokerogue
+- date: 2024-07-05
+  - Spy Hook
+  - Pokerogue
+- date: 2024-07-06
+  - Spy Hook
+  - Pokerogue
+  - Delicious in Dungeon
+- date: 2024-07-07
+  - Spy Hook
+  - Pokerogue
+- date: 2024-07-08
+  - Spy Hook
+  - Pokerogue
+- date: 2024-07-09
+  - Kaiji
+  - Taskmaster
+  - Pokerogue
+- date: 2024-07-10
+  - Spy Hook
+  - Snack Shack
+  - Pokerogue
+- date: 2024-07-11
+  - Spy Hook
+  - Mushishi (Season 2)
+  - Pokerogue
+- date: 2024-07-12
+  - Spy Line
+  - Cromartie High School
+  - Pokerogue
+- date: 2024-07-13
+  - Spy Line
+  - Pokerogue
+- date: 2024-07-14
+  - Spy Line
+  - Pokerogue
+  - Delicious in Dungeon
+- date: 2024-07-15
+  - Spy Line
+  - Pokerogue
+  - Taskmaster
+  - Kaiji
+- date: 2024-07-16
+  - Spy Line
+- date: 2024-07-17
+  - Spy Sinker
+  - Pokerogue
+  - Taskmaster
+  - Mushishi (Season 2)
+- date: 2024-07-18
+  - Spy Sinker
+  - Pokerogue
+  - Team
+- date: 2024-07-19
+  - The Hunting Gun
+  - Pokerogue
+- date: 2024-07-20
+  - Pokerogue
+  - The Correctionsx
+  - The Good Soldier Svejk
+  - Taskmaster
+- date: 2024-07-21
+  - Taskmaster
+  - The Corrections
+  - Pokerogue
+  - The Good Soldier Svejk
+- date: 2024-07-22
+  - Cloud Atlas
+  - Pokerogue
+  - Taskmaster
+- date: 2024-07-23
+  - Cloud Atlas
+  - Pokerogue
+  - Taskmaster
+- date: 2024-07-24
+  - Cloud Atlas
+  - Pokerogue
+- date: 2024-07-25
+  - Cloud Atlas
+  - Cromartie High School
+- date: 2024-07-26
+  - Team
+  - Taskmaster
+  - Pokerogue
+- date: 2024-07-27
+  - Team
+  - Delicious in Dungeon
+  - Pokerogue
+- date: 2024-07-28
+  - Team
+  - "Fire Emblem Engage"
+  - Pokerogue
+- date: 2024-07-29
+- date: 2024-07-30
+  - Team
+  - Kaiji
+  - 'Fire Emblem Engage"
+- date: 2024-07-31
+- date: 2024-08-01
+  - Cromartie High School
+  - Taskmaster
+- date: 2024-08-02
+  - Team
+  - Train Dreams
+- date: 2024-08-03
+  - Pokerogue
+  - Delicious in Dungeon
+- date: 2024-08-04
+  - "Fire Emblem Engage"
+  - Train Dreams
+- date: 2024-08-05
+  - Train Dreams
+  - Taskmaster
+- date: 2024-08-06
+  - Ted Lasso
+- date: 2024-08-07
+  - Ted Lasso
+  - Taskmaster
+  - Mushishi
+  - Pokerogue
+- date: 2024-08-08
+  - Ted Lasso
+  - Taskmaster
+  - Pokerogue
+- date: 2024-08-09
+  - Ted Lasso
+  - High Output Management
+- date: 2024-08-10
+  - Pokerogue
+  - Fire Emblem Engage
+  - Taskmaster
+  - High Output Management
+- date: 2024-08-11
+  - High Output Management
+  - Cromartie
+  - Great Pretender
+  - Fire Emblem Engage
+- date: 2024-08-12
+  - Taskmaster
+  - High Output Management
+  - Ted Lasso
+- date: 2024-08-13
+  - Taskmaster
+  - High Output Management
+  - Monster
+- date: 2024-08-14
+  - The Unicorn Project
+  - Ted Lasso
+  - Fire Emblem Engage
+- date: 2024-08-14
+  - The Unicorn Project
+  - Ted Lasso
+  - Taskmaster
+- date: 2024-08-15
+  - Fire Emblem Engage
+  - Ted Lasso
+  - Taskmaster
+- date: 2024-08-16
+  - The Unicorn Project
+- date: 2024-08-17
+  - The Unicorn Project
+  - Fire Emblem Engage
+- date: 2024-08-17
+  - Fire Emblem
+  - Taskmaster
+  - Unicorn Project
+  - Kaiji
+- date: 2024-08-19
+  - High Output Management
+  - Kaiji
+  - Great Pretender
+- date: 2024-08-20
+  - High Output Management
+  - Dungeon Meshi
+- date: 2024-08-21
+  - Monster
+  - Taskmaster
+- date: 2024-08-22
+  - Melvor Idle
+- date: 2024-08-24
+  - Melvor Idle
+  - Cable Cowboy
+- date: 2024-08-25
+  - Taskmaster
+- date: 2024-08-26
+  - Wizrobe
+  - Cable Cowboy
+- date: 2024-08-27
+  - Wizrobe
+  - Cable Cowboy
+  - Taskmaster
+- date: 2024-08-28
+  - The Great Pretender
+  - Forever
+  - Cable Cowboy
+- date: 2024-08-29
+  - Melvor Isle
+  - Taskmaster
+- date: 2024-08-30
+  - Le Samourai
+  - Taskmaster
+- date: 2024-08-31
+  - Cable Cowboy
+  - Melvor Isle
+  - Kaiji
+- date: 2024-09-01
+  - Cable Cowboy
+  - Melvor Isle
+- date: 2024-09-02
+  - Cable Cowboy
+  - Melvor Isle
+- date: 2024-09-03
+  - Cable Cowboy
+  - Melvor Isle
+- date: 2024-09-04
+  - Cable Cowboy
+  - Taskmaster
+  - Monster
+  - Melvor Isle
+- date: 2024-09-05
+- date: 2024-09-06
+  - Melvor Isle
+- date: 2024-09-07
+  - Melvor Isle
+  - Cable Cowboy
+  - High Output Management
+- date: 2024-09-08
+  - Melvor Isle
+  - Idle Itkah
+- date: 2024-09-09
+  - Taskmaster
+  - Kaiji
+  - High Output Management
+  - Melvor
+- date: 2024-09-10
+- date: 2024-09-11
+  - Melvor Isle
+  - High Output Management
+  - Taskmaster
+  - Mushishi
+- date: 2024-09-12
+  - Creation Lake
+  - Taskmaster
+  - Melvor Isle
+- date: 2024-09-13
+  - Great Pretender
+  - Picayune Dreams
+  - Creation Lake
+  - Taskmaster
+  - Melvor Isle
+- date: 2024-09-14
+  - Creation Lake
+  - Melvor Isle
+- date: 2024-09-15
+  - Creation Lake
+  - Melvor Isle
+  - Taskmaster
+- date: 2024-09-16
+  - Creation Lake
+  - Melvor Isle
+- date: 2024-09-17
+  - Taskmaster
+  - Kaiji
+  - Melvor Idle
+- date: 2024-09-18
+  - Melvor Idle
+  - Slow Horses (Season 4)
+- date: 2024-09-19
+  - Melvor Idle
+  - Taskmaster
+- date: 2024-09-20
+  - Melvor Idle
+  - Slow Horses (Season 4)
+- date: 2024-09-21
+  - Melvor Idle
+  - Taskmaster
+  - Diablo IV
+  - Creation Lake
+- date: 2024-09-22
+  - Diablo IV
+  - Melvor Idle
+- date: 2024-09-23
+  - Diablo IV
+  - Melvor Idle
+- date: 2024-09-24
+  - Taskmaster
+  - Melvor Idle
+- date: 2024-09-25
+  - Picayune Dreams
+  - Melvor Idle
+- date: 2024-09-26
+  - Melvor Idle
+- date: 2024-09-27
+  - Melvor Idle
+  - Taskmaster
+- date: 2024-09-28
+  - Melvor Idle
+  - Taskmaster
+- date: 2024-09-29
+  - Melvor Idle
+  - Trust
+  - Diablo IV
+- date: 2024-09-30
+  - Melvor Idle
+  - Trust
+  - Diablo IV
+- date: 2024-10-01
+  - Melvor Idle
+  - Taskmaster
+  - Diablo IV
+  - Trust
+- date: 2024-10-02
+  - Melvor Idle
+  - Taskmaster
+  - Diablo IV
+- date: 2024-10-03
+  - Melvor Idle
+  - Taskmaster
+  - Balatro
+  - Trust
+  - Diablo IV
+- date: 2024-10-04
+  - Slow Horses (Season 4)
+  - Melvor
+  - Diablo IV
+  - Taskmaster
+- date: 2024-10-05
+  - Melvor
+  - Diablo IV
+  - Taskmaster
+- date: 2024-10-06
+  - Slow Horses (Season 4)
+  - Melvor
+  - Monster Sanctuary
+  - Bad Monkey
+- date: 2024-10-07
+  - Melvor
+  - Monster Sanctuary
+  - Trust
+- date: 2024-10-08
+  - Melvor
+  - Monster Sanctuary
+  - Taskmaster
+- date: 2024-10-09
+  - Melvor
+  - Monster Sanctuary
+  - Taskmaster
+  - Dandadan
+  - Slow Horses (Season 4)
+- date: 2024-10-10
+  - Melvor
+  - Monster Sanctuary
+  - Trust
+  - Taskmaster
+- date: 2024-10-11
+  - Melvor
+  - Trust
+  - Taskmaster
+- date: 2024-10-12
+  - Melvor
+  - Trust
+  - Monster Sanctuary
+  - The Yiddish Policemen's Union
+- date: 2024-10-13
+  - Melvor
+- date: 2024-10-14
+  - Melvor
+  - Monster Sanctuary
+- date: 2024-10-15
+  - Melvor
+  - Monster Sanctuary
+  - Taskmaster
+  - The Anderson Tapes
+- date: 2024-10-16
+  - Melvor
+  - Monster Sanctuary
+- date: 2024-10-17
+  - Melvor
+  - Monster Sanctuary
+- date: 2024-10-18
+  - Monster Sanctuary
+  - Taskmaster
+- date: 2024-10-19
+  - Monster Sanctuary
+- date: 2024-10-20
+  - Monster Sanctuary
+- date: 2024-10-21
+  - Monster Sanctuary
+  - Melvor
+  - Taskmaster
+- date: 2024-10-22
+  - Monster Sanctuary
+  - Taskmaster
+- date: 2024-10-23
+  - Monster Sanctuary
+  - Taskmaster
+- date: 2024-10-24
+  - Monster Sanctuary
+  - Luther
+  - Buy Back Your Time
+- date: 2024-10-25
+  - Monster Sanctuary
+  - Maniac
+  - Luther
+  - Buy Back Your Time
+  - The Yiddish Policeman's Union
+- date: 2024-10-26
+  - Monster Sanctuary
+  - Maniac
+- date: 2024-10-27
+  - The Yiddish Policeman's Union
+- date: 2024-10-28
+- date: 2024-10-29
+  - Monster Sanctuary
+- date: 2024-10-30
+  - Taskmaster
+  - The MANIAC
+- date: 2024-10-31
+  - "Metaphor ReFantazio"
+  - The MANIAC
+- date: 2024-11-01
+  - "Metaphor ReFantazio"
+  - The West Wing
+  - Taskmaster
+- date: 2024-11-02
+  - Taskmaster
+  - The West Wing
+  - The MANIAC
+- date: 2024-11-03
+  - The MANIAC
+- date: 2024-11-04
+  - The Yiddish Policeman's Union
+  - The MANIAC
+- date: 2024-11-05
+  - The Yiddish Policeman's Union
+  - The MANIAC
+- date: 2024-11-06
+  - The Yiddish Policeman's Union
+- date: 2024-11-07
+  - The Yiddish Policeman's Union
+- date: 2024-11-08
+- date: 2024-11-09
+  - Possession
+  - The Yiddish Policeman's Union
+- date: 2024-11-10
+  - The Yiddish Policeman's Union
+- date: 2024-11-11
+  - The Yiddish Policeman's Union
+- date: 2024-11-12
+  - The Yiddish Policeman's Union
+- date: 2024-11-13
+  - The Yiddish Policeman's Union
+  - Possession
+- date: 2024-11-14
+  - The Yiddish Policeman's Union
+- date: 2024-11-15
+  - Case Histories
+  - Taskmaster
+- date: 2024-11-16
+- date: 2024-11-17
+  - Case Histories
+- date: 2024-11-18
+  - Case Histories
+- date: 2024-11-19
+  - Case Histories
+- date: 2024-11-20
+  - Possession
+- date: 2024-11-21
+  - Possession
+- date: 2024-11-22
+  - Possession
+- date: 2024-11-23
+  - Possession
+- date: 2024-11-24
+  - Case Histories
+  - GNX
+- date: 2024-11-25
+  - Case Histories
+- date: 2024-11-26
+  - Possession
+- date: 2024-11-27
+  - Possession
+- date: 2024-11-28
+  - Possession
+- date: 2024-11-29
+  - Possession
+  - Case Histories
+- date: 2024-11-30
+  - Case Histories
+- date: 2024-12-01
+  - Case Histories
+  - Possession
+- date: 2024-12-02
+  - "Metaphor ReFantazio"
+  - Possession
+- date: 2024-12-03
+  - Case Histories
+  - Possession
+- date: 2024-12-04
+  - "Metaphor ReFantazio"
+  - Case Histories
+  - Possession
+- date: 2024-12-05
+  - Possession
+- date: 2024-12-06
+  - Possession
+  - "Metaphor ReFantazio"
+- date: 2024-12-07
+  - Possession
+  - Becoming Trader Joe
+- date: 2024-12-08
+  - "Metaphor ReFantazio"
+  - Becoming Trader Joe
+- date: 2024-12-09
+  - "Metaphor ReFantazio"
+  - Becoming Trader Joe
+- date: 2024-12-10
+  - Becoming Trader Joe
+- date: 2024-12-11
+  - Becoming Trader Joe
+  - "Metaphor ReFantazio"
+- date: 2024-12-12
+  - Becoming Trader Joe
+- date: 2024-12-13
+- date: 2024-12-14
+  - Becoming Trader Joe
+  - "Metaphor ReFantazio"
+  - Possession
+- date: 2024-12-15
+  - Becoming Trader Joe
+  - "Metaphor ReFantazio"
+  - Possession
+- date: 2024-12-16
+  - Possession
+- date: 2024-12-17
+  - Possession
+- date: 2024-12-18
+- date: 2024-12-19
+  - Possession
+- date: 2024-12-20
+  - Becoming Trader Joe
+- date: 2024-12-21
+  - Possession
+- date: 2024-12-22
+  - Possession
+  - Book of Clouds
+- date: 2024-12-23
+  - Book of Clouds
+- date: 2024-12-24
+  - Luck be a Landlord
+- date: 2024-12-25
+  - Luck be a Landlord
+- date: 2024-12-26
+  - Book of Clouds
+- date: 2024-12-27
+  - Book of Clouds
+  - The Financier
+- date: 2024-12-28
+  - Book of Clouds
+  - The Financier
+  - Luck be a Landlord
+- date: 2024-12-29
+  - Primal Fear
+  - Book of Clouds
+  - North by Northwest
+  - The Financier
+  - Luck be a Landlord
+- date: 2024-12-30
+  - Family Plot
+  - Book of Clouds
+  - North by Northwest
+  - The Financier
+- date: 2024-12-31
+  - Family Plot
+  - Book of Clouds
+  - The Financier
+  - Luck be a Landlord
+- date: 2025-01-01
+  - Book of Clouds
+  - The Financier
+  - Luck be a Landlord
+- date: 2025-01-02
+  - Book of Clouds
+  - The Financier
+- date: 2025-01-03
+  - Book of Clouds
+  - The Financier
+- date: 2025-01-04
+  - Book of Clouds
+  - Luck be a Landlord
+  - Capybara Go
+- date: 2025-01-05
+  - Book of Clouds
+  - Between the Lines
+  - Capybara Go
+- date: 2025-01-06
+  - Book of Clouds
+  - Capybara Go
+  - The Financier
+- date: 2025-01-07
+  - Book of Clouds
+  - The Financier
+- date: 2025-01-08
+  - Book of Clouds
+  - The Financier
+- date: 2025-01-09
+  - Book of Clouds
+  - Luck be a Landlord
+  - Siralim Ultimate
+- date: 2025-01-10
+  - Book of Clouds
+  - Luck be a Landlord
+  - Crime and Punishment
+  - Bringing up Bebe
+- date: 2025-01-11
+  - Planes, Trains, and Automobiles
+  - Luck be a Landlord
+  - Crime and Punishment
+  - Bringing up Bebe
+- date: 2025-01-12
+  - Planes, Trains, and Automobiles
+  - Crime and Punishment
+  - Bringing up Bebe
+  - The Tower
+- date: 2025-01-13
+  - Crime and Punishment
+  - Bringing up Bebe
+  - The Tower
+- date: 2025-01-14
+  - Crime and Punishment
+  - Bringing up Bebe
+  - The Tower
+- date: 2025-01-15
+  - Crime and Punishment
+  - Bringing up Bebe
+  - Catch Me If You Can
+- date: 2025-01-16
+  - Crime and Punishment
+  - Men and Rubber
+- date: 2025-01-17
+  - Crime and Punishment
+  - Men and Rubber
+  - In The Shadow of the Holy Mountain
+- date: 2025-01-18
+  - Crime and Punishment
+- date: 2025-01-19
+  - Crime and Punishment
+- date: 2025-01-20
+  - Crime and Punishment
+- date: 2025-01-21
+  - Crime and Punishment
+  - We Own This City
+- date: 2025-01-22
+  - We Own This City
+- date: 2025-01-23
+  - We Own This City
+  - Crime and Punishment
+- date: 2025-01-24
+  - Crime and Punishment
+- date: 2025-01-25
+  - The Rise of the Golden Idol
+- date: 2025-01-26
+  - The Rise of the Golden Idol
+- date: 2025-01-27
+  - Crime and Punishment
+- date: 2025-01-28
+  - Crime and Punishment
+- date: 2025-01-29
+  - Crime and Punishment
+  - Men and Rubber
+- date: 2025-01-30
+  - Crime and Punishment
+  - Being John Malkovich
+- date: 2025-01-31
+  - Crime and Punishment
+- date: 2025-02-01
+  - Crime and Punishment
+- date: 2025-02-02
+- date: 2025-02-03
+- date: 2025-02-04
+- date: 2025-02-05
+  - Crime and Punishment
+- date: 2025-02-06
+  - Crime and Punishment
+- date: 2025-02-07
+- date: 2025-02-08
+  - Crime and Punishment
+- date: 2025-02-09
+  - Crime and Punishment
+- date: 2025-02-10
+- date: 2025-02-11
+  - Crime and Punishment
+- date: 2025-02-12
+  - Crime and Punishment
+- date: 2025-02-13
+  - Crime and Punishment
+- date: 2025-02-14
+  - Crime and Punishment
+  - Wild Things
+- date: 2025-02-15
+  - Crime and Punishment
+  - They Came Together
+  - Men and Rubber
+  - The Flamethrowers
+- date: 2025-02-16
+  - Crime and Punishment
+  - Realm Grinder
+  - The Flamethrowers
+- date: 2025-02-17
+  - Pantheon
+  - Realm Grinder
+  - The Flamethrowers
+- date: 2025-02-18
+  - Pantheon
+  - Realm Grinder
+  - Crime and Punishment
+- date: 2025-02-19
+  - Realm Grinder
+- date: 2025-02-20
+  - Realm Grinder
+  - Pantheon
+- date: 2025-02-21
+  - The Flamethrowers
+  - Realm Grinder
+  - Pantheon
+- date: 2025-02-22
+  - The Flamethrowers
+  - Realm Grinder
+  - Crime and Punishment
+- date: 2025-02-23
+  - The Flamethrowers
+  - Realm Grinder
+  - Crime and Punishment
+- date: 2025-02-24
+  - Realm Grinder
+  - Crime and Punishment
+- date: 2025-02-25
+  - Realm Grinder
+  - The Flamethrowers
+- date: 2025-02-26
+  - Realm Grinder
+  - The Flamethrowers
+  - The Score Takes Care of Itself
+- date: 2025-02-27
+  - The Score Takes Care of Itself
+- date: 2025-02-28
+  - The Flamethrowers
+- date: 2025-03-01
+  - The Flamethrowers
+  - Realm Grinder
+- date: 2025-03-02
+  - The Flamethrowers
+  - Realm Grinder
+- date: 2025-03-03
+  - The Flamethrowers
+  - Realm Grinder
+  - Kentucky Fried Movie
+- date: 2025-03-04
+  - The Flamethrowers
+  - Realm Grinder
+- date: 2025-03-05
+  - The Flamethrowers
+  - Realm Grinder
+  - Drive Your Plow Over the Bones of the Dead
+- date: 2025-03-12
+  - Realm Grinder
+  - Drive Your Plow Over the Bones of the Dead
+- date: 2025-03-13
+  - Drive Your Plow Over the Bones of the Dead
+- date: 2025-03-14
+  - Drive Your Plow Over the Bones of the Dead
+  - Working
+- date: 2025-03-15
+  - Working
+- date: 2025-03-16
+  - Working
+  - The Score Takes Care Of Itself
+- date: 2025-03-17
+  - Nixonland
+  - 'Daredevil Born Again'
+  - The Score Takes Care Of Itself
+- date: 2025-03-18
+  - Nixonland
+  - White Lotus (Season 1
+- date: 2025-03-19
+  - Nixonland
+  - "Daredevil Born Again"
+  - White Lotus (Season 1)
+- date: 2025-03-20
+  - Nixonland
+  - White Lotus (Season 1)
+  - White Lotus (Season 2)
+- date: 2025-03-21
+  - Nixonland
+  - The Score Takes Care Of Itself
+  - White Lotus (Season 2)
+- date: 2025-03-22
+  - Deathtrap
+  - The Score Takes Care Of Itself
+- date: 2025-03-23
+  - The Score Takes Care Of Itself
+- date: 2025-03-24
+  - The Score Takes Care Of Itself
+- date: 2025-03-25
+- date: 2025-03-26
+  - The Score Takes Care Of Itself
+  - Nixonland
+- date: 2025-03-27
+  - The Wager
+  - White Lotus (Season 2)
+  - "Daredevil Born Again"
+- date: 2025-03-28
+  - The Wager
+  - White Lotus (Season 2)
+- date: 2025-03-29
+  - Ducks, Newburyport
+- date: 2025-03-30
+  - Ducks, Newburyport
+- date: 2025-03-31
+  - Ducks, Newburyport
+  - The Studio
+  - The Verdict
+  - White Lotus (Season 2)
+- date: 2025-04-01
+  - Ducks, Newburyport
+  - The Verdict
+- date: 2025-04-02
+  - Ducks, Newburyport
+  - The Studio
+- date: 2025-04-03
+  - Ducks, Newburyport
+- date: 2025-04-04
+  - Ducks, Newburyport
+- date: 2025-04-05
+  - Ducks, Newburyport
+- date: 2025-04-06
+- date: 2025-04-07
+  - Ducks, Newburyport
+- date: 2025-04-08
+- date: 2025-04-09
+- date: 2025-04-10
+  - Ducks, Newburyport
+- date: 2025-04-11
+  - Ducks, Newburyport
+  - The Studio
+- date: 2025-04-12
+  - Ducks, Newburyport
+- date: 2025-04-13
+  - Ducks, Newburyport
+- date: 2025-04-14
+- date: 2025-04-15
+  - The Studio
+- date: 2025-04-16
+  - Ducks, Newburyport
+  - Vicky Christina Barcelona
+- date: 2025-04-17
+- date: 2025-04-18
+- date: 2025-04-19
+  - Ducks, Newburyport
+  - A Sort Of Ending
+- date: 2025-04-20
+  - A Sort Of Ending
+- date: 2025-04-21
+  - A Sort Of Ending
+- date: 2025-04-22
+  - Ducks, Newburyport
+  - The Rehearsal
+  - A Sort Of Ending
+- date: 2025-04-23
+  - Ducks, Newburyport
+- date: 2025-04-24
+  - Ducks, Newburyport
+- date: 2025-04-25
+  - The Ghost
+- date: 2025-04-26
+  - The Ghost
+- date: 2025-04-27
+  - The Ghost
+  - Koyaanisqatsi
+- date: 2025-04-28
+- date: 2025-04-29
+  - The Ghost
+- date: 2025-04-30
+  - The Ghost
+  - Ducks, Newburyport
+- date: 2025-05-01
+  - Ducks, Newburyport
+  - The Rehearsal
+- date: 2025-05-02
+  - Ducks, Newburyport
+- date: 2025-05-03
+  - Ducks, Newburyport
+  - Shopkeeping
+- date: 2025-05-04
+  - Ducks, Newburyport
+- date: 2025-05-05
+- date: 2025-05-06
+- date: 2025-05-07
+  - Ducks, Newburyport
+- date: 2025-05-08
+- date: 2025-05-09
+  - Fiasco
+- date: 2025-05-10
+  - Shopkeeping
+  - Fiasco
+- date: 2025-05-11
+  - Fiasco
+- date: 2025-05-12
+  - Fiasco
+  - The Rehearsal (Season 2)
+- date: 2025-05-13
+  - The Studio
+- date: 2025-05-14
+  - The Rehearsal (Season 2)
+  - Ducks, Newburyport
+- date: 2025-05-15
+  - Diner
+  - Your Friends and Neighbors
+  - Ducks, Newburyport
+- date: 2025-05-16
+  - Diner
+  - Ducks, Newburyport
+- date: 2025-05-17
+  - Ducks, Newburyport
+- date: 2025-05-18
+  - Ducks, Newburyport
+  - Porco Rosso
+- date: 2025-05-19
+- date: 2025-05-20
+  - Ducks, Newburyport
+  - The Rehearsal (Season 2)
+  - The Studio
+- date: 2025-05-21
+  - Ducks, Newburyport
+- date: 2025-05-22
+  - Ducks, Newburyport
+- date: 2025-05-23
+  - Ducks, Newburyport
+- date: 2025-05-24
+  - Ducks, Newburyport
+  - The Studio
+  - Pokerogue
+- date: 2025-05-25
+  - Ducks, Newburyport
+  - Secret Mall Apartment
+  - Pokerogue
+- date: 2025-05-26
+  - Ducks, Newburyport
+  - Pokerogue
+  - The Rehearsal (Season 2)
+- date: 2025-05-27
+  - Ducks, Newburyport
+  - Pokerogue
+  - Gosford Park
+- date: 2025-05-28
+  - Ducks, Newburyport
+  - Pokerogue
+  - Let Them All Talk
+- date: 2025-05-29
+  - Pokerogue
+- date: 2025-05-30
+  - Pokerogue
+- date: 2025-06-01
+  - Pokerogue
+  - Ducks, Newburyport
+- date: 2025-06-07
+  - Pokerogue
+  - Ducks, Newburyport
+- date: 2025-06-08
+  - Pokerogue
+  - Ducks, Newburyport
+- date: 2025-06-09
+  - Pokerogue
+  - Ducks, Newburyport
+- date: 2025-06-10
+  - Ducks, Newburyport
+  - Husbands and Wives
+- date: 2025-06-11
+  - Ducks, Newburyport
+- date: 2025-06-12
+  - Black Bag
+  - Ducks, Newburyport
+- date: 2025-06-13
+  - The Agency
+  - Zama
+  - Pokerogue
+- date: 2025-06-14
+  - Pokerogue
+  - Zama
+- date: 2025-06-15
+  - Pokerogue
+  - Zama
+- date: 2025-06-16
+  - Pokerogue
+- date: 2025-06-17
+  - Pokerogue
+  - The Agency
+- date: 2025-06-18
+  - Pokerogue
+  - Zama
+  - In Cold Blood
+- date: 2025-06-19
+  - In Cold Blood
+- date: 2025-06-20
+  - In Cold Blood
+- date: 2025-06-21
+  - In Cold Blood
+  - Pokerogue
+- date: 2025-07-03
+  - In Cold Blood
+  - Pokerogue
+- date: 2025-07-04
+  - In Cold Blood
+  - Pokerogue
+  - Taskmaster
+- date: 2025-07-05
+  - In Cold Blood
+  - Pokerogue
+- date: 2025-07-06
+  - In Cold Blood
+  - Capote
+  - Pokerogue
+- date: 2025-07-07
+  - Capote
+  - The Inner Game of Tennis
+  - Pokerogue
+- date: 2025-07-08
+  - Capote
+  - Pokerogue
+- date: 2025-07-09
+  - The Inner Game of Tennis
+  - Taskmaster
+  - Pokerogue
+- date: 2025-07-10
+  - "Boogie Man The Lee Atwater Story"
+- date: 2025-07-11
+  - The Inner Game of Tennis
+- date: 2025-07-12
+  - Pokerogue
+- date: 2025-07-13
+  - Pokerogue
+- date: 2025-07-14
+  - The Inner Game of Tennis
+- date: 2025-07-15
+  - The Candidate
+- date: 2025-07-16
+  - The Inner Game of Tennis
+- date: 2025-07-17
+  - Bodies Bodies Bodies
+- date: 2025-07-18
+  - The Netanyahus
+  - Pokerogue
+- date: 2025-07-19
+  - The Netanyahus
+  - Pokerogue
+- date: 2025-07-20
+  - The Netanyahus
+  - Pokerogue
+- date: 2025-07-21
+- date: 2025-07-22
+  - The Netanyahus
+  - Pokerogue
+- date: 2025-07-23
+- date: 2025-07-24
+- date: 2025-07-25
+- date: 2025-07-26
+  - The Only Rule Is That It Has To Work
+  - Pokerogue
+- date: 2025-07-27
+  - The Only Rule Is That It Has To Work
+  - Pokerogue
+- date: 2025-07-28
+  - Zodiac
