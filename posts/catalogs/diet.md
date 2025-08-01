@@ -1539,3 +1539,7 @@ data:
   - Pokerogue
 - date: 2025-07-28
   - Zodiac
+- date: 2025-07-29
+  - Pokerogue
+- date: 2025-07-28
+  - Air
