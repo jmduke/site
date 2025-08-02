@@ -1541,5 +1541,11 @@ data:
   - Zodiac
 - date: 2025-07-29
   - Pokerogue
-- date: 2025-07-28
+- date: 2025-07-30
   - Air
+- date: 2025-07-31
+  - The Only Rule Is That It Has To Work
+- date: 2025-08-01
+  - Fleabag
+  - Pokerogue
+  - The Only Rule Is That It Has To Work
