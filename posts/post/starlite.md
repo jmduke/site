@@ -1,5 +1,5 @@
 ---
-title: STAR LITE
+title: STAR LINE
 date: 2025-08-18
 author: Chance the Rapper
 rating: 5
