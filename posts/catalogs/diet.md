@@ -1535,7 +1535,7 @@ data:
   - The Only Rule Is That It Has To Work
   - Pokerogue
 - date: 2025-07-27
-  - The Only Rule Is That It Has To Work
+  - The Only Rule Is That It Has Toj Work
   - Pokerogue
 - date: 2025-07-28
   - Zodiac
@@ -1549,3 +1549,28 @@ data:
   - Fleabag
   - Pokerogue
   - The Only Rule Is That It Has To Work
+- date: 2025-08-02
+  - Fleabag
+  - The Only Rule Is That It Has To Work
+- date: 2025-08-03
+  - Fleabag
+  - The Only Rule Is That It Has To Work
+- date: 2025-08-04
+  - Fleabag
+  - The Only Rule Is That It Has To Work
+  - Pokerogue
+- date: 2025-08-05
+  - The Fugitive
+- date: 2025-08-15
+  - The Only Rule Is That It Has To Work
+  - Pokerogue
+- date: 2025-08-15
+  - The Only Rule Is That It Has To Work
+  - The City And Its Uncertain Walls
+  - Pokerogue
+- date: 2025-08-17
+  - The City And Its Uncertain Walls
+  - STAR LINE
+- date: 2025-08-18
+  - The City And Its Uncertain Walls
+  - Pokerogue
