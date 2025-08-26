@@ -1588,3 +1588,6 @@ data:
 - date: 2025-08-23
   - The City And Its Uncertain Walls
   - Pokerogue
+- date: 2025-08-24
+  - The City And Its Uncertain Walls
+  - Pokerogue
