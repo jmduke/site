@@ -1591,3 +1591,26 @@ data:
 - date: 2025-08-24
   - The City And Its Uncertain Walls
   - Pokerogue
+- date: 2025-08-25
+  - The City And Its Uncertain Walls
+  - Broadcast News
+- date: 2025-08-26
+  - Election
+- date: 2025-08-27
+  - Election
+  - The City And Its Uncertain Walls
+  - Pokerogue
+- date: 2025-08-28
+  - The City And Its Uncertain Walls
+- date: 2025-08-29
+- date: 2025-08-30
+  - Pokerogue
+- date: 2025-08-31
+  - Pokerogue
+  - Taskmaster
+- date: 2025-09-01
+  - The City And Its Uncertain Walls
+  - Pokerogue
+- date: 2025-09-02
+- date: 2025-09-03
+  - Poor Things
