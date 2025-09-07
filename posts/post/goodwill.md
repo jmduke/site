@@ -16,10 +16,10 @@ A major vendor that I rely on has had three major incidents this week. If you we
 
 ---
 
-In [[Naughtiness]], I wrote:
+In [Naughtiness](/posts/post/naughtiness), I wrote:
 
 > Customer goodwill is a real asset; it is one that will probably become _more_ valuable over the next decade, as other software-shaped assets start to become devalued. It feels almost anodyne to say "it is in a company's best interest to do right by their customers", but our low churn and high unpaid growth in a space uniquely defined by lack of vendor lock-in is perhaps a sign that being nice is an undervalued strategy. And "being nice" in a meaningful sense is, like "being naughty", something that gets baked into an organization's culture very early and very deeply.
 
-When thinking about this vendor — and the process, which now feels inevitable, of having to shop around for a replacement — I am reminded of this. Little grace notes and positive interactions build up a war chest of goodwill that can be drawn upon to offset bad days. Good will is finite and must be constantly replenished; it will save you from the blowback of one or two things but not, say, five. 
+When thinking about this vendor — and the process, which now feels inevitable, of having to shop around for a replacement — I am reminded of this. Little grace notes and positive interactions build up a war chest of goodwill that can be drawn upon to offset bad days. Good will is finite and must be constantly replenished; it will save you from the blowback of one or two things but not, say, five.
 
 People talk about AI-enhanced support largely through the lens of efficiency: support is a cost center, here is a way to reduce those costs. Setting aside the obvious flaws (I have thoughts for another essay on that!), I reject the underlying frame because _customer support is a profit center_. Trying to outsource the function (whether to an AI or whomever) is not dissimilar to trying to outsource pricing or positioning: if you're comfortable giving up one of the key ways you interact with users and deliver differentiated value, you better have a really good reason.

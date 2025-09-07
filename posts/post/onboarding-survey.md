@@ -16,7 +16,7 @@ It's a simple survey meant to scissor our customer base twice, into what seemed 
 The goal of these things vary from organization to organization. Our goals are twofold:
 
 1. Better tailor documentation / lifecycle emails / empty states / etc. based on the information provided.
-2. (And this is kind of the embarrassing one) unironically _better know the customer base_. Buttondown's grown a lot; I know longer have the touch-feel sense of who every customer is, and I am routinely surprised by who is using us and to what end. We have some existential questions to answer about where we want to start building up our infrastructure, and who out of our increasingly diverse customer base is going to be (relatively speaking) marginal to our plans.
+2. (And this is kind of the embarrassing one) unironically _better know the customer base_. Buttondown's grown a lot; I no longer have the touch-feel sense of who every customer is, and I am routinely surprised by who is using us and to what end. We have some existential questions to answer about where we want to start building up our infrastructure, and who out of our increasingly diverse customer base is going to be (relatively speaking) marginal to our plans.
 
 ---
 
