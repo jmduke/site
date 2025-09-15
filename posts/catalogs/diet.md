@@ -1631,3 +1631,13 @@ data:
   - Pokerogue
   - Vineland
   - All Systems Red
+- date: 2025-09-09
+- date: 2025-09-10
+- date: 2025-09-11
+- date: 2025-09-12
+- date: 2025-09-13
+  - All Systems Red
+  - Pokemon Unbound
+- date: 2025-09-14
+  - Pokerogue
+  - Vineland

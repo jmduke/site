@@ -27,6 +27,7 @@ date: "2024-02-10"
 - [The Configuration Complexity Clock (2012)](https://mikehadlow.blogspot.com/2012/05/configuration-complexity-clock.html)
 - [JSX Over The Wire (2025)](https://overreacted.io/jsx-over-the-wire/)
 - [The Clean Screen Habit (2016)](https://inessential.com/2016/06/03/the_clean_screen_habit.html)
+- [Behind the scenes of bun install (2025)](https://bun.com/blog/behind-the-scenes-of-bun-install)
 
 ## Productivity
 
