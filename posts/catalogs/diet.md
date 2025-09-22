@@ -1642,3 +1642,15 @@ data:
   - Pokerogue
   - Vineland
 - date: 2025-09-15
+- date: 2025-09-16
+- date: 2025-09-17
+  - Long Story Short
+- date: 2025-09-18
+  - Long Story Short
+  - Yield
+- date: 2025-09-19
+  - Yield
+- date: 2025-09-20
+  - Pokerogue
+- date: 2025-09-21
+  - Yield

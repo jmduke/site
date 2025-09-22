@@ -49,6 +49,7 @@ date: "2024-02-10"
 - [Safe rules (2023)](https://anthonyhobday.com/sideprojects/saferules/)
 - [Family Values (2024)](https://benji.org/family-values)
 - [Sanding UI (2024)](https://blog.jim-nielsen.com/2024/sanding-ui/)
+- [Guideliens (2025)](https://vercel.com/design/guidelines#keyboard-works-everywhere)
 
 ## Marketing
 
