@@ -1654,3 +1654,6 @@ data:
   - Pokerogue
 - date: 2025-09-21
   - Yield
+- date: 2025-10-01
+  - Realm Grinder
+- Yield!
