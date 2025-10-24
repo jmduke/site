@@ -1716,3 +1716,17 @@ data:
 - date: 2025-10-14
   - Home Quest
   - Taskmaster
+- date: 2025-10-15
+  - Home Quest
+- date: 2025-10-16
+  - Taskmaster
+- date: 2025-10-17
+  - Breakneck
+- date: 2025-10-18
+  - Slow Horses
+  - Breakneck
+- date: 2025-10-19
+  - Breakneck
+  - Manhattan Murder Mystery
+- date: 2025-10-20
+  - Spy Game
