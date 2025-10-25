@@ -1730,3 +1730,10 @@ data:
   - Manhattan Murder Mystery
 - date: 2025-10-20
   - Spy Game
+- date: 2025-10-21
+  - Long Live the Post Horn!
+- date: 2025-10-22
+  - Fracture
+- date: 2025-10-23
+  - Long Live the Post Horn!
+  - Slow Horses
