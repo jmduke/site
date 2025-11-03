@@ -1749,3 +1749,7 @@ data:
   - Long Live the Post Horn!
 - date: 2025-10-29
 - date: 2025-10-30
+- date: 2025-10-31
+  - Slow Horses
+- date: 2025-11-01
+  - Pokerogue
