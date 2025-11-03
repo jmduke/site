@@ -1,8 +1,3 @@
----
-title: ""
-tags: post
----
-
 [Paul's excellent review of GPT-5](https://aboard.com/desperately-seeking-software/) has stuck in my head ever since I read it, in particular this passage:
 
 > ChatGPT 5 is an incrementally better, higher-quality experience than its predecessors, and it lets you use an LLM in many different ways. But as a piece of software, it’s absolutely bananas how busted it is—and I think we’ve all gone so far down the rabbit hole that we’re not seeing it. It’s like Windows Vista, or Apple in the era of MacOS 9/Taligent: Huge efforts that ultimately required big reboots (or acquisitions) to move Microsoft and Apple forward.
