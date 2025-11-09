@@ -1737,7 +1737,7 @@ data:
 - date: 2025-10-23
   - Long Live the Post Horn!
   - Slow Horses
-- date: 2025-10-24
+- date: 2025-10-24w
   - Long Live the Post Horn!
 - date: 2025-10-25
   - Long Live the Post Horn!
@@ -1753,3 +1753,14 @@ data:
   - Slow Horses
 - date: 2025-11-01
   - Pokerogue
+- date: 2025-11-02
+  - Long Live the Post Horn!
+  - The Phoenician Scheme
+  - caroline 2
+  - Pokerogue
+- date: 2025-11-03
+  - The Phoenician Scheme
+- date: 2025-11-04
+  - Long Live the Post Horn!
+- date: 2025-11-08
+  - One Month In The Country
