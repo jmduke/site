@@ -1,3 +1,0 @@
-/posts/microblog/*  /posts/post/:splat
-/media/*  /posts/post/:splat
-/posts/essays/*  /posts/post/:splat

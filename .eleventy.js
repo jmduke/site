@@ -11,7 +11,6 @@ const STATIC_FILES = [
   "scripts",
   "favicon.ico",
   "styles",
-  "_redirects",
 ];
 
 export default function (eleventyConfig) {
